@@ -1,231 +1,158 @@
 # pandas-basics-project
-# Basic Python Project — Shopping Data Exploration & Cleaning
 
-A beginner-friendly Python project that demonstrates how to load, explore, clean, and analyse a real e-commerce shopping dataset using **Pandas** in Google Colab.
+#  Shopping Data Exploration & Cleaning using Pandas
 
----
-
-##  Project Objective
-
-Learn Python basics and perform data exploration and cleaning using the Pandas library on a real-world Kaggle shopping dataset.
+A beginner-friendly Python project focused on **data exploration, cleaning, and preprocessing** using a real-world e-commerce shopping dataset from Kaggle. This project demonstrates essential **Pandas operations**, data handling techniques, and preprocessing workflows in **Google Colab**.
 
 ---
 
-##  Project Files
+##  Project Overview
 
-| File | Description |
-|------|-------------|
-| `Shopping_Data_Exploration_Cleaning.ipynb` | Main Jupyter Notebook with all steps |
-| `dresses.csv` | Raw dataset downloaded from Kaggle |
-| `shopping_cleaned.csv` | Final cleaned dataset (output) |
-| `README.md` | Project documentation (this file) |
+This project was created to practice the fundamentals of **Python for Data Analysis** by working with a real shopping dataset. The notebook covers the complete workflow from loading raw CSV data to generating a cleaned dataset ready for analysis.
 
 ---
 
-##  Dataset
+## Features & Tasks Performed
 
-- **Source:** [Kaggle — Shopping Dataset by Anvitkumar](https://www.kaggle.com/datasets/anvitkumar/shopping-dataset)
-- **Description:** E-commerce product listings with prices, ratings, seller info, discounts, and categories
-
-### Columns in the Dataset
-
-| Column | Type | Description |
-|--------|------|-------------|
-| `product_id` | int | Unique product identifier |
-| `title` | text | Product name |
-| `product_description` | text | Full product description |
-| `rating` | float | Average customer rating (0–5) |
-| `ratings_count` | int | Number of customer ratings |
-| `initial_price` | float | Original price before discount |
-| `discount` | float | Discount amount (0 if no discount) |
-| `final_price` | float | Price after discount applied |
-| `currency` | text | Currency of the price |
-| `category` | text | Product category |
-| `seller_name` | text | Name of the seller |
-| `seller_information` | text | Seller details |
-| `sizes` | text | Available sizes |
-| `variations` | text | Product variations |
-| `what_customers_said` | text | Customer review snippets |
-| `videos` | text | Product video links |
-| `images` | text | Product image links |
-| `best_offer` | text | Best offer available |
-| `more_offers` | text | Additional offers |
-| `delivery_options` | text | Shipping/delivery info |
-| `breadcrumbs` | text | Navigation path on website |
-| `product_details` | text | Extra product details |
-| `product_specifications` | text | Technical specifications |
-| `amount_of_stars` | text | Star breakdown |
+- Loaded and explored a real-world e-commerce dataset
+- Performed dataset inspection and statistical analysis
+- Identified and handled missing values
+- Cleaned inconsistent text-based price data
+- Converted columns into appropriate data types
+- Filtered rows based on conditions
+- Selected and manipulated important columns
+- Removed duplicate records
+- Created derived/calculated columns
+- Exported the cleaned dataset into CSV format
 
 ---
 
-## 🛠️ Tools & Libraries Used
+## Technologies Used
 
-| Tool | Purpose |
-|------|---------|
-| Python 3 | Programming language |
-| Pandas | Data manipulation and cleaning |
-| NumPy | Numerical operations |
-| Google Colab | Cloud-based notebook environment |
+| Technology | Purpose |
+|------------|---------|
+| Python 3 | Programming Language |
+| Pandas | Data Analysis & Cleaning |
+| NumPy | Numerical Operations |
+| Google Colab | Development Environment |
+| Kaggle Dataset | Data Source |
 
+---
 
+##  Project Structure
 
-## Steps Covered in the Notebook
+```bash
+pandas-basics-project/
+│
+├── Shopping_Data_Exploration_Cleaning.ipynb
+├── dresses.csv
+├── shopping_cleaned.csv
+└── README.md
+```
 
-### Step 0 — Import Libraries
+---
+
+##  Dataset Information
+
+- **Dataset Source:** Kaggle Shopping Dataset
+- **Type:** E-commerce Product Listings
+- **Contains:** Product details, ratings, prices, discounts, seller information, categories, and reviews
+
+### Example Dataset Columns
+
+- Product ID
+- Product Title
+- Ratings
+- Final Price
+- Discount
+- Seller Name
+- Category
+- Product Description
+
+---
+
+## 📖 Steps Covered
+
+### 1️⃣ Import Libraries
+Imported required libraries such as:
 ```python
 import pandas as pd
 import numpy as np
 ```
-Load the tools needed before starting any work.
 
----
+### 2️⃣ Load Dataset
+Loaded CSV dataset into a Pandas DataFrame.
 
-### Step 1 — Load the Dataset
-```python
-df = pd.read_csv('shopping_dataset.csv')
-```
-Read the CSV file into a Pandas DataFrame (a table with rows and columns).
+### 3️⃣ Data Exploration
+Used:
+- `head()`
+- `tail()`
+- `shape`
+- `dtypes`
+- `describe()`
 
----
+to understand the dataset structure and statistics.
 
-### Step 2 — Explore the Data
-```python
-df.head()        # First 5 rows
-df.tail()        # Last 5 rows
-df.shape         # Number of rows and columns
-df.dtypes        # Data type of each column
-df.describe()    # Statistical summary
-```
-Get familiar with the dataset — its size, structure, and basic statistics.
-
----
-
-### Step 3a — Identify Missing Values
+### 4️⃣ Missing Value Handling
+- Checked null values using:
 ```python
 df.isnull().sum()
 ```
-Count how many blank/empty cells exist in each column.
+- Filled missing values using `fillna()`.
 
-**Missing values found:**
+### 5️⃣ Data Cleaning
+- Removed unwanted symbols from price columns
+- Converted text data into numeric format
+- Fixed inconsistent formatting
 
-| Column | Missing Count |
-|--------|--------------|
-| `discount` | 121 |
-| `what_customers_said` | 573 |
-| `seller_name` | 301 |
-| `seller_information` | 301 |
-| `variations` | 562 |
-| `videos` | 781 |
+### 6️⃣ Filtering & Selection
+Performed conditional filtering and selected important columns for analysis.
 
----
-
-### Step 3b — Fill Missing Values
+### 7️⃣ Duplicate Removal
+Removed duplicate rows using:
 ```python
-df['discount'] = df['discount'].fillna(0)
-df['seller_name'] = df['seller_name'].fillna('Not Available')
+df.drop_duplicates()
 ```
-Fill blank cells with sensible default values so no column has empty gaps.
 
----
-
-### Step 3c — Fix final_price Column
+### 8️⃣ Feature Engineering
+Created new calculated columns such as:
 ```python
-df['final_price'] = (df['final_price']
-                     .str.replace('"', '')
-                     .str.replace('₹', '')
-                     .str.replace(',', '')
-                     .astype(float))
+total_amount = final_price * ratings_count
 ```
-The `final_price` column was stored as text like `"₹3,995.00"`. Strip the symbols and convert to a real number so math can be done on it.
+
+### 9️⃣ Export Cleaned Dataset
+Saved the cleaned dataset into CSV format.
 
 ---
 
-### Step 4 — Filter Rows & Select Columns
-```python
-# Filter rows
-high_rated = df[df['rating'] >= 4]
-discounted = df[df['discount'] > 0]
+##  Key Pandas Concepts Used
 
-# Select columns
-selected = df[['title', 'category', 'final_price', 'rating']]
-```
-Filter the data to show only rows matching a condition, and select only the columns you need.
-
----
-
-### Step 5 — Remove Duplicates
-```python
-df = df.drop_duplicates().reset_index(drop=True)
-```
-Find and remove any rows that are exact copies of another row.
+- DataFrames
+- CSV Handling
+- Null Value Handling
+- Data Type Conversion
+- Conditional Filtering
+- Column Selection
+- Duplicate Removal
+- Feature Engineering
+- Data Exporting
 
 ---
 
-### Step 6 — Create a Derived Column
-```python
-df['total_amount'] = (df['final_price'] * df['ratings_count']).round(2)
-```
-Create a new column calculated from existing columns.
-> Note: The original task asked for `price × quantity`. Since this dataset has no `quantity` column, `ratings_count` is used as the closest equivalent representing volume.
+##  Learning Outcomes
 
----
+Through this project, I learned:
+- Real-world dataset preprocessing
+- Data cleaning workflows
+- Core Pandas functions
+- Handling inconsistent datasets
+- Performing exploratory data analysis (EDA)
 
-### Step 7 — Save the Cleaned Dataset
-```python
-df.to_csv('shopping_cleaned.csv', index=False)
 
-from google.colab import files
-files.download('shopping_cleaned.csv')
-```
-Save all your cleaned data to a new CSV file and download it.
 
----
+## 👨‍💻 Author
 
-##  Before vs After Cleaning
+**Basic Python & Pandas Learning Project**  
+Developed as a beginner-level hands-on practice project for learning data analysis and preprocessing using Python.
 
-| | Raw Dataset | Cleaned Dataset |
-|--|-------------|-----------------|
-| Missing values | 2,639 | 0 |
-| Duplicates | Present | 0 |
-| `final_price` type | Text ❌ | Number ✅|
-| Total columns | 24 | 25 |
-| New column added | — | `total_amount` ✅ |
 
----
-
-## Key Pandas Functions Learned
-
-| Function | What It Does |
-|----------|-------------|
-| `pd.read_csv()` | Load a CSV file |
-| `df.head()` / `df.tail()` | Preview first/last rows |
-| `df.shape` | Get number of rows and columns |
-| `df.dtypes` | Check data types of each column |
-| `df.describe()` | Statistical summary |
-| `df.isnull().sum()` | Count missing values |
-| `df['col'].fillna(value)` | Fill missing values |
-| `df[df['col'] > x]` | Filter rows by condition |
-| `df[['col1', 'col2']]` | Select specific columns |
-| `df.drop_duplicates()` | Remove duplicate rows |
-| `df['new_col'] = expression` | Create a new derived column |
-| `df.to_csv()` | Save DataFrame to CSV |
-
----
-
-## Common Errors & Fixes
-
-### TypeError: unsupported operand type — 'int' and 'str'
-**Cause:** Trying to do math on a text column (e.g. `"₹3,995.00"`)
-**Fix:** Strip symbols and convert to float using `.str.replace()` and `.astype(float)`
-
-### ValueError: could not convert string to float
-**Cause:** Hidden quote characters inside the string (e.g. `'"3995.00"`)
-**Fix:** Add `.str.replace('"', '')` before `.astype(float)`
-
----
-
-##  Author
-
-**Project:** Basic Python & Pandas Learning Project
-**Dataset:** [Kaggle — Shopping Dataset](https://www.kaggle.com/datasets/anvitkumar/shopping-dataset)
-**Environment:** Google Colab (Python 3)
