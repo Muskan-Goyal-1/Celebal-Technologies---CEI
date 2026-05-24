@@ -150,7 +150,7 @@ Through this project, I learned:
 
 
 
-## 👨‍💻 Author
+##  Author
 
 **Basic Python & Pandas Learning Project**  
 Developed as a beginner-level hands-on practice project for learning data analysis and preprocessing using Python.
