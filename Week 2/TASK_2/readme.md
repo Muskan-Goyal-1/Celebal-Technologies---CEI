@@ -117,7 +117,7 @@ Products
 ```bash
 .
 ├── ecommerce_sales_database.sql
-├── answers.md
+├── Queries and answers.md
 └── README.md
 ```
 
