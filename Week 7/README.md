@@ -11,13 +11,6 @@ This project uses a customer-dimension dataset with the same schema as the
 (`CustomerID`, `CustomerName`, `Segment`, `Country`, `City`, `State`, `PostalCode`,
 `Region`).
 
-> **Note:** `data/customer_master.csv` and `data/customer_incremental.csv` in this
-> repo are a small, synthetic sample built to the same column schema (32 + 12 rows),
-> since the assignment is about the Delta Lake mechanics rather than the specific
-> row values. To use the real dataset, download `train.csv` from the Kaggle link
-> above, extract the customer-related columns listed, and replace
-> `data/customer_master.csv` (keeping the same column names) — no notebook code
-> changes are needed.
 
 ## Project Structure
 ```
@@ -39,7 +32,7 @@ delta-lake-assignment/
 │   └── final_output/
 │
 ├── report/
-│   └── assignment_summary.pdf (optional)
+│   └── assignment_summary.pdf 
 │
 └── README.md
 ```
@@ -75,12 +68,6 @@ jupyter notebook notebooks/delta_scd_assignment.ipynb
 The notebook's setup cell uses `delta.configure_spark_with_delta_pip(...)` so no
 extra Spark configuration is needed locally.
 
-## Screenshots
-As you run the notebook, take a screenshot at each `📸 SCREENSHOT →` checkpoint
-marked in a markdown cell and save it into the matching subfolder under
-`screenshots/`, using the suggested filename in that checkpoint. This keeps the
-repo organized by pipeline stage (loading → cleaning → SCD1 merge → SCD2 merge →
-validation → final output).
 
 ## Summary
 Delta Lake's `MERGE INTO` makes incremental (upsert) loading a single declarative
