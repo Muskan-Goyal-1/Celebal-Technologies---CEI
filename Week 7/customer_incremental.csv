@@ -1,0 +1,13 @@
+CustomerID,CustomerName,Segment,Country,City,State,PostalCode,Region
+CG-12001,Bella Cortez,Consumer,United States,Miami,Florida,33101,South
+CG-12004,Ethan Foster,Home Office,United States,New York City,New York,10001,East
+CG-12007,Hannah Iyer,Consumer,United States,New York City,New York,10001,East
+CG-12014,Oscar Patel,Consumer,United States,Los Angeles,California,90001,West
+CG-12019,Tara Vega,Consumer,United States,Houston,Texas,77001,Central
+CG-12025,Fiona Gupta,Home Office,United States,Miami,Florida,33101,South
+CG-12031,Laura Mehta,Corporate,United States,Atlanta,Georgia,30301,South
+CG-12032,Mohammed Nguyen,Home Office,United States,Los Angeles,California,90001,West
+CG-12033,Nina Owens,Consumer,United States,Boston,Massachusetts,02108,East
+CG-12034,Oscar Patel,Corporate,United States,Houston,Texas,77001,Central
+CG-12035,Priya Quinn,Home Office,United States,Atlanta,Georgia,30301,South
+CG-12036,Quentin Reddy,Consumer,United States,Los Angeles,California,90001,West
