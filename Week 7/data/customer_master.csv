@@ -1,0 +1,33 @@
+CustomerID,CustomerName,Segment,Country,City,State,PostalCode,Region
+CG-12001,Bella Cortez,Corporate,United States,Boston,Massachusetts,02108,East
+CG-12002,Carlos Diaz,Home Office,United States,Houston,Texas,77001,Central
+CG-12003,Diana Evans,Consumer,United States,Atlanta,Georgia,30301,South
+CG-12004,Ethan Foster,Corporate,United States,Los Angeles,California,90001,West
+CG-12005,Fiona Gupta,Home Office,United States,Boston,Massachusetts,02108,East
+CG-12006,George Hayes,Consumer,United States,,Texas,77001,Central
+CG-12007,Hannah Iyer,Corporate,United States,Atlanta,Georgia,30301,South
+CG-12008,Ivan Jones,Home Office,United States,Los Angeles,California,90001,West
+CG-12009,Julia Khan,Consumer,United States,Boston,Massachusetts,02108,East
+CG-12010,Kevin Lopez,Corporate,United States,Houston,Texas,77001,Central
+CG-12011,Laura Mehta,Home Office,United States,Atlanta,Georgia,30301,South
+CG-12012,Mohammed Nguyen,Consumer,United States,Los Angeles,California,90001,West
+CG-12013,Nina Owens,Corporate,United States,Boston,Massachusetts,,East
+CG-12014,Oscar Patel,Home Office,United States,Houston,Texas,77001,Central
+CG-12015,Priya Quinn,Consumer,United States,Atlanta,Georgia,30301,South
+CG-12016,Quentin Reddy,Corporate,United States,Los Angeles,California,90001,West
+CG-12017,Riya Singh,Home Office,United States,Boston,Massachusetts,02108,East
+CG-12018,Steven Turner,Consumer,United States,Houston,Texas,77001,Central
+CG-12019,Tara Vega,Corporate,United States,Atlanta,Georgia,30301,South
+CG-12020,Aaron Bennett,Home Office,United States,Los Angeles,California,90001,West
+CG-12021,Bella Cortez,,United States,Boston,Massachusetts,02108,East
+CG-12022,Carlos Diaz,Corporate,United States,Houston,Texas,77001,Central
+CG-12023,Diana Evans,Home Office,United States,Atlanta,Georgia,30301,South
+CG-12024,Ethan Foster,Consumer,United States,Los Angeles,California,90001,West
+CG-12025,Fiona Gupta,Corporate,United States,Boston,Massachusetts,02108,East
+CG-12026,George Hayes,Home Office,United States,Houston,Texas,77001,Central
+CG-12027,Hannah Iyer,Consumer,United States,Atlanta,Georgia,30301,South
+CG-12028,Ivan Jones,Corporate,United States,Los Angeles,California,90001,West
+CG-12029,Julia Khan,Home Office,United States,Boston,Massachusetts,02108,East
+CG-12030,Kevin Lopez,Consumer,United States,Houston,Texas,77001,Central
+CG-12004,Ethan Foster,Corporate,United States,Los Angeles,California,90001,West
+CG-12011,Laura Mehta,Home Office,United States,Atlanta,Georgia,30301,South
