@@ -1,0 +1,22 @@
+
+=== Report: revenue (limit=15) ===
+
++---------------+-------------------+-----------+-----------------+---------------+
+|   customer_id | name              | segment   |   total_revenue |   order_count |
+|---------------+-------------------+-----------+-----------------+---------------|
+|           418 | Vicki Richard     | VIP       |        28094.10 |             7 |
+|           151 | Angela Lin        | Regular   |        24510.43 |             6 |
+|           337 | Dean Edwards      | Premium   |        23383.95 |             7 |
+|           326 | Amy Villarreal    | Premium   |        23103.73 |             7 |
+|            62 | Jesse Rogers      | Regular   |        22464.15 |             7 |
+|           189 | Richard Johnson   | VIP       |        21893.36 |             5 |
+|           100 | Marissa Hernandez | Regular   |        21301.85 |             5 |
+|           381 | Annette Melton    | VIP       |        21104.73 |             6 |
+|            91 | Robin Pierce      | Regular   |        20636.54 |             5 |
+|           295 | Jennifer Vasquez  | Regular   |        19761.80 |             7 |
+|            57 | Daniel Perry      | Regular   |        19345.60 |             6 |
+|           213 | Kristina Bolton   | Premium   |        19237.40 |             4 |
+|            76 | Cathy Robinson    | Regular   |        19216.48 |             6 |
+|            40 | Tim Patton        | VIP       |        19190.27 |             5 |
+|            32 | Sherry Wood       | Premium   |        18620.70 |             5 |
++---------------+-------------------+-----------+-----------------+---------------+
