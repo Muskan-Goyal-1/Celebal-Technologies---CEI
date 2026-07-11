@@ -1,0 +1,17 @@
+
+=== Report: top_products (limit=10) ===
+
++--------------+------------------------------------------+----------------+-----------------------+-----------------+
+|   product_id | product_name                             | category       |   total_quantity_sold |   total_revenue |
+|--------------+------------------------------------------+----------------+-----------------------+-----------------|
+|           51 | Innovative eco-centric open architecture | Books          |                   125 |        35138.95 |
+|          118 | Optional hybrid encryption               | Books          |                   110 |        34849.85 |
+|           19 | Intuitive modular orchestration          | Grocery        |                   118 |        34410.29 |
+|           22 | Object-based directional system engine   | Home & Kitchen |                   128 |        34224.38 |
+|           45 | Multi-tiered dedicated circuit           | Grocery        |                   136 |        33157.93 |
+|           15 | Configurable systematic protocol         | Toys           |                   110 |        32857.67 |
+|           70 | Sharable global instruction set          | Home & Kitchen |                   121 |        32782.40 |
+|           36 | Mandatory high-level contingency         | Home & Kitchen |                   114 |        32616.94 |
+|           17 | Virtual needs-based analyzer             | Grocery        |                   135 |        31707.71 |
+|            2 | Total empowering encryption              | Grocery        |                   109 |        31395.76 |
++--------------+------------------------------------------+----------------+-----------------------+-----------------+
