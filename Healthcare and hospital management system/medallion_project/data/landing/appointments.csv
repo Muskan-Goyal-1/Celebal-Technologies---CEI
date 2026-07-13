@@ -1,0 +1,1501 @@
+appointment_id,patient_id,doctor_id,doctor_name,department,appointment_date,appointment_time,duration_minutes,status,visit_type,patient_satisfaction_score,admit_date,discharge_date
+APT000001,PT00129,DOC013,Joseph Jackson,General Medicine,2025-07-07,15:15,60,Completed,Emergency,75,,
+APT000002,PT00018,DOC007,James Williams,Oncology,2025-08-18,12:30,60,Completed,Outpatient,90,,
+APT000003,PT00082,DOC021,Barbara Martin,Neurology,2025-07-22,12:45,15,Completed,Emergency,93,,
+APT000004,PT00153,DOC007,James Williams,Emergency,2025-07-27,09:15,0,No-Show,Outpatient,,,
+APT000005,PT00223,DOC011,Michael Moore,Cardiology,2025-09-24,11:00,60,Completed,Emergency,67,,
+APT000006,PT00022,DOC019,Robert Gonzalez,General Medicine,2026-03-01,11:15,15,Completed,Outpatient,83,,
+APT000007,PT00256,DOC003,Linda Jones,Neurology,2025-12-21,08:30,15,Cancelled,Emergency,,,
+APT000008,PT00079,DOC023,Joseph Moore,Pediatrics,2025-08-24,15:15,45,Completed,Outpatient,80,,
+APT000009,PT00011,DOC023,Joseph Moore,Oncology,2025-12-31,16:30,60,Completed,Inpatient,62,2025-12-31,2026-01-08
+APT000010,PT00251,DOC007,James Williams,Pediatrics,2025-10-04,09:15,30,Completed,Inpatient,89,2025-10-04,2025-10-09
+APT000011,PT00135,DOC018,William Brown,Emergency,2026-02-18,10:00,60,Completed,Emergency,92,,
+APT000012,PT00187,DOC025,Robert Moore,Pediatrics,2025-10-31,11:45,60,Completed,Outpatient,94,,
+APT000013,PT00283,DOC005,Robert Jackson,Pediatrics,2025-11-22,09:00,15,Completed,Emergency,80,,
+APT000014,PT00023,DOC005,Robert Jackson,Orthopedics,2025-07-17,17:45,15,Completed,Inpatient,72,2025-07-17,2025-07-19
+APT000015,PT00270,DOC020,Patricia Lopez,Neurology,2025-11-09,08:15,15,Completed,Outpatient,98,,
+APT000016,PT00252,DOC003,Linda Jones,Oncology,2025-08-01,08:30,45,Completed,Emergency,86,,
+APT000017,PT00271,DOC002,David Davis,Neurology,2025-08-06,11:00,0,No-Show,Outpatient,,,
+APT000018,PT00052,DOC024,Patricia Gonzalez,Orthopedics,2026-03-30,17:15,30,Completed,Outpatient,93,,
+APT000019,PT00286,DOC024,Patricia Gonzalez,Pediatrics,2026-01-29,15:45,45,Completed,Emergency,96,,
+APT000020,PT00054,DOC006,Susan Johnson,General Medicine,2025-10-01,16:45,30,Completed,Emergency,81,,
+APT000021,PT00181,DOC011,Michael Moore,Pediatrics,2025-12-14,13:15,0,No-Show,Inpatient,,2025-12-14,2025-12-21
+APT000022,PT00110,DOC013,Joseph Jackson,General Medicine,2025-11-08,08:30,15,Completed,Inpatient,88,2025-11-08,2025-11-15
+APT000023,PT00266,DOC005,Robert Jackson,Emergency,2025-07-04,08:30,45,Completed,Outpatient,73,,
+APT000024,PT00284,DOC017,John Miller,Pediatrics,2025-09-18,12:30,30,Completed,Inpatient,82,2025-09-18,2025-09-21
+APT000025,PT00128,DOC008,Michael Davis,Emergency,2025-12-01,13:45,15,Completed,Inpatient,96,2025-12-01,2025-12-05
+APT000026,PT00296,DOC004,Patricia Moore,Pediatrics,2025-12-01,08:30,15,Completed,Emergency,84,,
+APT000027,PT00179,DOC014,David Smith,Oncology,2025-08-31,17:00,0,No-Show,Outpatient,,,
+APT000028,PT00196,DOC002,David Davis,Emergency,2026-03-26,13:15,30,Completed,Emergency,96,,
+APT000029,PT00079,DOC002,David Davis,Neurology,2026-01-18,11:45,15,Cancelled,Emergency,,,
+APT000030,PT00149,DOC013,Joseph Jackson,Orthopedics,2025-09-06,12:00,60,Completed,Inpatient,96,2025-09-06,2025-09-07
+APT000031,PT00223,DOC025,Robert Moore,Neurology,2025-09-05,14:15,60,Completed,Inpatient,95,2025-09-05,2025-09-09
+APT000032,PT00269,DOC008,Michael Davis,Orthopedics,2025-08-06,14:45,15,Completed,Inpatient,80,2025-08-06,2025-08-08
+APT000033,PT00098,DOC011,Michael Moore,Emergency,2025-07-13,17:15,60,Completed,Outpatient,82,,
+APT000034,PT00226,DOC002,David Davis,General Medicine,2025-10-28,08:15,15,Completed,Inpatient,69,2025-10-28,2025-10-30
+APT000035,PT00076,DOC010,James Moore,Cardiology,2025-12-23,15:00,60,Completed,Outpatient,79,,
+APT000036,PT00170,DOC007,James Williams,Neurology,2025-10-17,17:15,60,Completed,Emergency,76,,
+APT000037,PT00010,DOC013,Joseph Jackson,Pediatrics,2026-03-27,11:30,45,Completed,Outpatient,63,,
+APT000038,PT00028,DOC015,Jennifer Wilson,Neurology,2025-07-05,09:00,45,Completed,Emergency,77,,
+APT000039,PT00150,DOC021,Barbara Martin,Oncology,2025-10-27,13:45,15,Cancelled,Emergency,,,
+APT000040,PT00273,DOC003,Linda Jones,Orthopedics,2025-10-10,11:30,15,Completed,Inpatient,95,2025-10-10,2025-10-11
+APT000041,PT00202,DOC024,Patricia Gonzalez,Orthopedics,2025-07-10,16:30,30,Completed,Inpatient,82,2025-07-10,2025-07-15
+APT000042,PT00132,DOC013,Joseph Jackson,General Medicine,2025-07-16,13:45,30,Cancelled,Inpatient,,2025-07-16,2025-07-20
+APT000043,PT00045,DOC024,Patricia Gonzalez,Oncology,2026-03-24,14:15,30,Cancelled,Emergency,,,
+APT000044,PT00294,DOC005,Robert Jackson,Oncology,2025-12-07,16:15,0,No-Show,Inpatient,,2025-12-07,2025-12-15
+APT000045,PT00071,DOC019,Robert Gonzalez,Pediatrics,2025-10-12,10:45,0,No-Show,Inpatient,,2025-10-12,2025-10-21
+APT000046,PT00075,DOC021,Barbara Martin,Pediatrics,2025-09-19,10:30,15,Completed,Emergency,94,,
+APT000047,PT00075,DOC024,Patricia Gonzalez,Cardiology,2025-12-11,12:45,0,No-Show,Inpatient,,2025-12-11,2025-12-18
+APT000048,PT00141,DOC005,Robert Jackson,General Medicine,2025-10-05,17:15,45,Completed,Outpatient,61,,
+APT000049,PT00119,DOC008,Michael Davis,Neurology,2025-07-14,16:45,30,Completed,Emergency,90,,
+APT000050,PT00192,DOC006,Susan Johnson,General Medicine,2026-01-15,11:00,30,Completed,Outpatient,70,,
+APT000051,PT00210,DOC025,Robert Moore,Cardiology,2025-11-16,11:00,30,Cancelled,Outpatient,,,
+APT000052,PT00091,DOC015,Jennifer Wilson,General Medicine,2026-03-08,08:45,60,Completed,Inpatient,75,2026-03-08,2026-03-15
+APT000053,PT00202,DOC020,Patricia Lopez,Neurology,2026-04-01,15:45,15,Completed,Emergency,62,,
+APT000054,PT00022,DOC008,Michael Davis,Pediatrics,2026-01-19,16:00,60,Cancelled,Outpatient,,,
+APT000055,PT00098,DOC010,James Moore,Oncology,2026-01-20,10:45,0,No-Show,Inpatient,,2026-01-20,2026-01-28
+APT000056,PT00028,DOC023,Joseph Moore,Pediatrics,2025-09-11,16:00,15,Completed,Emergency,88,,
+APT000057,PT00093,DOC025,Robert Moore,Pediatrics,2025-09-08,15:15,30,Completed,Inpatient,88,2025-09-08,2025-09-09
+APT000058,PT00047,DOC009,Thomas Martin,Emergency,2025-09-22,15:30,15,Completed,Outpatient,65,,
+APT000059,PT00044,DOC017,John Miller,Neurology,2026-01-13,14:45,30,Completed,Emergency,99,,
+APT000060,PT00023,DOC025,Robert Moore,Orthopedics,2025-12-19,10:15,30,Completed,Emergency,69,,
+APT000061,PT00027,DOC014,David Smith,Emergency,2025-12-06,10:15,15,Completed,Inpatient,78,2025-12-06,2025-12-04
+APT000062,PT00130,DOC001,Patricia Smith,Oncology,2026-03-12,08:45,0,No-Show,Emergency,,,
+APT000063,PT00122,DOC007,James Williams,Pediatrics,2026-03-01,16:30,30,Completed,Inpatient,65,2026-03-01,2026-03-02
+APT000064,PT00286,DOC007,James Williams,Cardiology,2025-10-03,10:00,15,Completed,Emergency,82,,
+APT000065,PT00296,DOC020,Patricia Lopez,Emergency,2025-12-17,14:15,15,Cancelled,Outpatient,,,
+APT000066,PT00083,DOC022,David Johnson,Emergency,2025-09-29,08:00,45,Cancelled,Emergency,,,
+APT000067,PT00154,DOC011,Michael Moore,Emergency,2026-01-11,09:30,0,No-Show,Inpatient,,2026-01-11,2026-01-20
+APT000068,PT00063,DOC023,Joseph Moore,General Medicine,2025-11-18,17:00,30,Completed,Inpatient,93,2025-11-18,2025-11-22
+APT000069,PT00271,DOC003,Linda Jones,Oncology,2025-11-25,10:45,45,Completed,Inpatient,76,2025-11-25,2025-12-04
+APT000070,PT00255,DOC016,William Rodriguez,General Medicine,2025-10-01,12:15,0,No-Show,Outpatient,,,
+APT000071,PT00001,DOC004,Patricia Moore,Cardiology,2026-02-24,14:00,60,Completed,Outpatient,73,,
+APT000072,PT00171,DOC012,Susan Davis,Pediatrics,2025-10-17,09:30,45,Completed,Outpatient,78,,
+APT000073,PT00154,DOC017,John Miller,Pediatrics,2025-12-13,14:00,45,Completed,Outpatient,81,,
+APT000074,PT00090,DOC007,James Williams,Emergency,2025-12-21,10:45,15,Cancelled,Inpatient,,2025-12-21,2025-12-29
+APT000075,PT00236,DOC018,William Brown,Emergency,2026-02-22,17:30,45,Completed,Inpatient,63,2026-02-22,2026-03-03
+APT000076,PT00010,DOC007,James Williams,Pediatrics,2025-12-17,08:30,45,Completed,Inpatient,64,2025-12-17,2025-12-20
+APT000077,PT00274,DOC006,Susan Johnson,Pediatrics,2026-01-16,08:30,45,Completed,Outpatient,79,,
+APT000078,PT00212,DOC003,Linda Jones,Oncology,2025-10-30,10:00,45,Completed,Inpatient,73,2025-10-30,2025-11-08
+APT000079,PT00020,DOC025,Robert Moore,Orthopedics,2025-08-17,11:30,30,Completed,Outpatient,90,,
+APT000080,PT00248,DOC024,Patricia Gonzalez,General Medicine,2026-03-26,11:00,30,Completed,Inpatient,69,2026-03-26,2026-03-28
+APT000081,PT00268,DOC004,Patricia Moore,Cardiology,2025-12-07,13:45,15,Cancelled,Emergency,,,
+APT000082,PT00024,DOC004,Patricia Moore,Pediatrics,2025-12-07,11:15,45,Completed,Inpatient,100,2025-12-07,2025-12-11
+APT000083,PT00273,DOC011,Michael Moore,General Medicine,2026-02-11,09:00,45,Completed,Inpatient,69,2026-02-11,2026-02-14
+APT000084,PT00287,DOC017,John Miller,Cardiology,2025-10-14,10:30,45,Completed,Emergency,80,,
+APT000085,PT00294,DOC008,Michael Davis,Orthopedics,2025-08-06,10:00,15,Completed,Inpatient,94,2025-08-06,2025-08-14
+APT000086,PT00026,DOC004,Patricia Moore,Oncology,2025-07-28,12:30,45,Completed,Inpatient,71,2025-07-28,2025-08-05
+APT000087,PT00274,DOC003,Linda Jones,General Medicine,2026-02-24,15:30,15,Completed,Outpatient,89,,
+APT000088,PT00239,DOC016,William Rodriguez,Orthopedics,2025-10-23,14:15,45,Completed,Emergency,76,,
+APT000089,PT00170,DOC011,Michael Moore,Oncology,2026-03-07,15:15,60,Completed,Inpatient,67,2026-03-07,2026-03-13
+APT000090,PT00179,DOC020,Patricia Lopez,Pediatrics,2025-09-04,12:45,15,Completed,Inpatient,66,2025-09-04,2025-09-10
+APT000091,PT00212,DOC008,Michael Davis,Pediatrics,2025-11-02,11:45,45,Completed,Inpatient,84,2025-11-02,2025-11-04
+APT000092,PT00223,DOC019,Robert Gonzalez,General Medicine,2025-12-23,17:45,15,Completed,Outpatient,71,,
+APT000093,PT00059,DOC019,Robert Gonzalez,Pediatrics,2026-02-23,12:45,30,Completed,Outpatient,88,,
+APT000094,PT00036,DOC020,Patricia Lopez,Cardiology,2026-01-11,11:15,15,Completed,Emergency,63,,
+APT000095,PT00298,DOC025,Robert Moore,Neurology,2025-07-01,16:30,60,Completed,Emergency,69,,
+APT000096,PT00200,DOC020,Patricia Lopez,Pediatrics,2026-02-14,17:30,45,Completed,Emergency,80,,
+APT000097,PT00223,DOC023,Joseph Moore,Emergency,2025-08-15,10:30,60,Completed,Emergency,92,,
+APT000098,PT00032,DOC012,Susan Davis,Pediatrics,2025-07-28,12:00,15,Completed,Emergency,82,,
+APT000099,PT00121,DOC014,David Smith,Neurology,2026-01-18,14:45,60,Completed,Emergency,84,,
+APT000100,PT00280,DOC007,James Williams,Neurology,2025-09-27,13:45,60,Completed,Outpatient,95,,
+APT000101,PT00079,DOC010,James Moore,General Medicine,2025-09-03,15:45,30,Completed,Outpatient,61,,
+APT000102,PT00070,DOC003,Linda Jones,Orthopedics,2026-01-29,17:45,0,No-Show,Emergency,,,
+APT000103,PT00093,DOC015,Jennifer Wilson,Pediatrics,2026-02-03,10:45,30,Completed,Inpatient,84,2026-02-03,2026-02-09
+APT000104,PT00296,DOC016,William Rodriguez,General Medicine,2025-10-30,08:00,45,Completed,Inpatient,86,2025-10-30,2025-11-08
+APT000105,PT00189,DOC004,Patricia Moore,Pediatrics,2026-03-04,16:30,30,Cancelled,Outpatient,,,
+APT000106,PT00239,DOC017,John Miller,Cardiology,2026-03-25,11:45,0,No-Show,Outpatient,,,
+APT000107,PT00040,DOC022,David Johnson,Neurology,2025-12-07,15:45,60,Completed,Inpatient,94,2025-12-07,2025-12-08
+APT000108,PT00170,DOC014,David Smith,Emergency,2025-11-28,17:30,45,Completed,Outpatient,98,,
+APT000109,PT00032,DOC021,Barbara Martin,Oncology,2025-09-25,12:45,15,Completed,Emergency,78,,
+APT000110,PT00043,DOC005,Robert Jackson,Pediatrics,2025-08-09,10:30,0,No-Show,Inpatient,,2025-08-09,2025-08-14
+APT000111,PT00132,DOC001,Patricia Smith,Neurology,2025-08-27,13:15,60,Completed,Emergency,69,,
+APT000112,PT00134,DOC023,Joseph Moore,Orthopedics,2026-03-06,09:15,45,Completed,Emergency,62,,
+APT000113,PT00079,DOC016,William Rodriguez,General Medicine,2026-01-28,11:30,30,Completed,Outpatient,88,,
+APT000114,PT00028,DOC021,Barbara Martin,Emergency,2025-08-29,15:15,45,Completed,Inpatient,85,2025-08-29,2025-09-06
+APT000115,PT00200,DOC016,William Rodriguez,Emergency,2025-09-13,14:30,60,Completed,Inpatient,60,2025-09-13,2025-09-18
+APT000116,PT00022,DOC004,Patricia Moore,Pediatrics,2025-12-29,12:30,45,Cancelled,Inpatient,,2025-12-29,2026-01-03
+APT000117,PT00131,DOC021,Barbara Martin,Pediatrics,2026-01-17,16:30,30,Completed,Emergency,75,,
+APT000118,PT00093,DOC011,Michael Moore,Pediatrics,2025-07-06,09:00,60,Completed,Outpatient,60,,
+APT000119,PT00229,DOC012,Susan Davis,Orthopedics,2025-11-23,08:15,15,Completed,Outpatient,61,,
+APT000120,PT00063,DOC023,Joseph Moore,Cardiology,2025-08-14,14:15,0,No-Show,Outpatient,,,
+APT000121,PT00057,DOC023,Joseph Moore,Orthopedics,2025-11-07,12:45,60,Completed,Emergency,64,,
+APT000122,PT00166,DOC009,Thomas Martin,Orthopedics,2025-08-07,13:00,60,Completed,Outpatient,84,,
+APT000123,PT00133,DOC009,Thomas Martin,Orthopedics,2026-02-11,10:45,60,Completed,Outpatient,99,,
+APT000124,PT00056,DOC005,Robert Jackson,Pediatrics,2026-02-06,12:00,60,Completed,Emergency,66,,
+APT000125,PT00018,DOC003,Linda Jones,Cardiology,2025-11-06,08:00,30,Completed,Outpatient,91,,
+APT000126,PT00200,DOC009,Thomas Martin,Orthopedics,2025-12-16,08:45,0,No-Show,Emergency,,,
+APT000127,PT00245,DOC014,David Smith,Oncology,2025-08-05,09:30,60,Completed,Outpatient,84,,
+APT000128,PT00171,DOC022,David Johnson,Emergency,2026-01-22,16:30,45,Completed,Emergency,65,,
+APT000129,PT00042,DOC015,Jennifer Wilson,General Medicine,2025-11-26,14:15,15,Completed,Outpatient,95,,
+APT000130,PT00154,DOC023,Joseph Moore,Oncology,2025-08-24,11:15,60,Completed,Inpatient,91,2025-08-24,2025-08-26
+APT000131,PT00013,DOC024,Patricia Gonzalez,Pediatrics,2025-10-31,15:45,45,Completed,Outpatient,94,,
+APT000132,PT00009,DOC002,David Davis,Emergency,2025-07-29,09:15,60,Completed,Emergency,62,,
+APT000133,PT00268,DOC015,Jennifer Wilson,Neurology,2026-04-01,08:15,15,Completed,Emergency,74,,
+APT000134,PT00251,DOC021,Barbara Martin,Cardiology,2026-02-27,08:15,0,No-Show,Emergency,,,
+APT000135,PT00067,DOC001,Patricia Smith,Orthopedics,2025-07-26,15:15,0,No-Show,Outpatient,,,
+APT000136,PT00033,DOC004,Patricia Moore,Cardiology,2026-03-12,11:45,15,Completed,Emergency,74,,
+APT000137,PT00173,DOC024,Patricia Gonzalez,Neurology,2026-01-22,13:15,30,Completed,Emergency,96,,
+APT000138,PT00024,DOC019,Robert Gonzalez,Orthopedics,2025-12-19,13:15,30,Completed,Inpatient,69,2025-12-19,2025-12-26
+APT000139,PT00298,DOC002,David Davis,Orthopedics,2025-08-21,10:00,60,Completed,Emergency,99,,
+APT000140,PT00250,DOC003,Linda Jones,Cardiology,2025-07-04,14:45,45,Completed,Outpatient,97,,
+APT000141,PT00065,DOC007,James Williams,Orthopedics,2025-11-16,17:15,15,Completed,Inpatient,75,2025-11-16,2025-11-19
+APT000142,PT00046,DOC021,Barbara Martin,General Medicine,2025-12-02,11:00,30,Completed,Outpatient,95,,
+APT000143,PT00272,DOC004,Patricia Moore,Pediatrics,2026-01-02,16:15,0,No-Show,Emergency,,,
+APT000144,PT00238,DOC025,Robert Moore,Neurology,2025-10-15,15:45,30,Completed,Outpatient,67,,
+APT000145,PT00091,DOC006,Susan Johnson,Neurology,2025-07-23,12:30,60,Completed,Inpatient,78,2025-07-23,2025-07-27
+APT000146,PT00233,DOC002,David Davis,Cardiology,2025-07-27,08:45,30,Cancelled,Outpatient,,,
+APT000147,PT00264,DOC004,Patricia Moore,Cardiology,2025-10-29,14:15,45,Completed,Emergency,97,,
+APT000148,PT00167,DOC008,Michael Davis,General Medicine,2025-08-26,11:45,60,Completed,Outpatient,75,,
+APT000149,PT00113,DOC003,Linda Jones,Oncology,2026-03-06,10:45,60,Completed,Inpatient,69,2026-03-06,2026-03-10
+APT000150,PT00235,DOC024,Patricia Gonzalez,Orthopedics,2025-12-31,10:00,45,Cancelled,Outpatient,,,
+APT000151,PT00292,DOC002,David Davis,Emergency,2025-09-08,13:15,30,Completed,Inpatient,89,2025-09-08,2025-09-15
+APT000152,PT00081,DOC021,Barbara Martin,Pediatrics,2025-09-26,14:45,15,Completed,Emergency,74,,
+APT000153,PT00111,DOC019,Robert Gonzalez,Oncology,2026-02-22,11:30,30,Completed,Emergency,87,,
+APT000154,PT00223,DOC019,Robert Gonzalez,Orthopedics,2025-09-15,14:00,0,No-Show,Outpatient,,,
+APT000155,PT00021,DOC016,William Rodriguez,Neurology,2026-03-16,09:45,60,Completed,Emergency,85,,
+APT000156,PT00254,DOC008,Michael Davis,Cardiology,2025-07-07,12:15,45,Completed,Inpatient,73,2025-07-07,2025-07-10
+APT000157,PT00047,DOC001,Patricia Smith,Oncology,2025-12-04,15:15,60,Completed,Inpatient,96,2025-12-04,2025-12-05
+APT000158,PT00208,DOC006,Susan Johnson,General Medicine,2026-01-06,09:45,15,Completed,Emergency,100,,
+APT000159,PT00171,DOC017,John Miller,Cardiology,2025-11-29,09:30,30,Completed,Inpatient,99,2025-11-29,2025-12-08
+APT000160,PT00029,DOC017,John Miller,Neurology,2026-01-03,14:30,0,No-Show,Outpatient,,,
+APT000161,PT00239,DOC020,Patricia Lopez,Cardiology,2026-01-04,16:15,15,Completed,Emergency,95,,
+APT000162,PT00071,DOC011,Michael Moore,Orthopedics,2025-08-28,11:30,30,Completed,Emergency,97,,
+APT000163,PT00181,DOC009,Thomas Martin,Pediatrics,2026-02-02,15:45,45,Completed,Outpatient,83,,
+APT000164,PT00257,DOC017,John Miller,General Medicine,2025-09-01,15:30,45,Completed,Emergency,94,,
+APT000165,PT00034,DOC007,James Williams,Oncology,2025-08-14,09:15,15,Completed,Outpatient,78,,
+APT000166,PT00142,DOC004,Patricia Moore,Neurology,2025-09-14,12:45,15,Completed,Outpatient,93,,
+APT000167,PT00278,DOC005,Robert Jackson,Oncology,2025-12-25,11:00,45,Completed,Emergency,61,,
+APT000168,PT00012,DOC008,Michael Davis,General Medicine,2026-03-24,15:45,45,Completed,Inpatient,97,2026-03-24,2026-03-30
+APT000169,PT00291,DOC005,Robert Jackson,General Medicine,2025-12-04,12:00,45,Completed,Inpatient,74,2025-12-04,2025-12-12
+APT000170,PT00146,DOC015,Jennifer Wilson,Orthopedics,2025-09-21,10:15,30,Completed,Inpatient,71,2025-09-21,2025-09-24
+APT000171,PT00163,DOC019,Robert Gonzalez,Orthopedics,2026-02-11,13:30,15,Completed,Outpatient,73,,
+APT000172,PT00076,DOC012,Susan Davis,Oncology,2025-09-22,15:15,60,Completed,Outpatient,61,,
+APT000173,PT00235,DOC011,Michael Moore,Orthopedics,2025-07-03,12:45,45,Cancelled,Emergency,,,
+APT000174,PT00149,DOC025,Robert Moore,Pediatrics,2025-09-14,09:45,45,Completed,Emergency,88,,
+APT000175,PT00021,DOC005,Robert Jackson,Neurology,2025-08-29,13:00,60,Completed,Inpatient,99,2025-08-29,2025-09-02
+APT000176,PT00100,DOC019,Robert Gonzalez,Pediatrics,2025-10-22,16:45,15,Completed,Inpatient,72,2025-10-22,2025-10-23
+APT000177,PT00045,DOC017,John Miller,Oncology,2025-10-08,13:45,15,Completed,Emergency,98,,
+APT000178,PT00076,DOC023,Joseph Moore,General Medicine,2026-02-04,13:30,45,Completed,Inpatient,60,2026-02-04,2026-02-09
+APT000179,PT00288,DOC003,Linda Jones,Orthopedics,2026-02-13,14:45,30,Completed,Inpatient,88,2026-02-13,2026-02-18
+APT000180,PT00045,DOC005,Robert Jackson,Orthopedics,2025-12-03,17:45,15,Completed,Emergency,81,,
+APT000181,PT00046,DOC001,Patricia Smith,Oncology,2025-11-17,11:15,30,Completed,Emergency,89,,
+APT000182,PT00196,DOC010,James Moore,Pediatrics,2026-03-09,16:45,60,Completed,Inpatient,97,2026-03-09,2026-03-14
+APT000183,PT00002,DOC005,Robert Jackson,Emergency,2025-12-01,09:30,60,Cancelled,Emergency,,,
+APT000184,PT00214,DOC006,Susan Johnson,Oncology,2025-11-03,17:45,45,Completed,Inpatient,91,2025-11-03,2025-11-05
+APT000185,PT00133,DOC021,Barbara Martin,Neurology,2026-03-01,16:00,45,Cancelled,Outpatient,,,
+APT000186,PT00133,DOC006,Susan Johnson,Pediatrics,2025-07-30,08:30,30,Completed,Inpatient,68,2025-07-30,2025-08-05
+APT000187,PT00183,DOC002,David Davis,Emergency,2025-11-27,10:00,30,Completed,Outpatient,92,,
+APT000188,PT00086,DOC018,William Brown,Emergency,2025-12-09,12:30,0,No-Show,Emergency,,,
+APT000189,PT00186,DOC004,Patricia Moore,Pediatrics,2025-12-28,10:30,0,No-Show,Outpatient,,,
+APT000190,PT00191,DOC025,Robert Moore,Oncology,2026-01-27,10:15,30,Completed,Outpatient,66,,
+APT000191,PT00097,DOC018,William Brown,Pediatrics,2026-03-27,16:00,0,No-Show,Emergency,,,
+APT000192,PT00214,DOC015,Jennifer Wilson,Cardiology,2025-08-29,15:30,0,No-Show,Outpatient,,,
+APT000193,PT00160,DOC023,Joseph Moore,Emergency,2025-09-10,16:30,0,No-Show,Emergency,,,
+APT000194,PT00089,DOC023,Joseph Moore,Emergency,2025-07-15,10:15,30,Completed,Outpatient,74,,
+APT000195,PT00158,DOC005,Robert Jackson,Orthopedics,2025-09-05,08:45,15,Cancelled,Inpatient,,2025-09-05,2025-09-07
+APT000196,PT00022,DOC007,James Williams,Cardiology,2025-07-17,15:00,15,Completed,Emergency,97,,
+APT000197,PT00130,DOC002,David Davis,Cardiology,2025-12-02,17:15,30,Completed,Outpatient,67,,
+APT000198,PT00095,DOC022,David Johnson,Emergency,2025-07-15,13:15,45,Completed,Emergency,77,,
+APT000199,PT00257,DOC025,Robert Moore,Neurology,2025-11-01,16:15,15,Completed,Outpatient,66,,
+APT000200,PT00099,DOC010,James Moore,Orthopedics,2025-07-03,16:45,30,Cancelled,Outpatient,,,
+APT000201,PT00188,DOC023,Joseph Moore,Pediatrics,2025-10-03,14:45,45,Completed,Outpatient,71,,
+APT000202,PT00110,DOC017,John Miller,Orthopedics,2026-01-25,16:15,15,Completed,Inpatient,67,2026-01-25,2026-02-02
+APT000203,PT00185,DOC023,Joseph Moore,Emergency,2025-07-21,15:30,45,Completed,Inpatient,67,2025-07-21,2025-07-28
+APT000204,PT00228,DOC008,Michael Davis,Pediatrics,2026-01-25,13:15,60,Completed,Inpatient,72,2026-01-25,2026-01-23
+APT000205,PT00252,DOC022,David Johnson,Cardiology,2026-01-19,10:45,15,Completed,Emergency,65,,
+APT000206,PT00206,DOC023,Joseph Moore,Pediatrics,2025-08-22,11:30,45,Completed,Outpatient,64,,
+APT000207,PT00103,DOC020,Patricia Lopez,General Medicine,2026-01-23,14:30,45,Completed,Inpatient,91,2026-01-23,2026-01-28
+APT000208,PT00208,DOC016,William Rodriguez,Pediatrics,2025-11-20,15:45,45,Completed,Inpatient,66,2025-11-20,2025-11-22
+APT000209,PT00069,DOC001,Patricia Smith,Cardiology,2025-07-28,10:45,0,No-Show,Inpatient,,2025-07-28,2025-07-29
+APT000210,PT00168,DOC005,Robert Jackson,Emergency,2025-08-19,15:15,60,Completed,Emergency,93,,
+APT000211,PT00151,DOC022,David Johnson,Oncology,2026-03-09,08:45,15,Completed,Emergency,81,,
+APT000212,PT00061,DOC013,Joseph Jackson,Oncology,2025-12-09,08:00,0,No-Show,Inpatient,,2025-12-09,2025-12-17
+APT000213,PT00156,DOC023,Joseph Moore,Orthopedics,2026-03-09,17:45,15,Completed,Inpatient,84,2026-03-09,2026-03-17
+APT000214,PT00277,DOC019,Robert Gonzalez,Oncology,2026-03-01,14:30,15,Completed,Outpatient,92,,
+APT000215,PT00254,DOC019,Robert Gonzalez,Oncology,2025-12-28,17:00,15,Completed,Inpatient,80,2025-12-28,2025-12-29
+APT000216,PT00188,DOC012,Susan Davis,General Medicine,2025-07-14,09:45,60,Completed,Emergency,81,,
+APT000217,PT00177,DOC012,Susan Davis,Oncology,2025-12-27,12:00,30,Completed,Outpatient,75,,
+APT000218,PT00034,DOC010,James Moore,Cardiology,2025-12-20,15:45,15,Completed,Emergency,80,,
+APT000219,PT00291,DOC017,John Miller,Oncology,2025-11-14,14:45,45,Completed,Inpatient,97,2025-11-14,2025-11-15
+APT000220,PT00051,DOC016,William Rodriguez,Cardiology,2025-10-14,17:30,30,Completed,Emergency,81,,
+APT000221,PT00187,DOC014,David Smith,Orthopedics,2026-03-12,12:30,30,Completed,Outpatient,94,,
+APT000222,PT00025,DOC010,James Moore,Pediatrics,2026-01-22,09:00,0,No-Show,Emergency,,,
+APT000223,PT00173,DOC009,Thomas Martin,Cardiology,2026-03-29,12:30,15,Completed,Outpatient,82,,
+APT000224,PT00222,DOC022,David Johnson,Pediatrics,2025-12-08,16:15,60,Completed,Inpatient,76,2025-12-08,2025-12-17
+APT000225,PT00265,DOC006,Susan Johnson,Pediatrics,2026-03-13,16:45,45,Completed,Emergency,89,,
+APT000226,PT00290,DOC024,Patricia Gonzalez,Neurology,2025-07-31,10:30,30,Completed,Inpatient,89,2025-07-31,2025-08-03
+APT000227,PT00211,DOC011,Michael Moore,General Medicine,2025-08-02,12:15,30,Completed,Inpatient,77,2025-08-02,2025-08-07
+APT000228,PT00059,DOC005,Robert Jackson,Orthopedics,2025-07-15,14:00,60,Completed,Inpatient,89,2025-07-15,2025-07-23
+APT000229,PT00140,DOC005,Robert Jackson,Cardiology,2025-11-10,15:00,15,Completed,Inpatient,95,2025-11-10,2025-11-13
+APT000230,PT00043,DOC011,Michael Moore,Pediatrics,2025-11-30,09:45,0,No-Show,Inpatient,,2025-11-30,2025-12-06
+APT000231,PT00072,DOC008,Michael Davis,Cardiology,2026-03-14,15:00,45,Cancelled,Emergency,,,
+APT000232,PT00122,DOC020,Patricia Lopez,Cardiology,2025-12-08,14:15,30,Completed,Emergency,84,,
+APT000233,PT00074,DOC004,Patricia Moore,Orthopedics,2025-10-18,17:00,45,Cancelled,Inpatient,,2025-10-18,2025-10-25
+APT000234,PT00192,DOC023,Joseph Moore,Cardiology,2025-12-10,13:45,30,Completed,Inpatient,75,2025-12-10,2025-12-15
+APT000235,PT00158,DOC001,Patricia Smith,Neurology,2025-07-18,08:15,0,No-Show,Emergency,,,
+APT000236,PT00130,DOC018,William Brown,Oncology,2025-12-06,16:15,15,Completed,Emergency,83,,
+APT000237,PT00227,DOC013,Joseph Jackson,Cardiology,2026-01-18,11:30,15,Cancelled,Inpatient,,2026-01-18,2026-01-23
+APT000238,PT00083,DOC015,Jennifer Wilson,Neurology,2025-12-10,14:00,0,No-Show,Emergency,,,
+APT000239,PT00141,DOC003,Linda Jones,General Medicine,2026-03-09,10:30,15,Completed,Inpatient,81,2026-03-09,2026-03-16
+APT000240,PT00181,DOC014,David Smith,Pediatrics,2025-12-15,15:15,30,Completed,Outpatient,63,,
+APT000241,PT00002,DOC013,Joseph Jackson,Orthopedics,2025-12-04,11:15,30,Completed,Outpatient,67,,
+APT000242,PT00211,DOC011,Michael Moore,Oncology,2026-03-02,12:15,0,No-Show,Outpatient,,,
+APT000243,PT00168,DOC010,James Moore,Orthopedics,2025-08-13,17:15,60,Completed,Outpatient,85,,
+APT000244,PT00011,DOC001,Patricia Smith,Pediatrics,2025-10-26,12:15,0,No-Show,Inpatient,,2025-10-26,2025-10-30
+APT000245,PT00220,DOC020,Patricia Lopez,Emergency,2025-09-15,16:45,15,Completed,Inpatient,70,2025-09-15,2025-09-17
+APT000246,PT00233,DOC022,David Johnson,Oncology,2025-08-30,12:45,45,Completed,Outpatient,72,,
+APT000247,PT00196,DOC005,Robert Jackson,Oncology,2025-10-14,14:15,30,Completed,Inpatient,72,2025-10-14,2025-10-21
+APT000248,PT00135,DOC008,Michael Davis,Pediatrics,2026-02-16,09:00,0,No-Show,Inpatient,,2026-02-16,2026-02-24
+APT000249,PT00166,DOC023,Joseph Moore,Oncology,2025-10-17,09:00,45,Completed,Emergency,87,,
+APT000250,PT00286,DOC002,David Davis,Cardiology,2025-12-18,08:30,15,Cancelled,Inpatient,,2025-12-18,2025-12-24
+APT000251,PT00196,DOC010,James Moore,Oncology,2026-01-06,12:15,30,Completed,Emergency,62,,
+APT000252,PT00258,DOC016,William Rodriguez,Emergency,2026-02-25,12:00,30,Completed,Inpatient,93,2026-02-25,2026-03-04
+APT000253,PT00066,DOC016,William Rodriguez,General Medicine,2025-11-21,16:30,45,Completed,Inpatient,78,2025-11-21,2025-11-26
+APT000254,PT00085,DOC011,Michael Moore,Neurology,2026-03-09,08:15,60,Completed,Outpatient,95,,
+APT000255,PT00077,DOC002,David Davis,Orthopedics,2025-10-02,09:45,60,Completed,Inpatient,70,2025-10-02,2025-10-10
+APT000256,PT00183,DOC023,Joseph Moore,Pediatrics,2026-03-06,13:00,15,Completed,Outpatient,69,,
+APT000257,PT00105,DOC010,James Moore,Orthopedics,2025-09-25,16:15,15,Completed,Inpatient,96,2025-09-25,2025-09-29
+APT000258,PT00040,DOC008,Michael Davis,General Medicine,2026-03-13,14:30,15,Completed,Inpatient,61,2026-03-13,2026-03-18
+APT000259,PT00055,DOC011,Michael Moore,Orthopedics,2025-07-15,12:00,60,Completed,Emergency,90,,
+APT000260,PT00169,DOC002,David Davis,Neurology,2026-02-17,11:00,30,Completed,Emergency,96,,
+APT000261,PT00145,DOC011,Michael Moore,General Medicine,2025-07-29,09:45,60,Completed,Emergency,98,,
+APT000262,PT00131,DOC006,Susan Johnson,Orthopedics,2026-01-21,14:30,60,Completed,Outpatient,70,,
+APT000263,PT00079,DOC004,Patricia Moore,Emergency,2026-03-09,12:15,0,No-Show,Emergency,,,
+APT000264,PT00184,DOC022,David Johnson,Cardiology,2026-01-05,12:45,60,Completed,Inpatient,88,2026-01-05,2026-01-12
+APT000265,PT00217,DOC012,Susan Davis,Pediatrics,2025-10-04,15:15,45,Completed,Inpatient,65,2025-10-04,2025-10-05
+APT000266,PT00080,DOC016,William Rodriguez,Pediatrics,2026-03-26,12:15,60,Completed,Inpatient,87,2026-03-26,2026-03-28
+APT000267,PT00154,DOC008,Michael Davis,Pediatrics,2026-02-04,08:00,15,Completed,Outpatient,95,,
+APT000268,PT00262,DOC014,David Smith,Oncology,2025-08-18,13:30,45,Completed,Emergency,96,,
+APT000269,PT00300,DOC003,Linda Jones,General Medicine,2026-03-15,10:45,30,Completed,Emergency,89,,
+APT000270,PT00024,DOC003,Linda Jones,Oncology,2025-11-30,17:30,60,Completed,Emergency,89,,
+APT000271,PT00175,DOC006,Susan Johnson,Orthopedics,2025-10-03,14:00,15,Completed,Emergency,76,,
+APT000272,PT00003,DOC013,Joseph Jackson,Cardiology,2025-07-07,12:30,60,Completed,Inpatient,89,2025-07-07,2025-07-14
+APT000273,PT00203,DOC010,James Moore,Cardiology,2025-09-03,11:00,15,Completed,Outpatient,67,,
+APT000274,PT00108,DOC016,William Rodriguez,Neurology,2025-09-13,09:30,30,Completed,Inpatient,100,2025-09-13,2025-09-22
+APT000275,PT00076,DOC016,William Rodriguez,Oncology,2025-07-12,15:00,60,Completed,Outpatient,88,,
+APT000276,PT00231,DOC019,Robert Gonzalez,Orthopedics,2025-10-12,09:45,15,Completed,Inpatient,63,2025-10-12,2025-10-18
+APT000277,PT00254,DOC024,Patricia Gonzalez,Pediatrics,2025-11-26,11:00,60,Completed,Inpatient,91,2025-11-26,2025-12-05
+APT000278,PT00217,DOC019,Robert Gonzalez,Emergency,2025-08-02,09:45,60,Completed,Emergency,86,,
+APT000279,PT00178,DOC015,Jennifer Wilson,Neurology,2026-02-09,15:15,45,Completed,Inpatient,72,2026-02-09,2026-02-17
+APT000280,PT00174,DOC020,Patricia Lopez,General Medicine,2026-02-25,15:15,45,Completed,Inpatient,84,2026-02-25,2026-03-04
+APT000281,PT00145,DOC023,Joseph Moore,Neurology,2025-08-14,10:45,30,Completed,Outpatient,71,,
+APT000282,PT00052,DOC014,David Smith,Oncology,2025-12-03,13:30,15,Completed,Emergency,63,,
+APT000283,PT00183,DOC022,David Johnson,Orthopedics,2025-09-28,08:00,0,No-Show,Emergency,,,
+APT000284,PT00173,DOC014,David Smith,Cardiology,2025-10-25,13:30,45,Completed,Outpatient,91,,
+APT000285,PT00024,DOC025,Robert Moore,Pediatrics,2025-11-14,16:00,0,No-Show,Emergency,,,
+APT000286,PT00026,DOC015,Jennifer Wilson,General Medicine,2026-02-20,17:00,15,Cancelled,Outpatient,,,
+APT000287,PT00288,DOC002,David Davis,Pediatrics,2025-08-23,10:30,45,Completed,Outpatient,73,,
+APT000288,PT00227,DOC025,Robert Moore,Pediatrics,2026-03-13,13:15,45,Completed,Outpatient,69,,
+APT000289,PT00063,DOC007,James Williams,Oncology,2026-01-29,13:30,60,Completed,Outpatient,75,,
+APT000290,PT00259,DOC006,Susan Johnson,Cardiology,2025-11-14,16:45,30,Completed,Inpatient,83,2025-11-14,2025-11-18
+APT000291,PT00071,DOC014,David Smith,Oncology,2026-01-26,13:00,0,No-Show,Emergency,,,
+APT000292,PT00227,DOC005,Robert Jackson,General Medicine,2025-07-06,13:30,15,Completed,Emergency,64,,
+APT000293,PT00206,DOC025,Robert Moore,Orthopedics,2026-02-08,16:30,15,Completed,Outpatient,69,,
+APT000294,PT00215,DOC013,Joseph Jackson,Neurology,2025-12-03,16:15,45,Completed,Inpatient,82,2025-12-03,2025-12-04
+APT000295,PT00229,DOC021,Barbara Martin,Orthopedics,2026-02-12,12:00,30,Completed,Emergency,85,,
+APT000296,PT00019,DOC018,William Brown,Emergency,2026-01-16,11:00,45,Completed,Emergency,68,,
+APT000297,PT00262,DOC018,William Brown,Emergency,2026-03-24,08:30,15,Completed,Emergency,70,,
+APT000298,PT00124,DOC025,Robert Moore,Emergency,2026-02-02,13:30,15,Cancelled,Outpatient,,,
+APT000299,PT00260,DOC012,Susan Davis,Cardiology,2025-07-25,17:00,45,Completed,Outpatient,88,,
+APT000300,PT00233,DOC011,Michael Moore,Orthopedics,2026-03-31,13:30,0,No-Show,Outpatient,,,
+APT000301,PT00146,DOC022,David Johnson,General Medicine,2025-09-10,13:15,15,Completed,Emergency,75,,
+APT000302,PT00185,DOC015,Jennifer Wilson,Cardiology,2025-09-14,14:15,15,Completed,Inpatient,65,2025-09-14,2025-09-16
+APT000303,PT00229,DOC003,Linda Jones,Emergency,2026-03-27,12:45,60,Completed,Emergency,93,,
+APT000304,PT00217,DOC015,Jennifer Wilson,Neurology,2026-03-08,15:45,30,Completed,Inpatient,70,2026-03-08,2026-03-11
+APT000305,PT00263,DOC017,John Miller,Cardiology,2025-10-17,09:45,45,Completed,Outpatient,70,,
+APT000306,PT00057,DOC004,Patricia Moore,Emergency,2025-11-26,12:30,45,Completed,Outpatient,67,,
+APT000307,PT00156,DOC010,James Moore,Oncology,2025-07-15,08:30,60,Completed,Outpatient,97,,
+APT000308,PT00146,DOC007,James Williams,Orthopedics,2026-03-08,08:45,15,Completed,Emergency,82,,
+APT000309,PT00247,DOC019,Robert Gonzalez,Emergency,2026-02-17,17:15,0,No-Show,Inpatient,,2026-02-17,2026-02-25
+APT000310,PT00259,DOC021,Barbara Martin,Oncology,2026-02-16,17:45,15,Completed,Outpatient,80,,
+APT000311,PT00199,DOC008,Michael Davis,Oncology,2025-12-21,09:15,45,Completed,Emergency,88,,
+APT000312,PT00013,DOC019,Robert Gonzalez,Neurology,2025-12-06,11:00,15,Completed,Outpatient,95,,
+APT000313,PT00292,DOC017,John Miller,Orthopedics,2026-03-01,08:30,30,Completed,Outpatient,67,,
+APT000314,PT00106,DOC008,Michael Davis,General Medicine,2026-02-13,14:00,45,Completed,Emergency,98,,
+APT000315,PT00252,DOC001,Patricia Smith,Emergency,2026-02-09,14:30,45,Completed,Outpatient,93,,
+APT000316,PT00047,DOC004,Patricia Moore,Cardiology,2025-09-25,10:30,15,Completed,Outpatient,76,,
+APT000317,PT00209,DOC022,David Johnson,Orthopedics,2025-07-31,12:45,15,Completed,Inpatient,71,2025-07-31,2025-08-01
+APT000318,PT00073,DOC014,David Smith,Emergency,2025-11-10,11:15,30,Completed,Outpatient,63,,
+APT000319,PT00253,DOC017,John Miller,General Medicine,2026-03-16,13:45,15,Completed,Outpatient,77,,
+APT000320,PT00284,DOC014,David Smith,Cardiology,2026-03-05,12:00,15,Completed,Emergency,74,,
+APT000321,PT00127,DOC025,Robert Moore,Pediatrics,2025-09-03,10:30,30,Completed,Inpatient,88,2025-09-03,2025-09-05
+APT000322,PT00087,DOC008,Michael Davis,Pediatrics,2026-02-02,08:00,60,Cancelled,Emergency,,,
+APT000323,PT00238,DOC020,Patricia Lopez,Emergency,2025-09-24,13:15,60,Completed,Inpatient,77,2025-09-24,2025-09-29
+APT000324,PT00262,DOC010,James Moore,Cardiology,2025-09-21,09:45,45,Completed,Emergency,64,,
+APT000325,PT00063,DOC005,Robert Jackson,Neurology,2025-11-21,17:30,0,No-Show,Outpatient,,,
+APT000326,PT00176,DOC021,Barbara Martin,Emergency,2026-02-17,11:45,45,Completed,Emergency,80,,
+APT000327,PT00169,DOC001,Patricia Smith,Neurology,2025-09-07,08:00,60,Completed,Outpatient,98,,
+APT000328,PT00089,DOC014,David Smith,Pediatrics,2026-03-08,16:00,15,Completed,Emergency,65,,
+APT000329,PT00228,DOC022,David Johnson,Cardiology,2025-12-28,10:00,60,Cancelled,Inpatient,,2025-12-28,2026-01-03
+APT000330,PT00190,DOC007,James Williams,Oncology,2025-07-05,11:00,45,Completed,Outpatient,77,,
+APT000331,PT00156,DOC023,Joseph Moore,Orthopedics,2025-10-28,15:15,45,Cancelled,Inpatient,,2025-10-28,2025-10-26
+APT000332,PT00203,DOC004,Patricia Moore,General Medicine,2025-11-20,17:15,30,Completed,Inpatient,70,2025-11-20,2025-11-29
+APT000333,PT00066,DOC024,Patricia Gonzalez,Cardiology,2025-09-04,11:00,45,Completed,Emergency,74,,
+APT000334,PT00273,DOC020,Patricia Lopez,Emergency,2026-02-18,14:30,60,Completed,Inpatient,63,2026-02-18,2026-02-24
+APT000335,PT00266,DOC015,Jennifer Wilson,Oncology,2026-01-02,12:45,15,Completed,Outpatient,74,,
+APT000336,PT00273,DOC015,Jennifer Wilson,Emergency,2025-07-03,14:00,30,Completed,Inpatient,65,2025-07-03,2025-07-04
+APT000337,PT00101,DOC006,Susan Johnson,Emergency,2025-12-07,15:45,15,Completed,Emergency,66,,
+APT000338,PT00013,DOC019,Robert Gonzalez,General Medicine,2025-12-19,09:45,0,No-Show,Outpatient,,,
+APT000339,PT00123,DOC011,Michael Moore,General Medicine,2025-07-28,11:00,0,No-Show,Emergency,,,
+APT000340,PT00225,DOC025,Robert Moore,Cardiology,2026-02-14,14:30,15,Completed,Outpatient,63,,
+APT000341,PT00034,DOC005,Robert Jackson,Cardiology,2026-02-12,09:00,60,Completed,Emergency,100,,
+APT000342,PT00029,DOC018,William Brown,Cardiology,2025-11-28,17:45,0,No-Show,Inpatient,,2025-11-28,2025-11-30
+APT000343,PT00006,DOC015,Jennifer Wilson,Oncology,2026-02-23,13:00,15,Completed,Emergency,99,,
+APT000344,PT00233,DOC017,John Miller,Emergency,2025-10-07,17:15,15,Completed,Outpatient,98,,
+APT000345,PT00294,DOC005,Robert Jackson,Neurology,2026-03-18,11:15,30,Completed,Inpatient,90,2026-03-18,2026-03-26
+APT000346,PT00031,DOC005,Robert Jackson,Emergency,2026-02-09,17:15,45,Completed,Emergency,82,,
+APT000347,PT00076,DOC016,William Rodriguez,Emergency,2025-12-23,08:15,30,Completed,Outpatient,93,,
+APT000348,PT00260,DOC018,William Brown,General Medicine,2025-07-28,09:30,30,Completed,Outpatient,72,,
+APT000349,PT00097,DOC022,David Johnson,Oncology,2026-02-25,14:30,45,Completed,Inpatient,97,2026-02-25,2026-03-03
+APT000350,PT00233,DOC002,David Davis,Oncology,2025-10-21,11:15,0,No-Show,Emergency,,,
+APT000351,PT00239,DOC020,Patricia Lopez,Orthopedics,2025-10-31,10:00,60,Completed,Inpatient,84,2025-10-31,2025-11-04
+APT000352,PT00038,DOC012,Susan Davis,Cardiology,2025-08-28,08:15,15,Completed,Inpatient,72,2025-08-28,2025-09-03
+APT000353,PT00090,DOC008,Michael Davis,Emergency,2025-09-28,11:00,30,Completed,Emergency,75,,
+APT000354,PT00091,DOC009,Thomas Martin,Cardiology,2025-07-11,14:00,0,No-Show,Outpatient,,,
+APT000355,PT00174,DOC007,James Williams,Emergency,2026-02-19,09:00,60,Completed,Inpatient,70,2026-02-19,2026-02-28
+APT000356,PT00067,DOC007,James Williams,Orthopedics,2026-03-30,08:15,30,Completed,Inpatient,80,2026-03-30,2026-04-06
+APT000357,PT00151,DOC005,Robert Jackson,Emergency,2025-11-04,11:00,60,Completed,Inpatient,68,2025-11-04,2025-11-13
+APT000358,PT00034,DOC006,Susan Johnson,Pediatrics,2026-01-15,15:45,45,Completed,Emergency,92,,
+APT000359,PT00092,DOC011,Michael Moore,Neurology,2026-01-08,17:45,45,Completed,Inpatient,91,2026-01-08,2026-01-16
+APT000360,PT00299,DOC021,Barbara Martin,Cardiology,2025-10-15,14:15,30,Completed,Outpatient,88,,
+APT000361,PT00157,DOC014,David Smith,Oncology,2025-09-19,10:00,15,Cancelled,Inpatient,,2025-09-19,2025-09-24
+APT000362,PT00266,DOC012,Susan Davis,Orthopedics,2025-07-22,15:45,60,Completed,Emergency,81,,
+APT000363,PT00222,DOC014,David Smith,Emergency,2026-03-12,11:30,60,Completed,Inpatient,61,2026-03-12,2026-03-15
+APT000364,PT00184,DOC003,Linda Jones,Emergency,2026-03-14,11:00,45,Completed,Emergency,65,,
+APT000365,PT00061,DOC003,Linda Jones,Emergency,2025-07-20,12:30,45,Completed,Inpatient,72,2025-07-20,2025-07-26
+APT000366,PT00071,DOC025,Robert Moore,Neurology,2025-11-11,14:00,60,Completed,Inpatient,78,2025-11-11,2025-11-17
+APT000367,PT00263,DOC025,Robert Moore,Orthopedics,2026-01-20,11:45,60,Completed,Emergency,73,,
+APT000368,PT00237,DOC011,Michael Moore,General Medicine,2025-08-13,11:45,60,Completed,Outpatient,87,,
+APT000369,PT00231,DOC018,William Brown,Cardiology,2026-01-08,15:30,15,Completed,Outpatient,79,,
+APT000370,PT00174,DOC008,Michael Davis,Oncology,2026-02-03,17:00,45,Completed,Inpatient,94,2026-02-03,2026-02-08
+APT000371,PT00017,DOC005,Robert Jackson,Orthopedics,2025-12-17,14:15,60,Completed,Emergency,98,,
+APT000372,PT00201,DOC003,Linda Jones,Pediatrics,2026-01-14,12:00,60,Completed,Outpatient,81,,
+APT000373,PT00088,DOC004,Patricia Moore,Neurology,2025-09-29,08:15,60,Completed,Emergency,98,,
+APT000374,PT00102,DOC003,Linda Jones,Oncology,2025-11-23,08:30,60,Completed,Inpatient,93,2025-11-23,2025-11-25
+APT000375,PT00088,DOC011,Michael Moore,General Medicine,2026-01-27,15:00,60,Completed,Outpatient,68,,
+APT000376,PT00200,DOC007,James Williams,Orthopedics,2025-10-14,17:30,30,Completed,Emergency,90,,
+APT000377,PT00104,DOC017,John Miller,Neurology,2026-02-20,09:45,60,Completed,Outpatient,69,,
+APT000378,PT00127,DOC017,John Miller,Emergency,2026-03-09,12:45,15,Completed,Emergency,62,,
+APT000379,PT00178,DOC023,Joseph Moore,General Medicine,2025-11-30,10:45,30,Completed,Outpatient,86,,
+APT000380,PT00235,DOC013,Joseph Jackson,Neurology,2025-10-02,11:15,15,Completed,Outpatient,85,,
+APT000381,PT00141,DOC021,Barbara Martin,Pediatrics,2025-11-27,14:00,60,Completed,Outpatient,73,,
+APT000382,PT00189,DOC003,Linda Jones,General Medicine,2025-08-23,12:15,30,Completed,Inpatient,86,2025-08-23,2025-08-31
+APT000383,PT00237,DOC001,Patricia Smith,Cardiology,2026-02-22,14:00,30,Completed,Emergency,85,,
+APT000384,PT00006,DOC009,Thomas Martin,Cardiology,2025-09-08,15:00,60,Completed,Emergency,89,,
+APT000385,PT00043,DOC018,William Brown,Neurology,2025-11-02,10:15,45,Completed,Inpatient,68,2025-11-02,2025-11-10
+APT000386,PT00052,DOC006,Susan Johnson,Emergency,2025-09-02,12:15,15,Completed,Inpatient,70,2025-09-02,2025-09-04
+APT000387,PT00092,DOC007,James Williams,Neurology,2025-07-18,11:45,0,No-Show,Emergency,,,
+APT000388,PT00025,DOC021,Barbara Martin,General Medicine,2026-03-25,12:45,60,Completed,Emergency,66,,
+APT000389,PT00027,DOC020,Patricia Lopez,Cardiology,2025-07-25,11:15,45,Completed,Outpatient,75,,
+APT000390,PT00047,DOC001,Patricia Smith,Oncology,2025-07-15,11:00,15,Cancelled,Inpatient,,2025-07-15,2025-07-19
+APT000391,PT00086,DOC024,Patricia Gonzalez,Orthopedics,2025-07-23,16:15,45,Completed,Outpatient,80,,
+APT000392,PT00107,DOC018,William Brown,Oncology,2026-02-05,13:15,45,Completed,Outpatient,66,,
+APT000393,PT00008,DOC013,Joseph Jackson,Neurology,2025-12-09,09:30,30,Completed,Outpatient,89,,
+APT000394,PT00189,DOC002,David Davis,Cardiology,2025-10-20,16:15,15,Completed,Emergency,91,,
+APT000395,PT00129,DOC004,Patricia Moore,Pediatrics,2025-12-14,10:30,60,Cancelled,Emergency,,,
+APT000396,PT00090,DOC021,Barbara Martin,General Medicine,2025-12-10,09:30,60,Cancelled,Emergency,,,
+APT000397,PT00010,DOC020,Patricia Lopez,Pediatrics,2026-02-15,11:00,15,Completed,Emergency,74,,
+APT000398,PT00064,DOC010,James Moore,Orthopedics,2026-02-05,10:30,15,Completed,Emergency,65,,
+APT000399,PT00256,DOC010,James Moore,Orthopedics,2025-09-16,17:45,30,Completed,Emergency,62,,
+APT000400,PT00169,DOC005,Robert Jackson,Emergency,2025-12-10,12:00,60,Completed,Outpatient,93,,
+APT000401,PT00118,DOC024,Patricia Gonzalez,Emergency,2025-12-23,11:45,30,Completed,Emergency,63,,
+APT000402,PT00267,DOC011,Michael Moore,Orthopedics,2026-02-12,11:00,15,Completed,Outpatient,91,,
+APT000403,PT00073,DOC007,James Williams,Orthopedics,2025-08-16,16:00,30,Completed,Emergency,73,,
+APT000404,PT00219,DOC024,Patricia Gonzalez,Oncology,2025-12-07,10:15,60,Completed,Outpatient,75,,
+APT000405,PT00156,DOC010,James Moore,Pediatrics,2026-02-15,15:00,45,Cancelled,Outpatient,,,
+APT000406,PT00185,DOC013,Joseph Jackson,Oncology,2025-09-24,15:00,30,Completed,Inpatient,92,2025-09-24,2025-10-01
+APT000407,PT00219,DOC003,Linda Jones,General Medicine,2025-12-01,12:45,30,Completed,Outpatient,95,,
+APT000408,PT00238,DOC010,James Moore,Oncology,2025-11-23,13:15,15,Completed,Emergency,90,,
+APT000409,PT00241,DOC007,James Williams,Orthopedics,2025-10-06,14:45,60,Completed,Emergency,83,,
+APT000410,PT00203,DOC024,Patricia Gonzalez,Emergency,2026-01-13,14:00,15,Completed,Emergency,97,,
+APT000411,PT00064,DOC013,Joseph Jackson,Pediatrics,2025-09-22,13:00,60,Completed,Inpatient,76,2025-09-22,2025-09-28
+APT000412,PT00218,DOC024,Patricia Gonzalez,Orthopedics,2025-11-02,12:45,30,Completed,Inpatient,100,2025-11-02,2025-11-03
+APT000413,PT00076,DOC009,Thomas Martin,Orthopedics,2025-09-21,17:00,60,Completed,Outpatient,84,,
+APT000414,PT00266,DOC007,James Williams,Oncology,2025-09-23,16:45,0,No-Show,Inpatient,,2025-09-23,2025-09-28
+APT000415,PT00211,DOC025,Robert Moore,Neurology,2025-08-15,12:15,30,Completed,Emergency,82,,
+APT000416,PT00204,DOC023,Joseph Moore,Emergency,2025-07-04,09:45,15,Cancelled,Inpatient,,2025-07-04,2025-07-05
+APT000417,PT00148,DOC024,Patricia Gonzalez,Oncology,2025-09-26,15:15,30,Completed,Outpatient,68,,
+APT000418,PT00258,DOC004,Patricia Moore,Oncology,2025-10-17,12:45,30,Completed,Outpatient,71,,
+APT000419,PT00226,DOC021,Barbara Martin,Pediatrics,2025-08-25,09:30,0,No-Show,Outpatient,,,
+APT000420,PT00044,DOC013,Joseph Jackson,Cardiology,2025-11-19,15:45,30,Completed,Outpatient,97,,
+APT000421,PT00052,DOC001,Patricia Smith,Cardiology,2025-11-14,09:15,15,Completed,Outpatient,97,,
+APT000422,PT00268,DOC001,Patricia Smith,Oncology,2026-03-24,13:45,60,Cancelled,Inpatient,,2026-03-24,2026-04-01
+APT000423,PT00176,DOC011,Michael Moore,General Medicine,2025-10-31,14:00,60,Cancelled,Emergency,,,
+APT000424,PT00183,DOC011,Michael Moore,General Medicine,2025-08-21,08:00,30,Completed,Emergency,85,,
+APT000425,PT00272,DOC009,Thomas Martin,Neurology,2025-11-05,11:00,60,Completed,Emergency,90,,
+APT000426,PT00165,DOC001,Patricia Smith,Neurology,2026-01-01,13:45,0,No-Show,Emergency,,,
+APT000427,PT00120,DOC020,Patricia Lopez,Oncology,2026-01-21,15:00,60,Completed,Outpatient,82,,
+APT000428,PT00198,DOC010,James Moore,Pediatrics,2025-10-08,10:45,15,Completed,Emergency,96,,
+APT000429,PT00045,DOC010,James Moore,General Medicine,2026-02-25,11:15,30,Completed,Inpatient,67,2026-02-25,2026-03-05
+APT000430,PT00046,DOC004,Patricia Moore,Oncology,2025-07-15,12:45,30,Completed,Inpatient,84,2025-07-15,2025-07-20
+APT000431,PT00064,DOC022,David Johnson,Orthopedics,2026-03-31,17:00,30,Completed,Inpatient,65,2026-03-31,2026-04-06
+APT000432,PT00194,DOC023,Joseph Moore,Neurology,2026-01-12,11:30,30,Completed,Emergency,87,,
+APT000433,PT00060,DOC010,James Moore,Cardiology,2025-08-27,09:30,30,Completed,Emergency,97,,
+APT000434,PT00066,DOC011,Michael Moore,Oncology,2025-07-01,14:45,30,Completed,Emergency,94,,
+APT000435,PT00164,DOC025,Robert Moore,Emergency,2025-09-03,09:45,30,Completed,Emergency,97,,
+APT000436,PT00005,DOC018,William Brown,General Medicine,2026-02-21,10:30,60,Completed,Inpatient,74,2026-02-21,2026-03-01
+APT000437,PT00018,DOC020,Patricia Lopez,Emergency,2025-12-06,17:45,45,Completed,Emergency,67,,
+APT000438,PT00111,DOC016,William Rodriguez,Emergency,2026-01-09,08:15,30,Completed,Inpatient,69,2026-01-09,2026-01-13
+APT000439,PT00201,DOC010,James Moore,General Medicine,2025-09-20,13:45,60,Cancelled,Emergency,,,
+APT000440,PT00243,DOC012,Susan Davis,General Medicine,2026-01-17,11:45,45,Completed,Emergency,78,,
+APT000441,PT00050,DOC005,Robert Jackson,Emergency,2025-07-28,12:45,0,No-Show,Emergency,,,
+APT000442,PT00084,DOC019,Robert Gonzalez,Orthopedics,2026-02-12,11:00,30,Completed,Inpatient,69,2026-02-12,2026-02-16
+APT000443,PT00295,DOC004,Patricia Moore,Neurology,2025-09-14,13:45,15,Completed,Inpatient,70,2025-09-14,2025-09-15
+APT000444,PT00027,DOC004,Patricia Moore,Pediatrics,2025-12-21,11:00,60,Completed,Outpatient,100,,
+APT000445,PT00061,DOC008,Michael Davis,Oncology,2026-03-08,09:45,60,Completed,Emergency,71,,
+APT000446,PT00196,DOC009,Thomas Martin,Neurology,2026-02-13,09:45,15,Completed,Outpatient,67,,
+APT000447,PT00261,DOC008,Michael Davis,Cardiology,2026-03-03,14:45,30,Completed,Emergency,66,,
+APT000448,PT00223,DOC010,James Moore,Pediatrics,2025-09-03,14:00,30,Completed,Outpatient,94,,
+APT000449,PT00202,DOC018,William Brown,General Medicine,2026-04-01,16:00,15,Completed,Emergency,91,,
+APT000450,PT00107,DOC022,David Johnson,Cardiology,2025-10-01,10:00,0,No-Show,Emergency,,,
+APT000451,PT00285,DOC015,Jennifer Wilson,General Medicine,2025-12-08,10:00,30,Completed,Outpatient,96,,
+APT000452,PT00288,DOC009,Thomas Martin,General Medicine,2025-07-18,13:15,45,Completed,Outpatient,92,,
+APT000453,PT00217,DOC022,David Johnson,Cardiology,2025-11-05,10:45,60,Completed,Emergency,78,,
+APT000454,PT00161,DOC017,John Miller,Emergency,2026-03-19,08:15,30,Completed,Outpatient,62,,
+APT000455,PT00073,DOC010,James Moore,General Medicine,2025-10-19,17:30,30,Cancelled,Emergency,,,
+APT000456,PT00143,DOC005,Robert Jackson,Neurology,2026-02-02,14:45,30,Completed,Inpatient,76,2026-02-02,2026-02-09
+APT000457,PT00131,DOC022,David Johnson,Oncology,2025-09-12,11:30,45,Completed,Outpatient,100,,
+APT000458,PT00289,DOC022,David Johnson,Neurology,2026-03-19,14:00,60,Completed,Inpatient,69,2026-03-19,2026-03-25
+APT000459,PT00127,DOC003,Linda Jones,Emergency,2025-09-02,09:30,60,Completed,Emergency,95,,
+APT000460,PT00046,DOC012,Susan Davis,Emergency,2025-11-17,09:45,15,Completed,Outpatient,77,,
+APT000461,PT00114,DOC013,Joseph Jackson,Cardiology,2025-09-02,09:30,60,Completed,Emergency,79,,
+APT000462,PT00293,DOC010,James Moore,Pediatrics,2025-11-16,14:15,45,Completed,Outpatient,70,,
+APT000463,PT00177,DOC024,Patricia Gonzalez,Neurology,2026-03-30,08:15,45,Completed,Inpatient,90,2026-03-30,2026-04-02
+APT000464,PT00074,DOC013,Joseph Jackson,Pediatrics,2025-11-14,11:45,45,Completed,Emergency,100,,
+APT000465,PT00235,DOC006,Susan Johnson,Oncology,2025-12-29,14:15,45,Completed,Emergency,78,,
+APT000466,PT00157,DOC021,Barbara Martin,General Medicine,2025-08-14,09:00,15,Cancelled,Inpatient,,2025-08-14,2025-08-20
+APT000467,PT00048,DOC006,Susan Johnson,Pediatrics,2025-07-30,14:15,15,Completed,Inpatient,95,2025-07-30,2025-08-07
+APT000468,PT00264,DOC022,David Johnson,Neurology,2026-03-30,14:30,15,Completed,Inpatient,60,2026-03-30,2026-04-03
+APT000469,PT00271,DOC022,David Johnson,Pediatrics,2025-07-22,10:00,30,Completed,Outpatient,93,,
+APT000470,PT00188,DOC005,Robert Jackson,Pediatrics,2025-12-28,10:30,60,Cancelled,Inpatient,,2025-12-28,2026-01-05
+APT000471,PT00174,DOC022,David Johnson,Orthopedics,2025-08-30,08:45,30,Completed,Inpatient,78,2025-08-30,2025-09-04
+APT000472,PT00157,DOC021,Barbara Martin,Pediatrics,2025-07-19,08:30,60,Cancelled,Emergency,,,
+APT000473,PT00004,DOC020,Patricia Lopez,Oncology,2025-12-16,10:45,45,Completed,Outpatient,60,,
+APT000474,PT00182,DOC001,Patricia Smith,Cardiology,2026-02-06,14:00,30,Completed,Outpatient,93,,
+APT000475,PT00250,DOC001,Patricia Smith,Orthopedics,2025-11-06,14:15,45,Completed,Inpatient,83,2025-11-06,2025-11-11
+APT000476,PT00138,DOC004,Patricia Moore,Oncology,2026-02-10,11:00,45,Completed,Inpatient,87,2026-02-10,2026-02-11
+APT000477,PT00021,DOC005,Robert Jackson,Oncology,2026-02-01,15:30,30,Completed,Outpatient,70,,
+APT000478,PT00061,DOC014,David Smith,Oncology,2026-03-11,14:45,45,Completed,Emergency,68,,
+APT000479,PT00068,DOC004,Patricia Moore,Cardiology,2025-07-11,08:30,30,Completed,Inpatient,92,2025-07-11,2025-07-12
+APT000480,PT00005,DOC014,David Smith,Oncology,2025-11-26,17:15,30,Completed,Outpatient,87,,
+APT000481,PT00262,DOC006,Susan Johnson,Orthopedics,2025-11-21,15:00,30,Completed,Inpatient,75,2025-11-21,2025-11-28
+APT000482,PT00258,DOC020,Patricia Lopez,Orthopedics,2025-10-05,11:00,30,Cancelled,Emergency,,,
+APT000483,PT00068,DOC013,Joseph Jackson,Cardiology,2025-11-18,08:15,60,Cancelled,Outpatient,,,
+APT000484,PT00047,DOC002,David Davis,Oncology,2026-01-25,11:30,30,Completed,Emergency,100,,
+APT000485,PT00219,DOC016,William Rodriguez,Cardiology,2026-03-19,12:30,15,Completed,Outpatient,79,,
+APT000486,PT00144,DOC012,Susan Davis,Neurology,2026-01-31,08:00,15,Completed,Outpatient,71,,
+APT000487,PT00165,DOC007,James Williams,Emergency,2026-02-27,10:30,60,Completed,Emergency,66,,
+APT000488,PT00252,DOC012,Susan Davis,Emergency,2025-12-03,13:30,30,Completed,Emergency,60,,
+APT000489,PT00186,DOC024,Patricia Gonzalez,General Medicine,2026-03-28,17:45,30,Completed,Outpatient,77,,
+APT000490,PT00045,DOC004,Patricia Moore,Orthopedics,2025-08-31,15:00,30,Completed,Emergency,72,,
+APT000491,PT00039,DOC018,William Brown,Pediatrics,2025-12-23,08:15,30,Completed,Inpatient,72,2025-12-23,2026-01-01
+APT000492,PT00282,DOC023,Joseph Moore,Emergency,2025-12-25,14:00,0,No-Show,Inpatient,,2025-12-25,2025-12-27
+APT000493,PT00269,DOC017,John Miller,General Medicine,2025-07-12,17:00,15,Completed,Inpatient,68,2025-07-12,2025-07-17
+APT000494,PT00098,DOC024,Patricia Gonzalez,General Medicine,2026-01-20,10:45,15,Completed,Emergency,92,,
+APT000495,PT00261,DOC013,Joseph Jackson,Pediatrics,2026-01-16,10:15,15,Completed,Inpatient,73,2026-01-16,2026-01-19
+APT000496,PT00005,DOC017,John Miller,Oncology,2026-03-15,11:30,45,Completed,Emergency,76,,
+APT000497,PT00138,DOC018,William Brown,Cardiology,2025-09-26,08:15,45,Completed,Emergency,75,,
+APT000498,PT00143,DOC005,Robert Jackson,Emergency,2025-07-27,08:30,15,Completed,Outpatient,73,,
+APT000499,PT00189,DOC011,Michael Moore,Cardiology,2025-11-13,08:00,45,Completed,Inpatient,99,2025-11-13,2025-11-18
+APT000500,PT00113,DOC024,Patricia Gonzalez,Emergency,2025-09-29,14:30,15,Completed,Outpatient,94,,
+APT000501,PT00283,DOC007,James Williams,General Medicine,2026-02-12,15:15,30,Completed,Inpatient,73,2026-02-12,2026-02-19
+APT000502,PT00223,DOC012,Susan Davis,Orthopedics,2026-03-03,10:15,30,Completed,Outpatient,89,,
+APT000503,PT00292,DOC016,William Rodriguez,Neurology,2025-10-01,10:45,30,Completed,Outpatient,79,,
+APT000504,PT00097,DOC003,Linda Jones,Orthopedics,2025-08-06,08:00,30,Completed,Inpatient,85,2025-08-06,2025-08-08
+APT000505,PT00011,DOC004,Patricia Moore,General Medicine,2025-07-07,11:00,30,Completed,Emergency,62,,
+APT000506,PT00138,DOC005,Robert Jackson,Neurology,2025-07-07,09:15,45,Completed,Outpatient,66,,
+APT000507,PT00072,DOC016,William Rodriguez,General Medicine,2026-02-13,15:15,0,No-Show,Inpatient,,2026-02-13,2026-02-19
+APT000508,PT00279,DOC023,Joseph Moore,Emergency,2025-09-02,09:45,45,Completed,Outpatient,66,,
+APT000509,PT00073,DOC001,Patricia Smith,Orthopedics,2025-07-13,11:45,45,Completed,Inpatient,69,2025-07-13,2025-07-19
+APT000510,PT00058,DOC016,William Rodriguez,Orthopedics,2025-08-26,09:30,45,Completed,Inpatient,82,2025-08-26,2025-08-28
+APT000511,PT00044,DOC002,David Davis,Pediatrics,2025-09-16,14:15,30,Completed,Emergency,81,,
+APT000512,PT00155,DOC020,Patricia Lopez,General Medicine,2025-11-24,13:30,60,Completed,Outpatient,77,,
+APT000513,PT00040,DOC001,Patricia Smith,General Medicine,2025-09-15,14:45,30,Completed,Outpatient,80,,
+APT000514,PT00245,DOC003,Linda Jones,Cardiology,2026-02-04,13:15,15,Cancelled,Inpatient,,2026-02-04,2026-02-07
+APT000515,PT00198,DOC012,Susan Davis,Emergency,2026-03-11,10:15,45,Completed,Emergency,86,,
+APT000516,PT00197,DOC014,David Smith,Pediatrics,2026-03-12,14:00,30,Completed,Inpatient,94,2026-03-12,2026-03-21
+APT000517,PT00216,DOC017,John Miller,Pediatrics,2025-10-21,11:00,15,Completed,Outpatient,83,,
+APT000518,PT00186,DOC018,William Brown,Oncology,2025-09-07,13:15,45,Cancelled,Outpatient,,,
+APT000519,PT00151,DOC015,Jennifer Wilson,Orthopedics,2026-02-01,09:15,30,Completed,Outpatient,63,,
+APT000520,PT00194,DOC024,Patricia Gonzalez,Cardiology,2026-02-03,15:15,15,Completed,Emergency,66,,
+APT000521,PT00016,DOC005,Robert Jackson,Emergency,2025-09-11,10:15,60,Completed,Outpatient,60,,
+APT000522,PT00241,DOC024,Patricia Gonzalez,Orthopedics,2026-03-28,15:00,45,Completed,Inpatient,90,2026-03-28,2026-04-04
+APT000523,PT00080,DOC002,David Davis,Neurology,2025-07-17,08:45,30,Completed,Outpatient,92,,
+APT000524,PT00217,DOC022,David Johnson,Oncology,2025-11-10,12:15,0,No-Show,Emergency,,,
+APT000525,PT00217,DOC006,Susan Johnson,Emergency,2025-08-17,17:00,60,Completed,Outpatient,73,,
+APT000526,PT00113,DOC013,Joseph Jackson,Orthopedics,2025-08-09,13:45,0,No-Show,Inpatient,,2025-08-09,2025-08-17
+APT000527,PT00085,DOC002,David Davis,General Medicine,2026-01-07,09:00,15,Completed,Outpatient,77,,
+APT000528,PT00186,DOC020,Patricia Lopez,General Medicine,2025-12-19,09:15,15,Completed,Inpatient,70,2025-12-19,2025-12-28
+APT000529,PT00159,DOC007,James Williams,Pediatrics,2025-10-12,09:00,45,Completed,Outpatient,75,,
+APT000530,PT00289,DOC016,William Rodriguez,Cardiology,2025-07-25,14:15,45,Completed,Inpatient,60,2025-07-25,2025-07-31
+APT000531,PT00201,DOC024,Patricia Gonzalez,Emergency,2025-09-05,16:00,60,Completed,Outpatient,81,,
+APT000532,PT00258,DOC025,Robert Moore,Orthopedics,2025-07-13,10:15,45,Completed,Inpatient,90,2025-07-13,2025-07-14
+APT000533,PT00041,DOC021,Barbara Martin,Cardiology,2025-10-27,10:15,0,No-Show,Emergency,,,
+APT000534,PT00257,DOC017,John Miller,Neurology,2026-03-25,13:30,30,Cancelled,Inpatient,,2026-03-25,2026-04-02
+APT000535,PT00221,DOC002,David Davis,Neurology,2026-01-15,10:45,15,Completed,Emergency,98,,
+APT000536,PT00050,DOC001,Patricia Smith,Orthopedics,2025-12-06,15:30,15,Completed,Outpatient,91,,
+APT000537,PT00087,DOC010,James Moore,Orthopedics,2025-08-04,10:45,15,Completed,Inpatient,82,2025-08-04,2025-08-06
+APT000538,PT00243,DOC009,Thomas Martin,General Medicine,2026-02-12,08:30,60,Completed,Outpatient,67,,
+APT000539,PT00147,DOC013,Joseph Jackson,Oncology,2025-09-05,13:00,45,Completed,Emergency,99,,
+APT000540,PT00212,DOC017,John Miller,Oncology,2025-11-12,08:00,0,No-Show,Emergency,,,
+APT000541,PT00126,DOC023,Joseph Moore,General Medicine,2025-07-05,10:45,60,Completed,Outpatient,78,,
+APT000542,PT00038,DOC008,Michael Davis,Oncology,2026-02-22,09:00,60,Completed,Inpatient,89,2026-02-22,2026-03-02
+APT000543,PT00056,DOC013,Joseph Jackson,General Medicine,2026-02-07,17:45,45,Completed,Inpatient,64,2026-02-07,2026-02-13
+APT000544,PT00244,DOC004,Patricia Moore,Emergency,2026-02-18,11:30,30,Completed,Outpatient,90,,
+APT000545,PT00291,DOC002,David Davis,Pediatrics,2026-01-11,08:15,30,Completed,Inpatient,87,2026-01-11,2026-01-19
+APT000546,PT00217,DOC009,Thomas Martin,Emergency,2025-09-29,09:30,60,Completed,Outpatient,77,,
+APT000547,PT00232,DOC014,David Smith,Pediatrics,2025-10-18,14:30,15,Completed,Inpatient,71,2025-10-18,2025-10-19
+APT000548,PT00153,DOC006,Susan Johnson,Orthopedics,2025-12-26,14:30,30,Cancelled,Inpatient,,2025-12-26,2026-01-03
+APT000549,PT00293,DOC013,Joseph Jackson,General Medicine,2025-07-06,17:15,15,Completed,Emergency,72,,
+APT000550,PT00166,DOC022,David Johnson,General Medicine,2025-12-10,09:45,45,Completed,Inpatient,69,2025-12-10,2025-12-18
+APT000551,PT00002,DOC015,Jennifer Wilson,General Medicine,2025-09-03,08:15,15,Completed,Emergency,97,,
+APT000552,PT00097,DOC014,David Smith,Neurology,2025-09-24,11:00,30,Completed,Outpatient,82,,
+APT000553,PT00190,DOC012,Susan Davis,Cardiology,2025-12-02,09:45,0,No-Show,Emergency,,,
+APT000554,PT00234,DOC014,David Smith,Oncology,2025-12-28,09:15,45,Completed,Emergency,87,,
+APT000555,PT00235,DOC014,David Smith,Emergency,2025-09-29,14:30,60,Completed,Outpatient,94,,
+APT000556,PT00224,DOC021,Barbara Martin,Emergency,2025-08-20,08:45,15,Cancelled,Outpatient,,,
+APT000557,PT00054,DOC016,William Rodriguez,Neurology,2025-08-21,12:45,15,Completed,Emergency,97,,
+APT000558,PT00109,DOC008,Michael Davis,General Medicine,2026-02-18,09:30,60,Completed,Outpatient,72,,
+APT000559,PT00238,DOC014,David Smith,General Medicine,2026-01-19,12:30,45,Completed,Inpatient,74,2026-01-19,2026-01-28
+APT000560,PT00213,DOC022,David Johnson,Orthopedics,2025-07-03,08:00,0,No-Show,Inpatient,,2025-07-03,2025-07-04
+APT000561,PT00192,DOC017,John Miller,General Medicine,2025-12-10,16:45,30,Completed,Emergency,87,,
+APT000562,PT00099,DOC020,Patricia Lopez,Neurology,2026-01-18,14:15,0,No-Show,Emergency,,,
+APT000563,PT00200,DOC024,Patricia Gonzalez,Orthopedics,2026-01-23,10:45,0,No-Show,Emergency,,,
+APT000564,PT00119,DOC004,Patricia Moore,Neurology,2025-09-03,12:15,60,Completed,Emergency,96,,
+APT000565,PT00166,DOC007,James Williams,Cardiology,2025-08-17,08:00,30,Completed,Outpatient,100,,
+APT000566,PT00293,DOC013,Joseph Jackson,Cardiology,2025-09-05,10:15,45,Cancelled,Emergency,,,
+APT000567,PT00114,DOC010,James Moore,Orthopedics,2026-04-01,14:30,0,No-Show,Emergency,,,
+APT000568,PT00027,DOC009,Thomas Martin,Cardiology,2025-09-12,09:45,15,Completed,Emergency,97,,
+APT000569,PT00063,DOC004,Patricia Moore,Orthopedics,2025-11-22,15:30,15,Completed,Outpatient,65,,
+APT000570,PT00107,DOC013,Joseph Jackson,Cardiology,2026-03-09,11:45,15,Completed,Inpatient,64,2026-03-09,2026-03-17
+APT000571,PT00161,DOC021,Barbara Martin,Oncology,2025-09-21,09:30,15,Completed,Outpatient,71,,
+APT000572,PT00178,DOC016,William Rodriguez,Pediatrics,2025-07-03,11:00,15,Completed,Emergency,76,,
+APT000573,PT00275,DOC001,Patricia Smith,Pediatrics,2026-03-20,11:00,15,Completed,Outpatient,83,,
+APT000574,PT00168,DOC005,Robert Jackson,Orthopedics,2025-08-12,15:15,45,Completed,Outpatient,77,,
+APT000575,PT00048,DOC012,Susan Davis,Neurology,2025-11-28,11:30,60,Completed,Inpatient,87,2025-11-28,2025-12-07
+APT000576,PT00144,DOC013,Joseph Jackson,Cardiology,2025-12-07,15:45,60,Completed,Outpatient,91,,
+APT000577,PT00140,DOC011,Michael Moore,Pediatrics,2025-08-25,09:45,45,Completed,Inpatient,72,2025-08-25,2025-08-31
+APT000578,PT00018,DOC017,John Miller,Emergency,2026-01-26,14:00,45,Completed,Emergency,93,,
+APT000579,PT00059,DOC006,Susan Johnson,General Medicine,2025-12-13,09:15,30,Completed,Outpatient,82,,
+APT000580,PT00191,DOC012,Susan Davis,Orthopedics,2025-12-08,15:30,30,Completed,Inpatient,60,2025-12-08,2025-12-14
+APT000581,PT00288,DOC003,Linda Jones,Oncology,2025-11-23,16:30,15,Completed,Emergency,73,,
+APT000582,PT00039,DOC019,Robert Gonzalez,Neurology,2026-02-01,11:00,30,Completed,Inpatient,80,2026-02-01,2026-02-07
+APT000583,PT00256,DOC002,David Davis,Emergency,2026-02-01,11:00,60,Completed,Inpatient,70,2026-02-01,2026-02-07
+APT000584,PT00295,DOC001,Patricia Smith,Oncology,2025-11-23,13:00,15,Completed,Inpatient,62,2025-11-23,2025-12-02
+APT000585,PT00049,DOC014,David Smith,Neurology,2025-12-02,15:00,45,Completed,Inpatient,85,2025-12-02,2025-12-04
+APT000586,PT00233,DOC016,William Rodriguez,General Medicine,2025-09-01,09:00,0,No-Show,Emergency,,,
+APT000587,PT00115,DOC002,David Davis,General Medicine,2025-07-06,09:15,30,Completed,Inpatient,87,2025-07-06,2025-07-10
+APT000588,PT00189,DOC018,William Brown,Cardiology,2025-07-27,12:00,15,Completed,Outpatient,67,,
+APT000589,PT00136,DOC011,Michael Moore,Neurology,2026-01-11,09:15,60,Completed,Outpatient,68,,
+APT000590,PT00164,DOC005,Robert Jackson,General Medicine,2026-01-28,17:45,30,Completed,Emergency,67,,
+APT000591,PT00251,DOC009,Thomas Martin,Emergency,2026-03-05,16:15,45,Completed,Inpatient,78,2026-03-05,2026-03-07
+APT000592,PT00106,DOC023,Joseph Moore,Cardiology,2025-08-08,08:15,30,Cancelled,Outpatient,,,
+APT000593,PT00240,DOC013,Joseph Jackson,Orthopedics,2026-03-07,12:45,45,Completed,Outpatient,97,,
+APT000594,PT00079,DOC017,John Miller,Cardiology,2025-09-05,14:15,30,Completed,Inpatient,84,2025-09-05,2025-09-13
+APT000595,PT00217,DOC006,Susan Johnson,Neurology,2025-12-05,10:45,15,Cancelled,Emergency,,,
+APT000596,PT00055,DOC024,Patricia Gonzalez,Cardiology,2025-11-01,15:45,15,Completed,Inpatient,71,2025-11-01,2025-11-06
+APT000597,PT00061,DOC018,William Brown,Cardiology,2025-12-29,16:30,60,Completed,Outpatient,85,,
+APT000598,PT00028,DOC015,Jennifer Wilson,Emergency,2026-01-06,11:30,60,Completed,Emergency,84,,
+APT000599,PT00097,DOC013,Joseph Jackson,Orthopedics,2025-11-19,08:15,15,Completed,Inpatient,93,2025-11-19,2025-11-26
+APT000600,PT00113,DOC004,Patricia Moore,Cardiology,2025-07-19,12:15,15,Completed,Outpatient,64,,
+APT000601,PT00208,DOC013,Joseph Jackson,Oncology,2025-08-21,11:15,60,Completed,Emergency,77,,
+APT000602,PT00105,DOC012,Susan Davis,Neurology,2025-11-25,16:45,30,Completed,Inpatient,60,2025-11-25,2025-11-27
+APT000603,PT00123,DOC006,Susan Johnson,Emergency,2025-08-05,15:45,15,Completed,Inpatient,89,2025-08-05,2025-08-08
+APT000604,PT00091,DOC009,Thomas Martin,Cardiology,2025-09-26,15:00,45,Completed,Outpatient,98,,
+APT000605,PT00251,DOC008,Michael Davis,Oncology,2025-08-26,11:15,45,Completed,Outpatient,96,,
+APT000606,PT00076,DOC025,Robert Moore,Cardiology,2025-08-21,15:30,60,Completed,Emergency,81,,
+APT000607,PT00280,DOC009,Thomas Martin,Neurology,2026-03-07,13:45,45,Completed,Inpatient,60,2026-03-07,2026-03-13
+APT000608,PT00266,DOC024,Patricia Gonzalez,Neurology,2025-07-11,15:00,45,Completed,Inpatient,74,2025-07-11,2025-07-14
+APT000609,PT00221,DOC012,Susan Davis,Orthopedics,2025-08-15,16:45,45,Completed,Inpatient,100,2025-08-15,2025-08-17
+APT000610,PT00270,DOC006,Susan Johnson,Emergency,2025-12-26,12:30,0,No-Show,Inpatient,,2025-12-26,2026-01-02
+APT000611,PT00297,DOC017,John Miller,Neurology,2025-12-23,14:45,0,No-Show,Outpatient,,,
+APT000612,PT00291,DOC012,Susan Davis,Emergency,2025-08-26,10:30,60,Cancelled,Inpatient,,2025-08-26,2025-08-29
+APT000613,PT00084,DOC010,James Moore,Oncology,2025-11-25,11:30,15,Completed,Inpatient,60,2025-11-25,2025-12-03
+APT000614,PT00064,DOC002,David Davis,Oncology,2025-12-04,10:30,45,Completed,Inpatient,60,2025-12-04,2025-12-05
+APT000615,PT00258,DOC022,David Johnson,General Medicine,2025-09-18,10:15,45,Cancelled,Emergency,,,
+APT000616,PT00222,DOC019,Robert Gonzalez,Cardiology,2025-11-26,14:45,60,Completed,Inpatient,82,2025-11-26,2025-11-30
+APT000617,PT00051,DOC009,Thomas Martin,Emergency,2025-12-07,12:15,30,Completed,Inpatient,80,2025-12-07,2025-12-10
+APT000618,PT00103,DOC010,James Moore,Emergency,2025-08-13,14:45,30,Completed,Emergency,89,,
+APT000619,PT00050,DOC005,Robert Jackson,Pediatrics,2026-02-12,13:45,60,Completed,Emergency,82,,
+APT000620,PT00239,DOC014,David Smith,Oncology,2026-02-22,09:15,60,Completed,Emergency,61,,
+APT000621,PT00155,DOC008,Michael Davis,Pediatrics,2026-03-20,08:45,45,Completed,Emergency,94,,
+APT000622,PT00065,DOC013,Joseph Jackson,Neurology,2025-07-04,09:00,15,Completed,Emergency,89,,
+APT000623,PT00139,DOC021,Barbara Martin,Cardiology,2025-12-18,08:00,45,Completed,Inpatient,96,2025-12-18,2025-12-26
+APT000624,PT00262,DOC024,Patricia Gonzalez,Neurology,2025-07-28,10:15,60,Completed,Emergency,69,,
+APT000625,PT00080,DOC010,James Moore,Neurology,2025-12-07,09:00,30,Completed,Outpatient,91,,
+APT000626,PT00001,DOC005,Robert Jackson,Pediatrics,2025-08-31,15:00,15,Completed,Outpatient,73,,
+APT000627,PT00259,DOC015,Jennifer Wilson,Oncology,2025-07-29,10:15,60,Cancelled,Inpatient,,2025-07-29,2025-08-05
+APT000628,PT00280,DOC009,Thomas Martin,General Medicine,2026-02-10,09:45,0,No-Show,Emergency,,,
+APT000629,PT00075,DOC021,Barbara Martin,Cardiology,2025-10-03,16:15,30,Completed,Emergency,75,,
+APT000630,PT00244,DOC016,William Rodriguez,Emergency,2025-11-26,12:45,45,Completed,Emergency,91,,
+APT000631,PT00198,DOC023,Joseph Moore,General Medicine,2025-08-24,15:00,45,Completed,Inpatient,69,2025-08-24,2025-08-25
+APT000632,PT00006,DOC019,Robert Gonzalez,Emergency,2025-07-18,08:30,60,Completed,Emergency,99,,
+APT000633,PT00072,DOC015,Jennifer Wilson,Neurology,2026-02-20,13:45,30,Completed,Outpatient,82,,
+APT000634,PT00263,DOC003,Linda Jones,Orthopedics,2025-09-16,15:15,45,Completed,Emergency,96,,
+APT000635,PT00143,DOC025,Robert Moore,Neurology,2025-12-03,14:45,60,Cancelled,Outpatient,,,
+APT000636,PT00093,DOC019,Robert Gonzalez,Neurology,2026-03-17,13:30,30,Completed,Emergency,76,,
+APT000637,PT00300,DOC020,Patricia Lopez,General Medicine,2026-01-23,09:00,30,Completed,Outpatient,70,,
+APT000638,PT00256,DOC022,David Johnson,Oncology,2025-12-13,10:45,15,Completed,Emergency,75,,
+APT000639,PT00216,DOC003,Linda Jones,Cardiology,2025-11-06,13:00,60,Completed,Emergency,64,,
+APT000640,PT00090,DOC011,Michael Moore,Cardiology,2026-02-16,11:30,30,Completed,Emergency,96,,
+APT000641,PT00252,DOC015,Jennifer Wilson,Neurology,2025-11-24,16:15,60,Completed,Emergency,70,,
+APT000642,PT00045,DOC019,Robert Gonzalez,Cardiology,2025-08-19,14:00,45,Completed,Outpatient,60,,
+APT000643,PT00175,DOC006,Susan Johnson,Neurology,2026-03-28,16:30,60,Completed,Outpatient,96,,
+APT000644,PT00183,DOC020,Patricia Lopez,Pediatrics,2025-09-09,14:00,0,No-Show,Inpatient,,2025-09-09,2025-09-16
+APT000645,PT00066,DOC017,John Miller,Emergency,2025-08-21,08:15,45,Completed,Outpatient,63,,
+APT000646,PT00149,DOC009,Thomas Martin,Oncology,2025-12-31,16:15,15,Completed,Outpatient,78,,
+APT000647,PT00266,DOC020,Patricia Lopez,Pediatrics,2025-12-07,17:45,15,Completed,Outpatient,94,,
+APT000648,PT00135,DOC021,Barbara Martin,Cardiology,2025-07-17,10:15,15,Completed,Inpatient,72,2025-07-17,2025-07-23
+APT000649,PT00169,DOC025,Robert Moore,Neurology,2025-08-01,13:00,15,Completed,Outpatient,96,,
+APT000650,PT00214,DOC020,Patricia Lopez,Neurology,2025-08-11,12:00,0,No-Show,Inpatient,,2025-08-11,2025-08-14
+APT000651,PT00255,DOC017,John Miller,Orthopedics,2025-12-27,08:15,15,Completed,Inpatient,74,2025-12-27,2025-12-28
+APT000652,PT00195,DOC022,David Johnson,Neurology,2025-07-10,10:45,60,Completed,Outpatient,84,,
+APT000653,PT00219,DOC018,William Brown,Orthopedics,2025-08-29,11:30,45,Completed,Emergency,83,,
+APT000654,PT00224,DOC002,David Davis,Orthopedics,2025-10-27,16:00,60,Completed,Outpatient,74,,
+APT000655,PT00008,DOC024,Patricia Gonzalez,Orthopedics,2025-07-30,12:00,30,Completed,Outpatient,88,,
+APT000656,PT00161,DOC012,Susan Davis,Pediatrics,2025-11-03,15:00,60,Cancelled,Outpatient,,,
+APT000657,PT00040,DOC003,Linda Jones,Emergency,2025-10-14,15:30,30,Completed,Emergency,82,,
+APT000658,PT00188,DOC025,Robert Moore,Pediatrics,2025-11-27,16:30,0,No-Show,Outpatient,,,
+APT000659,PT00164,DOC023,Joseph Moore,Pediatrics,2026-03-15,09:15,45,Completed,Inpatient,86,2026-03-15,2026-03-23
+APT000660,PT00267,DOC008,Michael Davis,Emergency,2025-10-16,11:45,15,Completed,Emergency,69,,
+APT000661,PT00233,DOC004,Patricia Moore,Cardiology,2026-03-13,17:45,0,No-Show,Inpatient,,2026-03-13,2026-03-18
+APT000662,PT00044,DOC002,David Davis,Emergency,2026-01-13,11:15,15,Completed,Inpatient,84,2026-01-13,2026-01-21
+APT000663,PT00221,DOC018,William Brown,Cardiology,2025-12-04,17:15,45,Completed,Inpatient,61,2025-12-04,2025-12-10
+APT000664,PT00175,DOC024,Patricia Gonzalez,General Medicine,2026-02-08,08:00,0,No-Show,Emergency,,,
+APT000665,PT00284,DOC013,Joseph Jackson,Neurology,2025-11-25,15:45,0,No-Show,Emergency,,,
+APT000666,PT00294,DOC024,Patricia Gonzalez,Pediatrics,2026-03-23,08:30,30,Completed,Inpatient,89,2026-03-23,2026-03-27
+APT000667,PT00141,DOC003,Linda Jones,Orthopedics,2025-11-29,12:30,45,Completed,Inpatient,62,2025-11-29,2025-12-04
+APT000668,PT00007,DOC004,Patricia Moore,Emergency,2025-12-12,15:45,0,No-Show,Outpatient,,,
+APT000669,PT00009,DOC015,Jennifer Wilson,Cardiology,2026-02-24,14:00,30,Completed,Inpatient,90,2026-02-24,2026-03-05
+APT000670,PT00041,DOC009,Thomas Martin,Pediatrics,2025-12-08,12:30,45,Cancelled,Inpatient,,2025-12-08,2025-12-11
+APT000671,PT00066,DOC008,Michael Davis,Neurology,2025-09-28,09:00,30,Completed,Emergency,63,,
+APT000672,PT00095,DOC022,David Johnson,Pediatrics,2026-02-11,08:30,30,Completed,Outpatient,95,,
+APT000673,PT00132,DOC001,Patricia Smith,Neurology,2025-12-28,13:00,30,Completed,Outpatient,98,,
+APT000674,PT00040,DOC017,John Miller,Oncology,2025-08-27,17:30,45,Completed,Outpatient,73,,
+APT000675,PT00213,DOC003,Linda Jones,Neurology,2026-02-04,08:30,0,No-Show,Outpatient,,,
+APT000676,PT00185,DOC011,Michael Moore,Oncology,2026-01-08,13:00,30,Completed,Inpatient,99,2026-01-08,2026-01-09
+APT000677,PT00077,DOC019,Robert Gonzalez,Cardiology,2025-08-24,11:45,45,Completed,Inpatient,92,2025-08-24,2025-09-02
+APT000678,PT00017,DOC022,David Johnson,Neurology,2025-09-15,11:45,15,Completed,Emergency,65,,
+APT000679,PT00276,DOC024,Patricia Gonzalez,Cardiology,2026-03-28,13:30,60,Completed,Emergency,90,,
+APT000680,PT00100,DOC019,Robert Gonzalez,Emergency,2025-11-02,09:15,45,Completed,Inpatient,74,2025-11-02,2025-11-10
+APT000681,PT00210,DOC012,Susan Davis,Cardiology,2025-12-28,17:15,60,Completed,Outpatient,83,,
+APT000682,PT00230,DOC014,David Smith,Orthopedics,2025-09-03,17:15,60,Cancelled,Outpatient,,,
+APT000683,PT00134,DOC010,James Moore,Emergency,2025-12-08,17:45,30,Completed,Inpatient,86,2025-12-08,2025-12-17
+APT000684,PT00102,DOC006,Susan Johnson,Oncology,2025-07-08,09:15,60,Completed,Inpatient,76,2025-07-08,2025-07-17
+APT000685,PT00221,DOC001,Patricia Smith,Neurology,2025-09-24,14:30,60,Cancelled,Outpatient,,,
+APT000686,PT00066,DOC013,Joseph Jackson,Neurology,2025-11-01,17:00,45,Completed,Outpatient,81,,
+APT000687,PT00024,DOC003,Linda Jones,Neurology,2025-12-29,12:45,60,Cancelled,Inpatient,,2025-12-29,2026-01-06
+APT000688,PT00094,DOC024,Patricia Gonzalez,General Medicine,2026-03-18,15:45,45,Completed,Outpatient,97,,
+APT000689,PT00165,DOC015,Jennifer Wilson,Orthopedics,2026-03-18,15:30,45,Completed,Inpatient,66,2026-03-18,2026-03-22
+APT000690,PT00266,DOC017,John Miller,Pediatrics,2026-03-18,13:45,0,No-Show,Inpatient,,2026-03-18,2026-03-23
+APT000691,PT00092,DOC005,Robert Jackson,Cardiology,2025-10-16,13:30,15,Completed,Inpatient,96,2025-10-16,2025-10-22
+APT000692,PT00148,DOC009,Thomas Martin,Oncology,2026-02-10,17:00,45,Completed,Outpatient,78,,
+APT000693,PT00119,DOC022,David Johnson,Emergency,2025-09-11,08:00,30,Completed,Emergency,92,,
+APT000694,PT00277,DOC018,William Brown,General Medicine,2025-10-08,12:45,30,Completed,Outpatient,83,,
+APT000695,PT00228,DOC017,John Miller,Orthopedics,2026-02-18,14:45,60,Completed,Outpatient,67,,
+APT000696,PT00135,DOC003,Linda Jones,General Medicine,2025-09-09,13:00,15,Cancelled,Emergency,,,
+APT000697,PT00114,DOC024,Patricia Gonzalez,Cardiology,2025-12-15,13:00,15,Completed,Inpatient,77,2025-12-15,2025-12-23
+APT000698,PT00267,DOC011,Michael Moore,Orthopedics,2025-07-19,11:15,15,Cancelled,Emergency,,,
+APT000699,PT00193,DOC008,Michael Davis,Neurology,2025-10-09,15:30,30,Completed,Outpatient,91,,
+APT000700,PT00068,DOC007,James Williams,Neurology,2025-08-15,08:45,30,Cancelled,Emergency,,,
+APT000701,PT00035,DOC016,William Rodriguez,Pediatrics,2025-10-15,17:45,45,Completed,Outpatient,86,,
+APT000702,PT00299,DOC008,Michael Davis,Neurology,2025-12-26,11:30,45,Completed,Emergency,71,,
+APT000703,PT00249,DOC016,William Rodriguez,General Medicine,2026-01-17,09:15,45,Completed,Emergency,90,,
+APT000704,PT00058,DOC025,Robert Moore,General Medicine,2025-11-25,09:15,60,Completed,Inpatient,80,2025-11-25,2025-11-29
+APT000705,PT00164,DOC022,David Johnson,Cardiology,2025-12-25,15:45,60,Completed,Emergency,68,,
+APT000706,PT00121,DOC001,Patricia Smith,Emergency,2025-11-15,12:30,45,Completed,Inpatient,63,2025-11-15,2025-11-24
+APT000707,PT00227,DOC014,David Smith,Oncology,2025-11-11,11:30,0,No-Show,Inpatient,,2025-11-11,2025-11-19
+APT000708,PT00024,DOC010,James Moore,Oncology,2026-01-26,09:30,30,Completed,Outpatient,94,,
+APT000709,PT00067,DOC020,Patricia Lopez,Pediatrics,2025-07-11,09:30,60,Cancelled,Outpatient,,,
+APT000710,PT00181,DOC025,Robert Moore,General Medicine,2025-08-02,16:15,45,Completed,Emergency,73,,
+APT000711,PT00081,DOC018,William Brown,Oncology,2025-10-26,14:15,45,Completed,Outpatient,83,,
+APT000712,PT00284,DOC024,Patricia Gonzalez,Orthopedics,2025-07-07,16:45,15,Completed,Outpatient,93,,
+APT000713,PT00249,DOC002,David Davis,Orthopedics,2025-11-22,08:30,30,Completed,Outpatient,100,,
+APT000714,PT00064,DOC013,Joseph Jackson,Neurology,2026-01-22,09:00,15,Completed,Emergency,77,,
+APT000715,PT00259,DOC024,Patricia Gonzalez,Neurology,2026-01-29,09:45,30,Completed,Emergency,94,,
+APT000716,PT00100,DOC020,Patricia Lopez,General Medicine,2025-12-07,12:45,45,Completed,Inpatient,92,2025-12-07,2025-12-08
+APT000717,PT00136,DOC021,Barbara Martin,Pediatrics,2026-02-27,16:30,60,Completed,Inpatient,65,2026-02-27,2026-03-03
+APT000718,PT00274,DOC017,John Miller,Orthopedics,2026-01-12,15:15,15,Completed,Inpatient,85,2026-01-12,2026-01-18
+APT000719,PT00013,DOC013,Joseph Jackson,General Medicine,2025-10-27,13:15,45,Completed,Inpatient,96,2025-10-27,2025-10-29
+APT000720,PT00043,DOC004,Patricia Moore,Pediatrics,2025-09-25,10:45,15,Completed,Inpatient,97,2025-09-25,2025-09-29
+APT000721,PT00243,DOC017,John Miller,Neurology,2025-10-28,13:15,45,Completed,Inpatient,76,2025-10-28,2025-11-04
+APT000722,PT00290,DOC020,Patricia Lopez,Oncology,2025-07-03,16:45,60,Completed,Outpatient,95,,
+APT000723,PT00161,DOC021,Barbara Martin,Orthopedics,2025-12-12,09:45,15,Completed,Inpatient,92,2025-12-12,2025-12-21
+APT000724,PT00193,DOC005,Robert Jackson,General Medicine,2025-07-07,11:45,30,Completed,Emergency,67,,
+APT000725,PT00059,DOC002,David Davis,Oncology,2026-03-11,16:45,30,Completed,Emergency,91,,
+APT000726,PT00205,DOC001,Patricia Smith,Emergency,2025-08-30,17:30,45,Completed,Inpatient,77,2025-08-30,2025-09-08
+APT000727,PT00085,DOC005,Robert Jackson,Emergency,2026-03-25,15:45,45,Completed,Emergency,83,,
+APT000728,PT00108,DOC011,Michael Moore,Neurology,2025-09-08,13:45,15,Completed,Emergency,90,,
+APT000729,PT00092,DOC005,Robert Jackson,Oncology,2025-08-04,11:15,45,Cancelled,Outpatient,,,
+APT000730,PT00049,DOC018,William Brown,Oncology,2025-12-17,09:30,30,Completed,Emergency,89,,
+APT000731,PT00287,DOC008,Michael Davis,Emergency,2025-07-08,17:30,60,Cancelled,Inpatient,,2025-07-08,2025-07-13
+APT000732,PT00207,DOC009,Thomas Martin,Pediatrics,2025-10-12,12:15,30,Completed,Outpatient,66,,
+APT000733,PT00135,DOC019,Robert Gonzalez,Cardiology,2025-09-03,17:30,45,Completed,Emergency,84,,
+APT000734,PT00243,DOC007,James Williams,Orthopedics,2025-07-02,10:15,30,Completed,Outpatient,65,,
+APT000735,PT00244,DOC001,Patricia Smith,Emergency,2025-08-09,10:45,0,No-Show,Outpatient,,,
+APT000736,PT00218,DOC022,David Johnson,Oncology,2025-12-15,14:45,60,Completed,Outpatient,75,,
+APT000737,PT00243,DOC012,Susan Davis,Emergency,2026-03-25,10:30,30,Completed,Outpatient,98,,
+APT000738,PT00074,DOC014,David Smith,Pediatrics,2026-02-12,13:15,60,Completed,Inpatient,67,2026-02-12,2026-02-21
+APT000739,PT00188,DOC015,Jennifer Wilson,General Medicine,2025-12-25,14:30,30,Completed,Outpatient,99,,
+APT000740,PT00092,DOC024,Patricia Gonzalez,Cardiology,2025-10-09,17:30,15,Completed,Emergency,72,,
+APT000741,PT00169,DOC004,Patricia Moore,Emergency,2025-11-07,08:30,45,Completed,Outpatient,98,,
+APT000742,PT00246,DOC013,Joseph Jackson,Cardiology,2025-11-07,15:45,15,Completed,Outpatient,96,,
+APT000743,PT00252,DOC006,Susan Johnson,Oncology,2025-08-23,10:15,30,Completed,Outpatient,99,,
+APT000744,PT00043,DOC014,David Smith,General Medicine,2025-08-31,09:30,45,Completed,Emergency,63,,
+APT000745,PT00100,DOC021,Barbara Martin,Pediatrics,2025-07-09,17:30,30,Completed,Emergency,80,,
+APT000746,PT00265,DOC001,Patricia Smith,Neurology,2026-01-23,11:15,15,Completed,Emergency,63,,
+APT000747,PT00137,DOC003,Linda Jones,Orthopedics,2026-02-13,10:00,60,Completed,Emergency,72,,
+APT000748,PT00160,DOC009,Thomas Martin,Pediatrics,2025-12-27,09:00,60,Completed,Inpatient,96,2025-12-27,2025-12-29
+APT000749,PT00094,DOC024,Patricia Gonzalez,Cardiology,2025-10-04,08:15,30,Completed,Emergency,61,,
+APT000750,PT00192,DOC015,Jennifer Wilson,Cardiology,2025-11-04,12:00,30,Completed,Emergency,72,,
+APT000751,PT00195,DOC023,Joseph Moore,Emergency,2025-09-30,11:15,60,Completed,Emergency,80,,
+APT000752,PT00140,DOC007,James Williams,Orthopedics,2025-11-29,13:30,60,Completed,Inpatient,76,2025-11-29,2025-12-01
+APT000753,PT00268,DOC015,Jennifer Wilson,General Medicine,2025-09-26,16:15,30,Completed,Emergency,84,,
+APT000754,PT00223,DOC012,Susan Davis,Neurology,2025-11-25,09:15,45,Completed,Emergency,92,,
+APT000755,PT00133,DOC007,James Williams,Oncology,2025-11-11,15:15,30,Completed,Outpatient,93,,
+APT000756,PT00240,DOC019,Robert Gonzalez,Emergency,2026-01-07,13:00,15,Completed,Emergency,97,,
+APT000757,PT00184,DOC001,Patricia Smith,Orthopedics,2026-02-01,12:15,45,Completed,Inpatient,66,2026-02-01,2026-02-04
+APT000758,PT00096,DOC025,Robert Moore,Cardiology,2026-02-10,14:45,0,No-Show,Inpatient,,2026-02-10,2026-02-17
+APT000759,PT00130,DOC024,Patricia Gonzalez,Emergency,2025-12-20,16:00,30,Completed,Inpatient,79,2025-12-20,2025-12-21
+APT000760,PT00138,DOC019,Robert Gonzalez,Oncology,2025-07-15,17:15,30,Completed,Outpatient,79,,
+APT000761,PT00067,DOC022,David Johnson,Emergency,2025-07-28,15:45,45,Cancelled,Inpatient,,2025-07-28,2025-07-31
+APT000762,PT00001,DOC022,David Johnson,Orthopedics,2025-10-11,09:15,0,No-Show,Inpatient,,2025-10-11,2025-10-16
+APT000763,PT00105,DOC014,David Smith,Cardiology,2025-11-03,15:15,15,Completed,Emergency,83,,
+APT000764,PT00177,DOC004,Patricia Moore,Oncology,2026-01-18,09:45,30,Completed,Inpatient,84,2026-01-18,2026-01-26
+APT000765,PT00069,DOC013,Joseph Jackson,General Medicine,2025-12-15,14:45,0,No-Show,Emergency,,,
+APT000766,PT00274,DOC003,Linda Jones,Emergency,2026-03-08,17:15,30,Completed,Emergency,61,,
+APT000767,PT00121,DOC012,Susan Davis,Emergency,2025-12-22,09:15,60,Completed,Outpatient,99,,
+APT000768,PT00071,DOC016,William Rodriguez,Orthopedics,2025-07-23,10:45,60,Completed,Inpatient,65,2025-07-23,2025-07-29
+APT000769,PT00160,DOC013,Joseph Jackson,Neurology,2026-03-04,16:00,60,Completed,Inpatient,71,2026-03-04,2026-03-07
+APT000770,PT00043,DOC012,Susan Davis,Neurology,2025-08-21,10:45,45,Completed,Inpatient,60,2025-08-21,2025-08-24
+APT000771,PT00006,DOC016,William Rodriguez,Neurology,2026-01-22,12:00,60,Completed,Outpatient,79,,
+APT000772,PT00231,DOC017,John Miller,Emergency,2026-02-28,10:45,15,Completed,Emergency,83,,
+APT000773,PT00273,DOC025,Robert Moore,Oncology,2025-08-10,16:45,30,Completed,Inpatient,97,2025-08-10,2025-08-15
+APT000774,PT00238,DOC010,James Moore,Cardiology,2025-09-01,08:30,0,No-Show,Inpatient,,2025-09-01,2025-09-07
+APT000775,PT00173,DOC022,David Johnson,Emergency,2025-07-13,14:00,45,Completed,Outpatient,78,,
+APT000776,PT00229,DOC011,Michael Moore,Emergency,2025-07-19,11:15,60,Completed,Inpatient,62,2025-07-19,2025-07-28
+APT000777,PT00049,DOC005,Robert Jackson,Neurology,2025-09-13,17:15,60,Completed,Inpatient,77,2025-09-13,2025-09-19
+APT000778,PT00269,DOC019,Robert Gonzalez,Oncology,2025-07-21,14:00,15,Completed,Inpatient,62,2025-07-21,2025-07-24
+APT000779,PT00155,DOC014,David Smith,Oncology,2025-07-12,14:00,15,Completed,Emergency,76,,
+APT000780,PT00099,DOC019,Robert Gonzalez,Emergency,2025-12-03,13:45,15,Completed,Emergency,75,,
+APT000781,PT00111,DOC025,Robert Moore,Oncology,2025-11-18,17:45,15,Completed,Outpatient,77,,
+APT000782,PT00093,DOC022,David Johnson,Emergency,2025-11-17,10:30,60,Completed,Outpatient,61,,
+APT000783,PT00137,DOC015,Jennifer Wilson,Pediatrics,2025-12-10,11:00,45,Completed,Outpatient,61,,
+APT000784,PT00148,DOC024,Patricia Gonzalez,Neurology,2026-02-21,16:45,45,Completed,Emergency,98,,
+APT000785,PT00244,DOC018,William Brown,Cardiology,2025-12-23,15:15,60,Completed,Inpatient,88,2025-12-23,2025-12-26
+APT000786,PT00088,DOC022,David Johnson,Oncology,2025-11-08,15:30,15,Completed,Emergency,96,,
+APT000787,PT00043,DOC007,James Williams,Neurology,2026-03-29,08:15,60,Completed,Inpatient,80,2026-03-29,2026-04-06
+APT000788,PT00086,DOC020,Patricia Lopez,Emergency,2026-02-06,11:45,60,Completed,Outpatient,78,,
+APT000789,PT00276,DOC005,Robert Jackson,Oncology,2025-09-02,17:30,15,Completed,Outpatient,73,,
+APT000790,PT00092,DOC006,Susan Johnson,General Medicine,2026-01-22,13:30,45,Completed,Inpatient,73,2026-01-22,2026-01-29
+APT000791,PT00163,DOC017,John Miller,Pediatrics,2026-03-30,15:15,45,Completed,Inpatient,91,2026-03-30,2026-04-07
+APT000792,PT00091,DOC013,Joseph Jackson,Emergency,2025-07-02,14:45,15,Completed,Inpatient,89,2025-07-02,2025-07-05
+APT000793,PT00211,DOC007,James Williams,Neurology,2025-07-15,17:45,15,Completed,Outpatient,99,,
+APT000794,PT00012,DOC011,Michael Moore,Pediatrics,2025-11-05,13:00,15,Completed,Emergency,90,,
+APT000795,PT00200,DOC018,William Brown,Pediatrics,2025-10-07,15:30,0,No-Show,Outpatient,,,
+APT000796,PT00123,DOC006,Susan Johnson,Oncology,2025-10-11,17:45,30,Completed,Inpatient,64,2025-10-11,2025-10-12
+APT000797,PT00228,DOC008,Michael Davis,General Medicine,2025-09-29,17:30,15,Cancelled,Emergency,,,
+APT000798,PT00082,DOC008,Michael Davis,Oncology,2025-08-05,14:00,60,Completed,Outpatient,86,,
+APT000799,PT00214,DOC009,Thomas Martin,Neurology,2025-08-31,15:45,15,Completed,Emergency,94,,
+APT000800,PT00031,DOC010,James Moore,General Medicine,2026-01-20,08:30,0,No-Show,Emergency,,,
+APT000801,PT00205,DOC023,Joseph Moore,Pediatrics,2026-02-11,12:00,30,Completed,Outpatient,66,,
+APT000802,PT00087,DOC012,Susan Davis,Oncology,2025-12-21,12:00,30,Completed,Outpatient,90,,
+APT000803,PT00169,DOC021,Barbara Martin,Neurology,2025-08-07,12:30,30,Completed,Emergency,91,,
+APT000804,PT00152,DOC023,Joseph Moore,Oncology,2025-12-17,17:00,45,Completed,Emergency,76,,
+APT000805,PT00072,DOC005,Robert Jackson,Pediatrics,2025-11-25,12:15,45,Completed,Inpatient,96,2025-11-25,2025-12-01
+APT000806,PT00157,DOC016,William Rodriguez,Neurology,2026-02-11,17:30,30,Completed,Outpatient,68,,
+APT000807,PT00197,DOC009,Thomas Martin,Neurology,2025-10-25,10:00,45,Completed,Outpatient,97,,
+APT000808,PT00133,DOC012,Susan Davis,Neurology,2026-03-18,17:15,60,Completed,Emergency,85,,
+APT000809,PT00177,DOC021,Barbara Martin,Orthopedics,2026-03-14,16:45,30,Completed,Inpatient,84,2026-03-14,2026-03-22
+APT000810,PT00195,DOC001,Patricia Smith,Neurology,2025-08-03,12:00,30,Completed,Inpatient,73,2025-08-03,2025-08-07
+APT000811,PT00183,DOC016,William Rodriguez,Oncology,2025-07-07,11:15,0,No-Show,Emergency,,,
+APT000812,PT00187,DOC022,David Johnson,Cardiology,2026-01-21,16:00,45,Completed,Inpatient,92,2026-01-21,2026-01-23
+APT000813,PT00029,DOC015,Jennifer Wilson,Pediatrics,2026-03-25,15:15,30,Completed,Inpatient,71,2026-03-25,2026-03-29
+APT000814,PT00137,DOC018,William Brown,Emergency,2025-08-16,16:30,30,Completed,Emergency,64,,
+APT000815,PT00032,DOC007,James Williams,Orthopedics,2025-11-02,09:00,60,Completed,Emergency,90,,
+APT000816,PT00164,DOC021,Barbara Martin,Cardiology,2025-10-09,09:15,30,Completed,Inpatient,65,2025-10-09,2025-10-17
+APT000817,PT00154,DOC019,Robert Gonzalez,Cardiology,2026-02-06,15:15,0,No-Show,Outpatient,,,
+APT000818,PT00234,DOC001,Patricia Smith,Emergency,2026-01-25,16:45,45,Completed,Inpatient,100,2026-01-25,2026-01-28
+APT000819,PT00154,DOC009,Thomas Martin,General Medicine,2026-03-30,15:00,45,Completed,Inpatient,95,2026-03-30,2026-04-08
+APT000820,PT00094,DOC016,William Rodriguez,Cardiology,2025-12-11,15:45,0,No-Show,Emergency,,,
+APT000821,PT00084,DOC006,Susan Johnson,Cardiology,2026-02-07,16:15,45,Completed,Outpatient,88,,
+APT000822,PT00100,DOC025,Robert Moore,Cardiology,2025-10-27,16:45,45,Completed,Emergency,79,,
+APT000823,PT00053,DOC022,David Johnson,Emergency,2025-10-16,11:45,30,Completed,Outpatient,80,,
+APT000824,PT00088,DOC006,Susan Johnson,Pediatrics,2025-09-19,12:15,60,Completed,Emergency,90,,
+APT000825,PT00135,DOC016,William Rodriguez,General Medicine,2025-12-03,15:30,45,Completed,Inpatient,81,2025-12-03,2025-12-09
+APT000826,PT00202,DOC025,Robert Moore,Oncology,2025-07-03,10:45,45,Completed,Inpatient,63,2025-07-03,2025-07-10
+APT000827,PT00010,DOC023,Joseph Moore,Orthopedics,2025-10-15,13:45,15,Completed,Inpatient,78,2025-10-15,2025-10-21
+APT000828,PT00167,DOC018,William Brown,Pediatrics,2025-10-11,12:00,60,Completed,Emergency,92,,
+APT000829,PT00039,DOC008,Michael Davis,Orthopedics,2025-12-14,08:45,60,Completed,Emergency,97,,
+APT000830,PT00250,DOC008,Michael Davis,Emergency,2026-01-09,12:30,45,Completed,Outpatient,100,,
+APT000831,PT00225,DOC010,James Moore,Cardiology,2026-02-27,14:15,45,Completed,Emergency,64,,
+APT000832,PT00078,DOC019,Robert Gonzalez,Emergency,2025-10-11,16:30,45,Completed,Inpatient,75,2025-10-11,2025-10-17
+APT000833,PT00072,DOC025,Robert Moore,General Medicine,2025-08-04,13:30,0,No-Show,Emergency,,,
+APT000834,PT00229,DOC024,Patricia Gonzalez,Orthopedics,2025-10-03,13:15,45,Completed,Outpatient,89,,
+APT000835,PT00133,DOC009,Thomas Martin,Pediatrics,2025-07-12,14:45,60,Completed,Emergency,86,,
+APT000836,PT00025,DOC017,John Miller,Cardiology,2026-03-20,16:30,15,Completed,Emergency,87,,
+APT000837,PT00276,DOC016,William Rodriguez,Emergency,2025-12-18,16:00,15,Completed,Emergency,64,,
+APT000838,PT00273,DOC006,Susan Johnson,General Medicine,2026-03-20,17:45,0,No-Show,Outpatient,,,
+APT000839,PT00098,DOC025,Robert Moore,Cardiology,2026-02-06,10:30,0,No-Show,Inpatient,,2026-02-06,2026-02-14
+APT000840,PT00295,DOC011,Michael Moore,Oncology,2026-03-28,14:30,15,Completed,Emergency,87,,
+APT000841,PT00004,DOC020,Patricia Lopez,General Medicine,2026-01-16,10:30,60,Completed,Outpatient,80,,
+APT000842,PT00115,DOC019,Robert Gonzalez,Neurology,2025-12-15,17:15,45,Completed,Emergency,72,,
+APT000843,PT00097,DOC025,Robert Moore,Orthopedics,2025-10-14,10:30,15,Completed,Outpatient,61,,
+APT000844,PT00036,DOC011,Michael Moore,General Medicine,2025-12-09,11:30,30,Cancelled,Emergency,,,
+APT000845,PT00084,DOC014,David Smith,Emergency,2025-10-28,08:15,45,Cancelled,Outpatient,,,
+APT000846,PT00226,DOC004,Patricia Moore,General Medicine,2026-01-09,08:45,60,Completed,Emergency,73,,
+APT000847,PT00225,DOC013,Joseph Jackson,Orthopedics,2025-10-14,10:00,15,Completed,Emergency,67,,
+APT000848,PT00084,DOC025,Robert Moore,Orthopedics,2025-08-31,13:45,45,Cancelled,Emergency,,,
+APT000849,PT00098,DOC007,James Williams,Cardiology,2026-03-17,08:00,60,Completed,Inpatient,92,2026-03-17,2026-03-19
+APT000850,PT00216,DOC013,Joseph Jackson,General Medicine,2025-08-21,11:00,45,Completed,Inpatient,64,2025-08-21,2025-08-28
+APT000851,PT00200,DOC016,William Rodriguez,Cardiology,2025-11-18,10:00,30,Completed,Inpatient,62,2025-11-18,2025-11-21
+APT000852,PT00080,DOC005,Robert Jackson,Neurology,2026-02-26,12:30,30,Completed,Outpatient,98,,
+APT000853,PT00213,DOC006,Susan Johnson,Oncology,2025-09-27,13:00,30,Completed,Emergency,69,,
+APT000854,PT00084,DOC001,Patricia Smith,Oncology,2025-10-13,17:30,45,Completed,Emergency,83,,
+APT000855,PT00015,DOC001,Patricia Smith,Emergency,2025-07-15,10:45,0,No-Show,Outpatient,,,
+APT000856,PT00024,DOC018,William Brown,Oncology,2026-03-26,11:00,45,Completed,Outpatient,60,,
+APT000857,PT00215,DOC003,Linda Jones,Cardiology,2026-03-01,17:00,30,Completed,Inpatient,94,2026-03-01,2026-03-09
+APT000858,PT00241,DOC009,Thomas Martin,Orthopedics,2025-12-13,15:15,60,Completed,Inpatient,99,2025-12-13,2025-12-15
+APT000859,PT00264,DOC005,Robert Jackson,General Medicine,2025-09-12,12:00,60,Completed,Outpatient,66,,
+APT000860,PT00128,DOC008,Michael Davis,Emergency,2025-10-03,10:30,45,Completed,Inpatient,81,2025-10-03,2025-10-11
+APT000861,PT00075,DOC019,Robert Gonzalez,Neurology,2025-07-18,10:00,30,Completed,Inpatient,100,2025-07-18,2025-07-19
+APT000862,PT00018,DOC008,Michael Davis,Orthopedics,2026-01-20,13:15,60,Completed,Emergency,90,,
+APT000863,PT00296,DOC013,Joseph Jackson,Oncology,2025-10-18,12:30,15,Completed,Inpatient,94,2025-10-18,2025-10-26
+APT000864,PT00096,DOC009,Thomas Martin,Emergency,2026-03-07,09:30,45,Completed,Inpatient,66,2026-03-07,2026-03-13
+APT000865,PT00014,DOC018,William Brown,Orthopedics,2025-08-18,10:30,45,Completed,Inpatient,67,2025-08-18,2025-08-20
+APT000866,PT00224,DOC018,William Brown,Cardiology,2026-03-16,11:00,30,Completed,Emergency,72,,
+APT000867,PT00102,DOC024,Patricia Gonzalez,Neurology,2025-12-29,16:30,15,Completed,Outpatient,96,,
+APT000868,PT00277,DOC008,Michael Davis,Neurology,2026-03-29,17:15,30,Completed,Outpatient,66,,
+APT000869,PT00078,DOC018,William Brown,Pediatrics,2026-02-03,14:30,0,No-Show,Inpatient,,2026-02-03,2026-02-04
+APT000870,PT00268,DOC014,David Smith,Oncology,2026-02-25,09:30,15,Completed,Emergency,79,,
+APT000871,PT00285,DOC022,David Johnson,Emergency,2025-10-15,08:45,15,Cancelled,Emergency,,,
+APT000872,PT00072,DOC005,Robert Jackson,Oncology,2025-09-21,14:45,30,Completed,Outpatient,85,,
+APT000873,PT00100,DOC008,Michael Davis,General Medicine,2025-12-27,17:15,15,Completed,Inpatient,68,2025-12-27,2026-01-03
+APT000874,PT00073,DOC022,David Johnson,Emergency,2025-12-15,16:00,45,Completed,Outpatient,93,,
+APT000875,PT00242,DOC008,Michael Davis,Neurology,2026-02-10,10:00,60,Completed,Outpatient,94,,
+APT000876,PT00175,DOC009,Thomas Martin,Cardiology,2026-01-12,15:45,0,No-Show,Inpatient,,2026-01-12,2026-01-14
+APT000877,PT00250,DOC025,Robert Moore,Emergency,2025-10-24,11:45,45,Completed,Outpatient,98,,
+APT000878,PT00222,DOC014,David Smith,Cardiology,2025-08-23,12:30,0,No-Show,Inpatient,,2025-08-23,2025-08-28
+APT000879,PT00129,DOC012,Susan Davis,Cardiology,2025-07-07,17:45,30,Completed,Inpatient,75,2025-07-07,2025-07-15
+APT000880,PT00054,DOC025,Robert Moore,General Medicine,2026-03-07,08:00,60,Completed,Emergency,84,,
+APT000881,PT00051,DOC019,Robert Gonzalez,Cardiology,2025-08-30,17:45,45,Cancelled,Outpatient,,,
+APT000882,PT00202,DOC023,Joseph Moore,Neurology,2025-07-21,14:45,15,Completed,Inpatient,89,2025-07-21,2025-07-30
+APT000883,PT00014,DOC007,James Williams,Pediatrics,2025-10-01,08:45,60,Completed,Inpatient,66,2025-10-01,2025-10-06
+APT000884,PT00130,DOC012,Susan Davis,General Medicine,2025-12-24,08:30,60,Completed,Outpatient,77,,
+APT000885,PT00235,DOC023,Joseph Moore,Neurology,2025-11-12,14:30,45,Completed,Outpatient,73,,
+APT000886,PT00089,DOC016,William Rodriguez,General Medicine,2025-08-15,13:30,30,Completed,Emergency,94,,
+APT000887,PT00052,DOC024,Patricia Gonzalez,Cardiology,2026-01-24,11:30,60,Completed,Inpatient,100,2026-01-24,2026-01-27
+APT000888,PT00249,DOC012,Susan Davis,Emergency,2026-02-10,10:30,0,No-Show,Outpatient,,,
+APT000889,PT00009,DOC004,Patricia Moore,Orthopedics,2025-12-06,16:30,0,No-Show,Emergency,,,
+APT000890,PT00287,DOC018,William Brown,Orthopedics,2026-01-20,09:45,15,Completed,Outpatient,72,,
+APT000891,PT00135,DOC005,Robert Jackson,Neurology,2025-12-22,12:00,15,Completed,Inpatient,68,2025-12-22,2025-12-29
+APT000892,PT00116,DOC015,Jennifer Wilson,General Medicine,2025-07-21,15:15,15,Completed,Outpatient,77,,
+APT000893,PT00113,DOC008,Michael Davis,Orthopedics,2026-02-11,12:15,15,Completed,Outpatient,69,,
+APT000894,PT00011,DOC020,Patricia Lopez,Oncology,2026-02-10,14:15,30,Completed,Emergency,96,,
+APT000895,PT00266,DOC019,Robert Gonzalez,Oncology,2026-01-15,14:30,45,Completed,Emergency,83,,
+APT000896,PT00187,DOC008,Michael Davis,Emergency,2025-12-30,11:15,45,Completed,Emergency,68,,
+APT000897,PT00050,DOC017,John Miller,Neurology,2026-03-01,13:15,30,Completed,Outpatient,98,,
+APT000898,PT00239,DOC009,Thomas Martin,Pediatrics,2025-07-28,10:00,15,Completed,Inpatient,91,2025-07-28,2025-08-04
+APT000899,PT00287,DOC021,Barbara Martin,Cardiology,2025-12-25,13:00,15,Completed,Emergency,69,,
+APT000900,PT00142,DOC019,Robert Gonzalez,Emergency,2025-07-15,11:45,60,Completed,Inpatient,87,2025-07-15,2025-07-18
+APT000901,PT00156,DOC011,Michael Moore,Orthopedics,2026-03-18,08:00,45,Cancelled,Outpatient,,,
+APT000902,PT00184,DOC019,Robert Gonzalez,Cardiology,2025-08-06,11:15,30,Completed,Emergency,86,,
+APT000903,PT00092,DOC006,Susan Johnson,Cardiology,2026-03-11,17:45,60,Completed,Inpatient,65,2026-03-11,2026-03-13
+APT000904,PT00196,DOC023,Joseph Moore,Oncology,2025-09-09,09:30,0,No-Show,Outpatient,,,
+APT000905,PT00182,DOC006,Susan Johnson,Neurology,2026-02-06,10:30,0,No-Show,Inpatient,,2026-02-06,2026-02-08
+APT000906,PT00117,DOC012,Susan Davis,Neurology,2025-08-11,08:00,45,Completed,Outpatient,93,,
+APT000907,PT00286,DOC002,David Davis,Neurology,2026-01-08,08:30,15,Completed,Outpatient,93,,
+APT000908,PT00197,DOC010,James Moore,Cardiology,2026-01-08,11:45,0,No-Show,Outpatient,,,
+APT000909,PT00094,DOC018,William Brown,Orthopedics,2025-12-24,17:15,45,Completed,Emergency,69,,
+APT000910,PT00226,DOC023,Joseph Moore,General Medicine,2025-09-29,12:30,15,Completed,Inpatient,61,2025-09-29,2025-09-30
+APT000911,PT00093,DOC019,Robert Gonzalez,Pediatrics,2025-09-24,17:15,0,No-Show,Inpatient,,2025-09-24,2025-09-28
+APT000912,PT00173,DOC015,Jennifer Wilson,Neurology,2026-01-16,13:15,15,Completed,Outpatient,95,,
+APT000913,PT00188,DOC005,Robert Jackson,Orthopedics,2026-03-09,15:00,15,Completed,Inpatient,62,2026-03-09,2026-03-15
+APT000914,PT00047,DOC022,David Johnson,Neurology,2025-12-12,17:45,0,No-Show,Emergency,,,
+APT000915,PT00280,DOC021,Barbara Martin,Orthopedics,2025-11-22,14:45,60,Completed,Inpatient,72,2025-11-22,2025-11-27
+APT000916,PT00252,DOC001,Patricia Smith,Oncology,2025-08-23,15:30,45,Completed,Inpatient,99,2025-08-23,2025-08-30
+APT000917,PT00029,DOC017,John Miller,General Medicine,2025-07-22,13:00,30,Completed,Outpatient,79,,
+APT000918,PT00274,DOC001,Patricia Smith,Cardiology,2025-12-03,16:15,60,Completed,Inpatient,94,2025-12-03,2025-12-04
+APT000919,PT00023,DOC007,James Williams,Cardiology,2026-02-20,09:15,45,Cancelled,Outpatient,,,
+APT000920,PT00254,DOC007,James Williams,Pediatrics,2025-07-08,08:15,45,Completed,Inpatient,73,2025-07-08,2025-07-10
+APT000921,PT00170,DOC006,Susan Johnson,Oncology,2025-10-25,17:15,30,Completed,Inpatient,62,2025-10-25,2025-10-28
+APT000922,PT00133,DOC014,David Smith,Neurology,2025-12-06,08:45,60,Completed,Emergency,77,,
+APT000923,PT00212,DOC013,Joseph Jackson,Emergency,2025-10-06,17:00,0,No-Show,Inpatient,,2025-10-06,2025-10-11
+APT000924,PT00203,DOC002,David Davis,Neurology,2026-02-15,09:00,15,Completed,Emergency,74,,
+APT000925,PT00082,DOC016,William Rodriguez,Cardiology,2025-10-02,12:30,60,Completed,Outpatient,76,,
+APT000926,PT00146,DOC019,Robert Gonzalez,Emergency,2025-08-25,11:15,60,Completed,Inpatient,72,2025-08-25,2025-08-27
+APT000927,PT00019,DOC016,William Rodriguez,Oncology,2025-08-25,09:00,30,Completed,Outpatient,84,,
+APT000928,PT00124,DOC014,David Smith,Pediatrics,2026-01-06,16:15,15,Completed,Outpatient,88,,
+APT000929,PT00108,DOC024,Patricia Gonzalez,Emergency,2025-07-23,10:30,45,Completed,Outpatient,81,,
+APT000930,PT00237,DOC007,James Williams,Neurology,2025-07-29,11:15,15,Completed,Outpatient,78,,
+APT000931,PT00100,DOC011,Michael Moore,Neurology,2026-02-10,16:15,45,Completed,Inpatient,64,2026-02-10,2026-02-14
+APT000932,PT00163,DOC002,David Davis,Cardiology,2025-08-03,13:30,30,Completed,Emergency,61,,
+APT000933,PT00020,DOC005,Robert Jackson,Cardiology,2025-10-28,14:00,15,Completed,Outpatient,96,,
+APT000934,PT00115,DOC025,Robert Moore,Neurology,2025-07-19,17:45,60,Completed,Outpatient,61,,
+APT000935,PT00145,DOC022,David Johnson,Pediatrics,2026-01-15,17:30,60,Completed,Emergency,75,,
+APT000936,PT00177,DOC021,Barbara Martin,Oncology,2026-03-03,15:30,0,No-Show,Outpatient,,,
+APT000937,PT00115,DOC005,Robert Jackson,Emergency,2025-09-28,13:00,30,Cancelled,Inpatient,,2025-09-28,2025-10-03
+APT000938,PT00154,DOC005,Robert Jackson,Cardiology,2026-02-21,10:30,60,Completed,Emergency,74,,
+APT000939,PT00107,DOC013,Joseph Jackson,Oncology,2026-01-30,13:30,60,Completed,Inpatient,88,2026-01-30,2026-02-06
+APT000940,PT00205,DOC005,Robert Jackson,Neurology,2026-03-29,17:30,30,Completed,Outpatient,72,,
+APT000941,PT00238,DOC018,William Brown,General Medicine,2026-01-26,15:00,30,Completed,Inpatient,73,2026-01-26,2026-02-02
+APT000942,PT00232,DOC010,James Moore,General Medicine,2026-01-28,14:45,30,Completed,Outpatient,81,,
+APT000943,PT00093,DOC015,Jennifer Wilson,Cardiology,2025-10-14,17:15,45,Completed,Emergency,71,,
+APT000944,PT00206,DOC019,Robert Gonzalez,General Medicine,2025-10-10,15:30,30,Completed,Inpatient,89,2025-10-10,2025-10-14
+APT000945,PT00272,DOC024,Patricia Gonzalez,Neurology,2025-07-19,08:00,15,Completed,Outpatient,65,,
+APT000946,PT00170,DOC003,Linda Jones,Emergency,2025-12-30,09:30,45,Completed,Outpatient,73,,
+APT000947,PT00162,DOC019,Robert Gonzalez,General Medicine,2026-02-14,12:00,45,Completed,Emergency,71,,
+APT000948,PT00288,DOC006,Susan Johnson,Orthopedics,2025-09-22,10:45,60,Completed,Emergency,99,,
+APT000949,PT00144,DOC023,Joseph Moore,General Medicine,2025-11-05,15:00,30,Cancelled,Emergency,,,
+APT000950,PT00021,DOC005,Robert Jackson,Oncology,2026-02-28,15:15,45,Completed,Outpatient,61,,
+APT000951,PT00230,DOC001,Patricia Smith,Oncology,2025-12-24,13:00,0,No-Show,Outpatient,,,
+APT000952,PT00091,DOC005,Robert Jackson,Pediatrics,2025-12-01,13:30,30,Completed,Outpatient,67,,
+APT000953,PT00043,DOC012,Susan Davis,Pediatrics,2026-03-11,13:30,30,Completed,Emergency,86,,
+APT000954,PT00099,DOC017,John Miller,Emergency,2026-03-24,15:30,0,No-Show,Outpatient,,,
+APT000955,PT00086,DOC002,David Davis,Neurology,2025-10-31,08:30,45,Completed,Inpatient,88,2025-10-31,2025-11-07
+APT000956,PT00235,DOC022,David Johnson,Cardiology,2025-12-18,17:00,15,Completed,Outpatient,99,,
+APT000957,PT00155,DOC013,Joseph Jackson,Orthopedics,2026-02-26,13:30,60,Completed,Outpatient,77,,
+APT000958,PT00263,DOC014,David Smith,Oncology,2025-12-23,15:30,30,Completed,Inpatient,76,2025-12-23,2026-01-01
+APT000959,PT00231,DOC022,David Johnson,Cardiology,2025-12-11,08:15,0,No-Show,Outpatient,,,
+APT000960,PT00055,DOC008,Michael Davis,Cardiology,2025-09-29,09:00,30,Completed,Outpatient,96,,
+APT000961,PT00005,DOC024,Patricia Gonzalez,Cardiology,2025-12-22,09:15,0,No-Show,Emergency,,,
+APT000962,PT00299,DOC021,Barbara Martin,General Medicine,2026-02-21,10:15,15,Completed,Inpatient,66,2026-02-21,2026-02-23
+APT000963,PT00042,DOC006,Susan Johnson,Cardiology,2025-08-16,08:00,30,Completed,Emergency,74,,
+APT000964,PT00199,DOC011,Michael Moore,Neurology,2026-03-29,15:30,30,Completed,Outpatient,91,,
+APT000965,PT00032,DOC015,Jennifer Wilson,Orthopedics,2026-03-17,10:15,45,Completed,Outpatient,72,,
+APT000966,PT00064,DOC023,Joseph Moore,General Medicine,2025-08-08,17:30,60,Completed,Inpatient,74,2025-08-08,2025-08-11
+APT000967,PT00260,DOC021,Barbara Martin,Emergency,2025-10-20,12:30,15,Completed,Inpatient,75,2025-10-20,2025-10-29
+APT000968,PT00034,DOC002,David Davis,Cardiology,2026-03-10,09:45,60,Completed,Emergency,63,,
+APT000969,PT00007,DOC024,Patricia Gonzalez,Neurology,2025-08-15,13:45,45,Completed,Inpatient,98,2025-08-15,2025-08-17
+APT000970,PT00246,DOC012,Susan Davis,Oncology,2025-12-01,17:15,30,Completed,Inpatient,94,2025-12-01,2025-12-05
+APT000971,PT00181,DOC014,David Smith,Oncology,2026-02-22,10:15,60,Completed,Inpatient,89,2026-02-22,2026-03-02
+APT000972,PT00198,DOC014,David Smith,Cardiology,2025-09-10,13:00,60,Completed,Inpatient,100,2025-09-10,2025-09-13
+APT000973,PT00089,DOC005,Robert Jackson,Pediatrics,2025-10-03,10:30,60,Completed,Outpatient,85,,
+APT000974,PT00173,DOC007,James Williams,Cardiology,2026-03-12,11:45,30,Completed,Inpatient,95,2026-03-12,2026-03-17
+APT000975,PT00256,DOC014,David Smith,Oncology,2025-09-20,09:00,45,Completed,Emergency,63,,
+APT000976,PT00166,DOC023,Joseph Moore,Oncology,2025-11-26,14:45,30,Completed,Emergency,91,,
+APT000977,PT00007,DOC010,James Moore,Neurology,2025-09-20,17:15,15,Completed,Inpatient,99,2025-09-20,2025-09-27
+APT000978,PT00175,DOC024,Patricia Gonzalez,Emergency,2025-09-04,13:45,60,Completed,Inpatient,64,2025-09-04,2025-09-05
+APT000979,PT00168,DOC023,Joseph Moore,Orthopedics,2025-12-08,17:30,45,Completed,Inpatient,77,2025-12-08,2025-12-17
+APT000980,PT00066,DOC011,Michael Moore,General Medicine,2025-10-26,15:45,30,Completed,Emergency,75,,
+APT000981,PT00010,DOC011,Michael Moore,Pediatrics,2025-08-18,09:45,45,Completed,Outpatient,99,,
+APT000982,PT00237,DOC020,Patricia Lopez,Neurology,2025-11-14,13:00,30,Completed,Inpatient,72,2025-11-14,2025-11-19
+APT000983,PT00115,DOC021,Barbara Martin,Cardiology,2025-12-15,12:30,30,Completed,Emergency,90,,
+APT000984,PT00249,DOC011,Michael Moore,Pediatrics,2026-04-01,12:00,15,Completed,Emergency,72,,
+APT000985,PT00100,DOC017,John Miller,General Medicine,2026-03-16,12:15,45,Completed,Inpatient,87,2026-03-16,2026-03-17
+APT000986,PT00013,DOC001,Patricia Smith,Neurology,2026-02-01,16:15,60,Completed,Inpatient,69,2026-02-01,2026-02-09
+APT000987,PT00161,DOC004,Patricia Moore,Emergency,2026-02-19,12:15,60,Completed,Emergency,98,,
+APT000988,PT00066,DOC011,Michael Moore,Cardiology,2025-09-02,10:30,45,Completed,Inpatient,95,2025-09-02,2025-09-10
+APT000989,PT00193,DOC018,William Brown,Cardiology,2026-02-08,12:30,15,Completed,Inpatient,71,2026-02-08,2026-02-14
+APT000990,PT00292,DOC002,David Davis,Pediatrics,2025-07-29,09:00,60,Completed,Emergency,68,,
+APT000991,PT00072,DOC005,Robert Jackson,Cardiology,2026-03-25,13:30,15,Completed,Emergency,75,,
+APT000992,PT00174,DOC003,Linda Jones,Oncology,2025-12-23,16:45,15,Completed,Inpatient,85,2025-12-23,2026-01-01
+APT000993,PT00203,DOC023,Joseph Moore,Orthopedics,2025-08-15,09:30,0,No-Show,Inpatient,,2025-08-15,2025-08-18
+APT000994,PT00029,DOC021,Barbara Martin,Neurology,2025-07-13,08:00,60,Completed,Emergency,74,,
+APT000995,PT00113,DOC025,Robert Moore,Orthopedics,2025-09-17,13:45,45,Cancelled,Outpatient,,,
+APT000996,PT00203,DOC001,Patricia Smith,Pediatrics,2025-11-26,08:15,15,Completed,Emergency,86,,
+APT000997,PT00019,DOC007,James Williams,Orthopedics,2026-03-09,16:15,45,Completed,Emergency,65,,
+APT000998,PT00204,DOC007,James Williams,Orthopedics,2026-04-01,12:30,45,Completed,Emergency,99,,
+APT000999,PT00262,DOC013,Joseph Jackson,Orthopedics,2025-10-12,12:45,45,Completed,Inpatient,81,2025-10-12,2025-10-16
+APT001000,PT00147,DOC015,Jennifer Wilson,Cardiology,2026-02-14,11:15,60,Completed,Emergency,92,,
+APT001001,PT00058,DOC002,David Davis,Oncology,2025-08-24,11:30,45,Completed,Outpatient,72,,
+APT001002,PT00185,DOC015,Jennifer Wilson,Cardiology,2025-10-26,12:00,15,Completed,Inpatient,73,2025-10-26,2025-11-04
+APT001003,PT00093,DOC011,Michael Moore,Orthopedics,2026-03-13,14:15,60,Cancelled,Inpatient,,2026-03-13,2026-03-19
+APT001004,PT00246,DOC018,William Brown,Pediatrics,2025-11-24,17:00,15,Completed,Emergency,75,,
+APT001005,PT00001,DOC001,Patricia Smith,Pediatrics,2025-07-26,12:45,0,No-Show,Inpatient,,2025-07-26,2025-07-27
+APT001006,PT00291,DOC006,Susan Johnson,Cardiology,2025-07-28,13:00,60,Completed,Emergency,72,,
+APT001007,PT00144,DOC014,David Smith,Neurology,2025-07-12,10:30,45,Completed,Outpatient,67,,
+APT001008,PT00234,DOC007,James Williams,Cardiology,2025-07-16,08:00,0,No-Show,Inpatient,,2025-07-16,2025-07-19
+APT001009,PT00121,DOC015,Jennifer Wilson,General Medicine,2025-11-17,09:15,60,Completed,Emergency,96,,
+APT001010,PT00111,DOC003,Linda Jones,Oncology,2026-01-10,10:00,60,Completed,Inpatient,87,2026-01-10,2026-01-18
+APT001011,PT00023,DOC022,David Johnson,Cardiology,2025-11-21,12:00,30,Completed,Emergency,90,,
+APT001012,PT00140,DOC007,James Williams,Orthopedics,2026-02-15,08:45,0,No-Show,Emergency,,,
+APT001013,PT00287,DOC023,Joseph Moore,Oncology,2025-10-27,13:00,45,Completed,Emergency,63,,
+APT001014,PT00189,DOC015,Jennifer Wilson,General Medicine,2026-02-27,13:30,30,Completed,Inpatient,83,2026-02-27,2026-03-08
+APT001015,PT00298,DOC013,Joseph Jackson,Emergency,2026-02-25,16:45,60,Cancelled,Inpatient,,2026-02-25,2026-02-28
+APT001016,PT00222,DOC003,Linda Jones,Pediatrics,2025-11-07,15:45,0,No-Show,Inpatient,,2025-11-07,2025-11-13
+APT001017,PT00085,DOC002,David Davis,Emergency,2026-03-17,10:30,0,No-Show,Emergency,,,
+APT001018,PT00277,DOC021,Barbara Martin,General Medicine,2025-09-20,10:15,0,No-Show,Emergency,,,
+APT001019,PT00203,DOC003,Linda Jones,General Medicine,2026-01-31,16:00,0,No-Show,Emergency,,,
+APT001020,PT00267,DOC004,Patricia Moore,Pediatrics,2025-07-03,13:45,30,Completed,Emergency,70,,
+APT001021,PT00060,DOC011,Michael Moore,Neurology,2026-01-08,17:30,30,Completed,Inpatient,93,2026-01-08,2026-01-15
+APT001022,PT00055,DOC008,Michael Davis,Neurology,2026-02-18,16:00,15,Completed,Emergency,72,,
+APT001023,PT00254,DOC005,Robert Jackson,Cardiology,2025-12-04,11:00,15,Completed,Inpatient,79,2025-12-04,2025-12-02
+APT001024,PT00152,DOC004,Patricia Moore,Orthopedics,2025-10-04,09:00,0,No-Show,Emergency,,,
+APT001025,PT00130,DOC015,Jennifer Wilson,Cardiology,2026-02-02,08:30,60,Cancelled,Emergency,,,
+APT001026,PT00176,DOC013,Joseph Jackson,Emergency,2025-10-15,17:00,60,Completed,Emergency,97,,
+APT001027,PT00252,DOC002,David Davis,Oncology,2025-12-11,14:30,15,Completed,Inpatient,90,2025-12-11,2025-12-18
+APT001028,PT00252,DOC001,Patricia Smith,Oncology,2025-07-20,12:00,60,Cancelled,Outpatient,,,
+APT001029,PT00043,DOC008,Michael Davis,Neurology,2025-08-18,17:45,30,Completed,Emergency,81,,
+APT001030,PT00018,DOC011,Michael Moore,Emergency,2026-02-17,17:00,30,Completed,Inpatient,66,2026-02-17,2026-02-18
+APT001031,PT00228,DOC003,Linda Jones,Pediatrics,2025-10-01,16:00,60,Completed,Emergency,96,,
+APT001032,PT00130,DOC019,Robert Gonzalez,Cardiology,2026-03-22,12:30,15,Completed,Inpatient,78,2026-03-22,2026-03-25
+APT001033,PT00080,DOC003,Linda Jones,Orthopedics,2026-03-04,14:00,30,Completed,Outpatient,84,,
+APT001034,PT00155,DOC006,Susan Johnson,Orthopedics,2025-12-22,15:15,0,No-Show,Emergency,,,
+APT001035,PT00228,DOC023,Joseph Moore,Cardiology,2025-08-21,15:45,15,Completed,Outpatient,98,,
+APT001036,PT00188,DOC023,Joseph Moore,Oncology,2025-07-11,14:45,15,Completed,Emergency,83,,
+APT001037,PT00018,DOC009,Thomas Martin,Oncology,2026-02-02,15:45,45,Completed,Outpatient,76,,
+APT001038,PT00260,DOC008,Michael Davis,Orthopedics,2025-08-31,11:45,30,Completed,Outpatient,96,,
+APT001039,PT00280,DOC012,Susan Davis,Pediatrics,2025-11-12,09:00,60,Completed,Emergency,71,,
+APT001040,PT00119,DOC007,James Williams,Orthopedics,2025-12-01,13:00,15,Completed,Emergency,85,,
+APT001041,PT00262,DOC001,Patricia Smith,Cardiology,2026-03-26,12:15,15,Completed,Emergency,93,,
+APT001042,PT00164,DOC008,Michael Davis,General Medicine,2026-03-03,15:45,0,No-Show,Outpatient,,,
+APT001043,PT00246,DOC007,James Williams,Cardiology,2025-09-27,10:15,15,Completed,Emergency,100,,
+APT001044,PT00262,DOC005,Robert Jackson,General Medicine,2025-08-04,11:45,30,Completed,Outpatient,96,,
+APT001045,PT00186,DOC008,Michael Davis,General Medicine,2025-11-12,08:15,60,Completed,Inpatient,62,2025-11-12,2025-11-18
+APT001046,PT00192,DOC013,Joseph Jackson,Oncology,2025-10-24,10:15,60,Completed,Outpatient,90,,
+APT001047,PT00267,DOC010,James Moore,Oncology,2025-08-08,16:00,15,Completed,Outpatient,86,,
+APT001048,PT00075,DOC025,Robert Moore,Neurology,2025-07-21,12:30,45,Completed,Inpatient,77,2025-07-21,2025-07-29
+APT001049,PT00241,DOC017,John Miller,Oncology,2026-01-14,15:30,30,Completed,Emergency,97,,
+APT001050,PT00047,DOC023,Joseph Moore,Oncology,2025-12-23,12:30,15,Completed,Emergency,100,,
+APT001051,PT00139,DOC010,James Moore,Pediatrics,2026-03-20,12:15,45,Completed,Inpatient,75,2026-03-20,2026-03-24
+APT001052,PT00266,DOC022,David Johnson,Oncology,2025-11-20,11:30,45,Completed,Inpatient,72,2025-11-20,2025-11-23
+APT001053,PT00284,DOC011,Michael Moore,Orthopedics,2026-02-22,11:15,45,Completed,Outpatient,67,,
+APT001054,PT00173,DOC006,Susan Johnson,Neurology,2026-03-12,16:30,60,Completed,Inpatient,90,2026-03-12,2026-03-17
+APT001055,PT00037,DOC009,Thomas Martin,Cardiology,2026-01-09,09:15,0,No-Show,Inpatient,,2026-01-09,2026-01-10
+APT001056,PT00131,DOC016,William Rodriguez,Oncology,2025-11-19,14:45,15,Completed,Inpatient,72,2025-11-19,2025-11-24
+APT001057,PT00244,DOC014,David Smith,Oncology,2025-12-08,08:00,45,Completed,Outpatient,67,,
+APT001058,PT00036,DOC009,Thomas Martin,Cardiology,2026-04-01,08:00,30,Completed,Outpatient,87,,
+APT001059,PT00006,DOC004,Patricia Moore,Emergency,2025-11-19,17:30,30,Completed,Outpatient,74,,
+APT001060,PT00283,DOC012,Susan Davis,General Medicine,2025-10-30,11:15,45,Completed,Emergency,97,,
+APT001061,PT00197,DOC007,James Williams,Pediatrics,2025-07-09,15:00,45,Cancelled,Outpatient,,,
+APT001062,PT00049,DOC008,Michael Davis,General Medicine,2026-01-25,11:30,30,Completed,Inpatient,99,2026-01-25,2026-01-28
+APT001063,PT00123,DOC022,David Johnson,Emergency,2026-02-08,11:15,60,Completed,Emergency,84,,
+APT001064,PT00052,DOC003,Linda Jones,Oncology,2026-02-13,08:30,60,Completed,Emergency,84,,
+APT001065,PT00106,DOC022,David Johnson,Oncology,2026-02-09,08:45,45,Completed,Emergency,81,,
+APT001066,PT00260,DOC020,Patricia Lopez,Oncology,2026-02-12,10:45,60,Completed,Inpatient,69,2026-02-12,2026-02-14
+APT001067,PT00161,DOC012,Susan Davis,Oncology,2025-11-18,08:15,60,Completed,Inpatient,74,2025-11-18,2025-11-25
+APT001068,PT00034,DOC015,Jennifer Wilson,Neurology,2025-07-12,15:45,15,Completed,Inpatient,83,2025-07-12,2025-07-19
+APT001069,PT00218,DOC003,Linda Jones,Oncology,2025-11-08,10:15,60,Completed,Inpatient,83,2025-11-08,2025-11-13
+APT001070,PT00300,DOC021,Barbara Martin,Pediatrics,2026-03-29,14:30,0,No-Show,Outpatient,,,
+APT001071,PT00025,DOC025,Robert Moore,Orthopedics,2025-08-16,12:00,15,Completed,Outpatient,65,,
+APT001072,PT00269,DOC009,Thomas Martin,Oncology,2025-09-15,14:30,30,Completed,Inpatient,77,2025-09-15,2025-09-18
+APT001073,PT00035,DOC008,Michael Davis,General Medicine,2025-08-17,16:45,45,Completed,Emergency,71,,
+APT001074,PT00217,DOC006,Susan Johnson,Orthopedics,2025-07-09,17:00,0,No-Show,Outpatient,,,
+APT001075,PT00035,DOC025,Robert Moore,Cardiology,2025-11-15,16:00,0,No-Show,Outpatient,,,
+APT001076,PT00237,DOC018,William Brown,General Medicine,2026-01-05,11:00,30,Completed,Outpatient,94,,
+APT001077,PT00167,DOC006,Susan Johnson,General Medicine,2025-11-17,14:15,15,Completed,Outpatient,92,,
+APT001078,PT00086,DOC002,David Davis,Oncology,2025-09-18,17:30,0,No-Show,Outpatient,,,
+APT001079,PT00294,DOC009,Thomas Martin,Oncology,2025-11-03,10:00,30,Completed,Emergency,67,,
+APT001080,PT00035,DOC013,Joseph Jackson,Orthopedics,2025-07-01,16:45,60,Completed,Emergency,91,,
+APT001081,PT00269,DOC015,Jennifer Wilson,Neurology,2026-03-24,12:45,60,Completed,Emergency,96,,
+APT001082,PT00086,DOC017,John Miller,General Medicine,2026-03-13,17:30,15,Completed,Outpatient,73,,
+APT001083,PT00153,DOC004,Patricia Moore,Pediatrics,2026-01-28,15:15,45,Completed,Inpatient,83,2026-01-28,2026-01-29
+APT001084,PT00111,DOC014,David Smith,General Medicine,2025-09-14,14:15,45,Completed,Emergency,68,,
+APT001085,PT00073,DOC001,Patricia Smith,Orthopedics,2026-02-10,11:45,45,Completed,Inpatient,89,2026-02-10,2026-02-18
+APT001086,PT00027,DOC008,Michael Davis,Orthopedics,2025-08-21,14:45,60,Completed,Outpatient,82,,
+APT001087,PT00040,DOC020,Patricia Lopez,Emergency,2025-12-29,15:00,0,No-Show,Emergency,,,
+APT001088,PT00246,DOC003,Linda Jones,Emergency,2025-12-17,09:15,15,Completed,Emergency,70,,
+APT001089,PT00288,DOC009,Thomas Martin,Cardiology,2025-07-13,08:45,45,Completed,Emergency,93,,
+APT001090,PT00207,DOC011,Michael Moore,General Medicine,2026-02-21,16:00,15,Completed,Inpatient,78,2026-02-21,2026-02-27
+APT001091,PT00250,DOC014,David Smith,General Medicine,2026-03-21,10:45,15,Completed,Emergency,96,,
+APT001092,PT00170,DOC022,David Johnson,Neurology,2026-02-11,10:15,30,Completed,Emergency,77,,
+APT001093,PT00048,DOC020,Patricia Lopez,Oncology,2025-11-19,08:15,45,Completed,Outpatient,62,,
+APT001094,PT00100,DOC014,David Smith,Pediatrics,2025-10-08,11:00,45,Completed,Outpatient,87,,
+APT001095,PT00034,DOC006,Susan Johnson,General Medicine,2025-07-20,10:45,60,Completed,Inpatient,64,2025-07-20,2025-07-24
+APT001096,PT00236,DOC011,Michael Moore,Pediatrics,2026-01-07,16:30,0,No-Show,Inpatient,,2026-01-07,2026-01-16
+APT001097,PT00168,DOC017,John Miller,Orthopedics,2026-03-24,08:45,30,Completed,Emergency,75,,
+APT001098,PT00248,DOC009,Thomas Martin,Emergency,2026-03-18,17:30,15,Completed,Emergency,85,,
+APT001099,PT00132,DOC004,Patricia Moore,General Medicine,2025-09-14,10:00,60,Completed,Outpatient,75,,
+APT001100,PT00278,DOC017,John Miller,Emergency,2026-01-28,09:15,45,Completed,Inpatient,96,2026-01-28,2026-02-03
+APT001101,PT00247,DOC022,David Johnson,Cardiology,2025-12-08,14:45,60,Cancelled,Outpatient,,,
+APT001102,PT00079,DOC014,David Smith,Oncology,2025-07-16,15:45,30,Completed,Inpatient,67,2025-07-16,2025-07-21
+APT001103,PT00203,DOC019,Robert Gonzalez,Orthopedics,2026-01-24,17:15,30,Completed,Outpatient,78,,
+APT001104,PT00173,DOC006,Susan Johnson,Pediatrics,2025-12-15,09:00,15,Completed,Outpatient,66,,
+APT001105,PT00077,DOC018,William Brown,Oncology,2026-03-10,10:00,0,No-Show,Emergency,,,
+APT001106,PT00002,DOC016,William Rodriguez,Orthopedics,2025-07-17,10:30,15,Completed,Inpatient,82,2025-07-17,2025-07-19
+APT001107,PT00020,DOC019,Robert Gonzalez,Cardiology,2025-07-21,15:00,60,Completed,Outpatient,70,,
+APT001108,PT00137,DOC019,Robert Gonzalez,Emergency,2026-03-27,09:45,30,Completed,Emergency,78,,
+APT001109,PT00134,DOC006,Susan Johnson,Neurology,2026-03-21,08:45,45,Completed,Emergency,74,,
+APT001110,PT00174,DOC022,David Johnson,Orthopedics,2026-02-28,12:30,0,No-Show,Inpatient,,2026-02-28,2026-03-09
+APT001111,PT00206,DOC014,David Smith,General Medicine,2025-10-29,15:15,30,Completed,Inpatient,80,2025-10-29,2025-11-02
+APT001112,PT00019,DOC003,Linda Jones,Cardiology,2025-08-30,12:30,15,Completed,Inpatient,68,2025-08-30,2025-09-02
+APT001113,PT00297,DOC008,Michael Davis,Neurology,2026-03-04,11:45,45,Completed,Outpatient,95,,
+APT001114,PT00018,DOC012,Susan Davis,Orthopedics,2026-01-17,12:45,15,Completed,Outpatient,63,,
+APT001115,PT00096,DOC016,William Rodriguez,Oncology,2026-01-20,14:30,45,Completed,Inpatient,88,2026-01-20,2026-01-23
+APT001116,PT00291,DOC023,Joseph Moore,Orthopedics,2025-07-04,12:45,0,No-Show,Outpatient,,,
+APT001117,PT00048,DOC016,William Rodriguez,Emergency,2025-09-14,12:15,60,Completed,Outpatient,75,,
+APT001118,PT00093,DOC014,David Smith,Cardiology,2025-07-05,13:00,45,Completed,Emergency,81,,
+APT001119,PT00054,DOC016,William Rodriguez,General Medicine,2026-03-14,16:45,45,Completed,Outpatient,81,,
+APT001120,PT00271,DOC019,Robert Gonzalez,Pediatrics,2025-10-09,17:30,60,Completed,Emergency,62,,
+APT001121,PT00276,DOC025,Robert Moore,Oncology,2025-07-23,15:45,15,Completed,Outpatient,86,,
+APT001122,PT00238,DOC020,Patricia Lopez,Pediatrics,2025-10-27,15:30,30,Cancelled,Emergency,,,
+APT001123,PT00154,DOC021,Barbara Martin,General Medicine,2025-07-20,17:30,0,No-Show,Emergency,,,
+APT001124,PT00203,DOC009,Thomas Martin,Cardiology,2026-03-29,14:00,30,Completed,Outpatient,88,,
+APT001125,PT00221,DOC002,David Davis,Cardiology,2025-11-18,16:30,15,Completed,Emergency,86,,
+APT001126,PT00027,DOC016,William Rodriguez,Pediatrics,2025-10-18,11:45,15,Completed,Emergency,78,,
+APT001127,PT00288,DOC024,Patricia Gonzalez,Emergency,2025-09-29,09:30,60,Completed,Outpatient,60,,
+APT001128,PT00126,DOC016,William Rodriguez,Cardiology,2025-08-20,12:30,30,Completed,Emergency,76,,
+APT001129,PT00213,DOC006,Susan Johnson,Oncology,2025-10-13,16:00,45,Completed,Inpatient,66,2025-10-13,2025-10-18
+APT001130,PT00080,DOC004,Patricia Moore,General Medicine,2025-07-02,10:00,45,Cancelled,Outpatient,,,
+APT001131,PT00232,DOC011,Michael Moore,Cardiology,2026-03-14,15:30,15,Completed,Emergency,89,,
+APT001132,PT00043,DOC012,Susan Davis,General Medicine,2025-08-17,08:00,45,Completed,Inpatient,72,2025-08-17,2025-08-26
+APT001133,PT00084,DOC005,Robert Jackson,Emergency,2025-09-21,15:30,30,Completed,Emergency,94,,
+APT001134,PT00016,DOC011,Michael Moore,General Medicine,2026-01-16,11:15,60,Completed,Inpatient,66,2026-01-16,2026-01-25
+APT001135,PT00248,DOC025,Robert Moore,Pediatrics,2025-08-04,15:45,30,Cancelled,Emergency,,,
+APT001136,PT00199,DOC011,Michael Moore,Neurology,2026-01-05,11:00,60,Completed,Outpatient,62,,
+APT001137,PT00293,DOC012,Susan Davis,Cardiology,2026-01-07,09:15,60,Completed,Inpatient,60,2026-01-07,2026-01-13
+APT001138,PT00267,DOC018,William Brown,General Medicine,2025-08-29,09:00,45,Completed,Inpatient,91,2025-08-29,2025-09-07
+APT001139,PT00163,DOC008,Michael Davis,Emergency,2026-04-01,09:00,0,No-Show,Inpatient,,2026-04-01,2026-04-02
+APT001140,PT00071,DOC023,Joseph Moore,Emergency,2026-01-11,09:30,60,Cancelled,Inpatient,,2026-01-11,2026-01-17
+APT001141,PT00158,DOC024,Patricia Gonzalez,Emergency,2026-01-25,10:00,15,Completed,Inpatient,80,2026-01-25,2026-01-28
+APT001142,PT00049,DOC009,Thomas Martin,General Medicine,2025-12-18,17:00,30,Completed,Outpatient,71,,
+APT001143,PT00119,DOC002,David Davis,Emergency,2025-12-07,16:00,0,No-Show,Emergency,,,
+APT001144,PT00282,DOC019,Robert Gonzalez,General Medicine,2025-11-30,12:00,0,No-Show,Emergency,,,
+APT001145,PT00207,DOC025,Robert Moore,Cardiology,2025-12-07,13:30,0,No-Show,Inpatient,,2025-12-07,2025-12-09
+APT001146,PT00071,DOC003,Linda Jones,Cardiology,2025-07-03,14:00,45,Completed,Inpatient,62,2025-07-03,2025-07-11
+APT001147,PT00288,DOC008,Michael Davis,Cardiology,2025-12-19,08:45,15,Completed,Emergency,96,,
+APT001148,PT00112,DOC024,Patricia Gonzalez,Neurology,2025-09-03,14:00,30,Completed,Emergency,92,,
+APT001149,PT00268,DOC009,Thomas Martin,Pediatrics,2025-10-05,11:45,60,Completed,Outpatient,63,,
+APT001150,PT00099,DOC017,John Miller,Emergency,2025-12-24,12:15,45,Completed,Emergency,86,,
+APT001151,PT00064,DOC023,Joseph Moore,Oncology,2025-11-08,17:15,60,Completed,Inpatient,60,2025-11-08,2025-11-10
+APT001152,PT00066,DOC019,Robert Gonzalez,Orthopedics,2025-08-31,08:15,30,Cancelled,Outpatient,,,
+APT001153,PT00128,DOC024,Patricia Gonzalez,Cardiology,2025-08-06,09:00,45,Completed,Outpatient,73,,
+APT001154,PT00108,DOC023,Joseph Moore,Cardiology,2025-07-08,10:00,30,Completed,Inpatient,73,2025-07-08,2025-07-16
+APT001155,PT00167,DOC014,David Smith,Oncology,2026-03-23,14:30,30,Completed,Inpatient,72,2026-03-23,2026-03-26
+APT001156,PT00125,DOC016,William Rodriguez,Oncology,2025-11-18,10:00,60,Completed,Inpatient,60,2025-11-18,2025-11-25
+APT001157,PT00031,DOC024,Patricia Gonzalez,Oncology,2026-03-26,12:30,30,Completed,Inpatient,67,2026-03-26,2026-03-31
+APT001158,PT00008,DOC016,William Rodriguez,General Medicine,2026-03-29,15:15,30,Completed,Inpatient,82,2026-03-29,2026-04-03
+APT001159,PT00142,DOC016,William Rodriguez,Oncology,2025-11-16,08:15,30,Completed,Outpatient,88,,
+APT001160,PT00249,DOC013,Joseph Jackson,Orthopedics,2026-03-18,13:30,45,Completed,Outpatient,67,,
+APT001161,PT00051,DOC009,Thomas Martin,General Medicine,2026-03-22,09:00,15,Completed,Emergency,85,,
+APT001162,PT00124,DOC010,James Moore,Emergency,2025-11-03,15:00,30,Completed,Emergency,95,,
+APT001163,PT00077,DOC001,Patricia Smith,Emergency,2026-01-31,10:00,30,Completed,Outpatient,90,,
+APT001164,PT00157,DOC024,Patricia Gonzalez,General Medicine,2026-02-03,17:30,60,Completed,Inpatient,97,2026-02-03,2026-02-07
+APT001165,PT00242,DOC020,Patricia Lopez,Orthopedics,2025-11-03,16:30,30,Completed,Inpatient,82,2025-11-03,2025-11-11
+APT001166,PT00221,DOC018,William Brown,Cardiology,2025-08-09,08:15,60,Completed,Outpatient,74,,
+APT001167,PT00240,DOC014,David Smith,Pediatrics,2025-08-07,11:15,30,Completed,Emergency,88,,
+APT001168,PT00112,DOC012,Susan Davis,Cardiology,2025-07-19,12:45,15,Completed,Emergency,86,,
+APT001169,PT00108,DOC003,Linda Jones,Emergency,2025-10-30,08:45,30,Completed,Outpatient,76,,
+APT001170,PT00142,DOC018,William Brown,Orthopedics,2025-07-04,13:00,60,Cancelled,Inpatient,,2025-07-04,2025-07-08
+APT001171,PT00299,DOC008,Michael Davis,Pediatrics,2025-11-20,15:15,45,Completed,Emergency,82,,
+APT001172,PT00014,DOC024,Patricia Gonzalez,Cardiology,2025-07-11,11:00,30,Completed,Outpatient,71,,
+APT001173,PT00092,DOC007,James Williams,General Medicine,2025-10-16,11:15,60,Completed,Inpatient,89,2025-10-16,2025-10-17
+APT001174,PT00105,DOC012,Susan Davis,Neurology,2025-12-01,09:15,0,No-Show,Inpatient,,2025-12-01,2025-12-04
+APT001175,PT00004,DOC006,Susan Johnson,Emergency,2025-07-18,09:15,15,Completed,Emergency,86,,
+APT001176,PT00109,DOC003,Linda Jones,Orthopedics,2026-01-29,16:30,45,Completed,Outpatient,70,,
+APT001177,PT00232,DOC006,Susan Johnson,General Medicine,2026-03-30,10:45,60,Completed,Outpatient,88,,
+APT001178,PT00143,DOC011,Michael Moore,Emergency,2025-10-18,14:30,30,Cancelled,Outpatient,,,
+APT001179,PT00193,DOC025,Robert Moore,Pediatrics,2026-02-24,10:00,15,Cancelled,Emergency,,,
+APT001180,PT00118,DOC024,Patricia Gonzalez,Neurology,2026-03-31,14:15,60,Cancelled,Outpatient,,,
+APT001181,PT00028,DOC017,John Miller,Orthopedics,2025-10-27,11:00,15,Completed,Outpatient,63,,
+APT001182,PT00174,DOC017,John Miller,Pediatrics,2025-08-17,08:45,30,Completed,Inpatient,95,2025-08-17,2025-08-20
+APT001183,PT00106,DOC005,Robert Jackson,General Medicine,2025-10-21,17:45,30,Completed,Outpatient,93,,
+APT001184,PT00037,DOC014,David Smith,Neurology,2025-08-11,13:00,45,Completed,Inpatient,89,2025-08-11,2025-08-14
+APT001185,PT00006,DOC025,Robert Moore,Cardiology,2025-07-13,08:00,0,No-Show,Emergency,,,
+APT001186,PT00166,DOC006,Susan Johnson,General Medicine,2025-08-11,15:30,15,Completed,Outpatient,90,,
+APT001187,PT00030,DOC021,Barbara Martin,Neurology,2025-07-14,16:30,15,Completed,Inpatient,80,2025-07-14,2025-07-21
+APT001188,PT00134,DOC006,Susan Johnson,Cardiology,2025-09-14,12:45,60,Completed,Emergency,94,,
+APT001189,PT00268,DOC025,Robert Moore,Cardiology,2025-09-16,14:45,45,Completed,Inpatient,92,2025-09-16,2025-09-17
+APT001190,PT00223,DOC015,Jennifer Wilson,Cardiology,2025-07-23,14:30,30,Completed,Outpatient,76,,
+APT001191,PT00175,DOC003,Linda Jones,Emergency,2026-03-22,17:00,60,Completed,Outpatient,85,,
+APT001192,PT00121,DOC014,David Smith,Orthopedics,2025-11-15,12:15,45,Completed,Inpatient,83,2025-11-15,2025-11-16
+APT001193,PT00193,DOC024,Patricia Gonzalez,Cardiology,2025-07-21,11:45,30,Completed,Outpatient,86,,
+APT001194,PT00286,DOC015,Jennifer Wilson,Pediatrics,2025-12-29,10:00,30,Completed,Outpatient,99,,
+APT001195,PT00032,DOC009,Thomas Martin,General Medicine,2025-07-25,16:00,15,Cancelled,Inpatient,,2025-07-25,2025-07-30
+APT001196,PT00133,DOC021,Barbara Martin,Orthopedics,2026-02-28,14:15,30,Completed,Outpatient,93,,
+APT001197,PT00271,DOC021,Barbara Martin,Cardiology,2026-01-21,14:30,30,Completed,Outpatient,64,,
+APT001198,PT00088,DOC017,John Miller,Pediatrics,2025-12-05,14:15,30,Completed,Outpatient,61,,
+APT001199,PT00189,DOC024,Patricia Gonzalez,Neurology,2026-03-28,09:45,45,Completed,Outpatient,79,,
+APT001200,PT00021,DOC013,Joseph Jackson,Emergency,2026-01-16,14:15,30,Completed,Inpatient,78,2026-01-16,2026-01-17
+APT001201,PT00189,DOC011,Michael Moore,Pediatrics,2025-10-04,15:45,15,Completed,Emergency,61,,
+APT001202,PT00158,DOC014,David Smith,General Medicine,2025-11-21,17:00,0,No-Show,Emergency,,,
+APT001203,PT00116,DOC024,Patricia Gonzalez,Cardiology,2026-01-05,12:30,30,Completed,Emergency,92,,
+APT001204,PT00069,DOC015,Jennifer Wilson,Pediatrics,2025-08-01,12:15,15,Completed,Inpatient,62,2025-08-01,2025-08-06
+APT001205,PT00111,DOC007,James Williams,General Medicine,2025-12-29,09:45,45,Completed,Emergency,76,,
+APT001206,PT00114,DOC005,Robert Jackson,General Medicine,2025-08-22,16:45,60,Completed,Emergency,98,,
+APT001207,PT00064,DOC018,William Brown,Cardiology,2025-10-10,15:15,30,Completed,Outpatient,100,,
+APT001208,PT00069,DOC013,Joseph Jackson,Neurology,2025-12-13,08:00,60,Cancelled,Outpatient,,,
+APT001209,PT00043,DOC025,Robert Moore,Pediatrics,2026-03-16,16:45,60,Completed,Inpatient,84,2026-03-16,2026-03-18
+APT001210,PT00269,DOC001,Patricia Smith,Cardiology,2025-10-03,13:45,15,Completed,Outpatient,61,,
+APT001211,PT00058,DOC018,William Brown,Orthopedics,2026-03-26,13:45,60,Cancelled,Outpatient,,,
+APT001212,PT00255,DOC009,Thomas Martin,Neurology,2025-11-23,09:45,0,No-Show,Emergency,,,
+APT001213,PT00002,DOC020,Patricia Lopez,Neurology,2025-10-18,08:00,30,Completed,Emergency,82,,
+APT001214,PT00160,DOC020,Patricia Lopez,Cardiology,2025-09-02,17:30,0,No-Show,Emergency,,,
+APT001215,PT00056,DOC018,William Brown,Emergency,2025-10-24,08:15,45,Completed,Emergency,90,,
+APT001216,PT00209,DOC007,James Williams,Orthopedics,2025-09-19,09:15,30,Cancelled,Emergency,,,
+APT001217,PT00232,DOC009,Thomas Martin,Emergency,2025-12-20,12:15,15,Completed,Outpatient,76,,
+APT001218,PT00267,DOC018,William Brown,Oncology,2025-07-22,08:30,0,No-Show,Emergency,,,
+APT001219,PT00122,DOC016,William Rodriguez,Oncology,2026-02-05,09:15,15,Completed,Emergency,62,,
+APT001220,PT00219,DOC025,Robert Moore,General Medicine,2025-07-10,16:15,15,Cancelled,Outpatient,,,
+APT001221,PT00185,DOC013,Joseph Jackson,Oncology,2025-08-15,14:15,0,No-Show,Outpatient,,,
+APT001222,PT00234,DOC003,Linda Jones,Emergency,2025-10-17,13:30,45,Completed,Outpatient,73,,
+APT001223,PT00027,DOC014,David Smith,Pediatrics,2025-10-02,14:15,60,Completed,Outpatient,91,,
+APT001224,PT00108,DOC017,John Miller,General Medicine,2025-11-13,12:00,30,Completed,Outpatient,67,,
+APT001225,PT00271,DOC015,Jennifer Wilson,General Medicine,2025-10-08,14:00,30,Completed,Outpatient,90,,
+APT001226,PT00109,DOC008,Michael Davis,Neurology,2026-01-08,13:45,15,Completed,Outpatient,63,,
+APT001227,PT00010,DOC020,Patricia Lopez,General Medicine,2025-07-25,12:30,15,Completed,Emergency,97,,
+APT001228,PT00294,DOC006,Susan Johnson,Cardiology,2026-02-17,14:45,30,Cancelled,Emergency,,,
+APT001229,PT00294,DOC013,Joseph Jackson,General Medicine,2025-11-29,17:45,0,No-Show,Emergency,,,
+APT001230,PT00046,DOC017,John Miller,Emergency,2025-09-13,10:30,30,Completed,Inpatient,97,2025-09-13,2025-09-20
+APT001231,PT00151,DOC001,Patricia Smith,General Medicine,2026-03-14,17:15,0,No-Show,Emergency,,,
+APT001232,PT00090,DOC007,James Williams,Cardiology,2025-10-03,12:15,0,No-Show,Outpatient,,,
+APT001233,PT00221,DOC013,Joseph Jackson,Pediatrics,2025-07-29,10:45,60,Completed,Emergency,61,,
+APT001234,PT00061,DOC015,Jennifer Wilson,General Medicine,2026-01-30,10:15,60,Cancelled,Outpatient,,,
+APT001235,PT00159,DOC018,William Brown,Neurology,2025-10-25,11:15,45,Completed,Outpatient,80,,
+APT001236,PT00288,DOC025,Robert Moore,Cardiology,2025-11-23,09:15,0,No-Show,Inpatient,,2025-11-23,2025-11-30
+APT001237,PT00290,DOC020,Patricia Lopez,Oncology,2025-12-22,16:15,45,Completed,Outpatient,85,,
+APT001238,PT00223,DOC022,David Johnson,Emergency,2025-08-17,14:00,45,Completed,Inpatient,96,2025-08-17,2025-08-24
+APT001239,PT00111,DOC001,Patricia Smith,Pediatrics,2026-03-04,10:15,0,No-Show,Outpatient,,,
+APT001240,PT00271,DOC011,Michael Moore,Pediatrics,2025-12-20,11:30,45,Cancelled,Outpatient,,,
+APT001241,PT00205,DOC018,William Brown,Orthopedics,2025-11-01,08:15,15,Completed,Inpatient,92,2025-11-01,2025-11-06
+APT001242,PT00115,DOC001,Patricia Smith,Cardiology,2026-03-21,09:45,15,Completed,Inpatient,84,2026-03-21,2026-03-23
+APT001243,PT00039,DOC003,Linda Jones,Neurology,2025-10-07,08:00,0,No-Show,Inpatient,,2025-10-07,2025-10-08
+APT001244,PT00029,DOC020,Patricia Lopez,Neurology,2025-11-20,13:00,15,Completed,Emergency,98,,
+APT001245,PT00233,DOC014,David Smith,General Medicine,2025-09-29,11:45,0,No-Show,Emergency,,,
+APT001246,PT00211,DOC021,Barbara Martin,Orthopedics,2025-07-26,12:00,45,Completed,Outpatient,100,,
+APT001247,PT00254,DOC015,Jennifer Wilson,Oncology,2025-11-22,14:45,30,Completed,Outpatient,88,,
+APT001248,PT00067,DOC020,Patricia Lopez,Orthopedics,2025-12-24,14:00,60,Completed,Outpatient,91,,
+APT001249,PT00083,DOC019,Robert Gonzalez,Neurology,2025-08-04,09:15,45,Completed,Inpatient,61,2025-08-04,2025-08-11
+APT001250,PT00233,DOC008,Michael Davis,Cardiology,2025-09-06,11:30,30,Cancelled,Inpatient,,2025-09-06,2025-09-12
+APT001251,PT00206,DOC004,Patricia Moore,Oncology,2025-08-10,09:15,15,Completed,Outpatient,70,,
+APT001252,PT00001,DOC013,Joseph Jackson,Cardiology,2025-10-21,10:45,45,Completed,Outpatient,92,,
+APT001253,PT00254,DOC018,William Brown,Pediatrics,2025-12-24,09:30,60,Completed,Outpatient,73,,
+APT001254,PT00158,DOC009,Thomas Martin,Pediatrics,2025-07-26,08:15,45,Completed,Outpatient,97,,
+APT001255,PT00203,DOC010,James Moore,Pediatrics,2025-07-23,12:30,60,Cancelled,Outpatient,,,
+APT001256,PT00028,DOC008,Michael Davis,Oncology,2025-10-13,16:00,60,Completed,Outpatient,85,,
+APT001257,PT00073,DOC015,Jennifer Wilson,Neurology,2026-03-13,08:15,15,Completed,Outpatient,71,,
+APT001258,PT00048,DOC016,William Rodriguez,General Medicine,2026-04-01,11:30,0,No-Show,Outpatient,,,
+APT001259,PT00266,DOC014,David Smith,Orthopedics,2025-12-22,14:15,30,Completed,Inpatient,98,2025-12-22,2025-12-30
+APT001260,PT00277,DOC008,Michael Davis,Cardiology,2026-03-21,08:30,60,Completed,Emergency,80,,
+APT001261,PT00118,DOC019,Robert Gonzalez,General Medicine,2026-02-16,17:45,60,Cancelled,Outpatient,,,
+APT001262,PT00207,DOC022,David Johnson,Cardiology,2026-02-18,11:45,60,Completed,Outpatient,85,,
+APT001263,PT00266,DOC025,Robert Moore,General Medicine,2025-09-14,13:00,0,No-Show,Outpatient,,,
+APT001264,PT00193,DOC018,William Brown,Orthopedics,2025-08-13,13:30,30,Completed,Outpatient,71,,
+APT001265,PT00082,DOC003,Linda Jones,Oncology,2026-01-04,12:45,15,Completed,Inpatient,94,2026-01-04,2026-01-12
+APT001266,PT00038,DOC017,John Miller,Neurology,2025-09-28,17:45,45,Completed,Emergency,68,,
+APT001267,PT00234,DOC025,Robert Moore,Pediatrics,2025-07-21,14:30,30,Completed,Emergency,77,,
+APT001268,PT00280,DOC001,Patricia Smith,Orthopedics,2025-09-03,13:00,0,No-Show,Outpatient,,,
+APT001269,PT00118,DOC022,David Johnson,General Medicine,2026-02-07,16:30,45,Cancelled,Emergency,,,
+APT001270,PT00067,DOC010,James Moore,Pediatrics,2025-12-20,16:00,0,No-Show,Emergency,,,
+APT001271,PT00044,DOC010,James Moore,Emergency,2026-02-17,15:00,15,Completed,Emergency,89,,
+APT001272,PT00183,DOC006,Susan Johnson,Orthopedics,2026-01-22,08:45,30,Completed,Inpatient,72,2026-01-22,2026-01-31
+APT001273,PT00040,DOC020,Patricia Lopez,Cardiology,2026-02-22,16:15,60,Completed,Emergency,91,,
+APT001274,PT00295,DOC014,David Smith,Pediatrics,2026-03-12,16:15,45,Completed,Outpatient,68,,
+APT001275,PT00253,DOC024,Patricia Gonzalez,Cardiology,2026-03-30,10:15,60,Completed,Emergency,60,,
+APT001276,PT00189,DOC002,David Davis,Neurology,2025-11-15,13:45,0,No-Show,Emergency,,,
+APT001277,PT00196,DOC024,Patricia Gonzalez,Pediatrics,2025-12-17,09:15,15,Completed,Emergency,62,,
+APT001278,PT00144,DOC018,William Brown,Orthopedics,2025-12-23,10:45,0,No-Show,Inpatient,,2025-12-23,2025-12-28
+APT001279,PT00202,DOC007,James Williams,Orthopedics,2025-12-28,12:15,0,No-Show,Emergency,,,
+APT001280,PT00127,DOC021,Barbara Martin,Orthopedics,2026-03-30,16:00,30,Completed,Inpatient,85,2026-03-30,2026-04-03
+APT001281,PT00085,DOC009,Thomas Martin,Cardiology,2025-12-15,14:15,45,Completed,Inpatient,90,2025-12-15,2025-12-18
+APT001282,PT00088,DOC013,Joseph Jackson,Pediatrics,2025-10-22,13:30,0,No-Show,Outpatient,,,
+APT001283,PT00053,DOC008,Michael Davis,General Medicine,2026-03-16,13:00,45,Completed,Emergency,85,,
+APT001284,PT00251,DOC017,John Miller,Emergency,2026-01-14,08:30,45,Cancelled,Emergency,,,
+APT001285,PT00250,DOC025,Robert Moore,Neurology,2025-11-25,08:15,0,No-Show,Outpatient,,,
+APT001286,PT00157,DOC021,Barbara Martin,Pediatrics,2025-08-31,17:00,0,No-Show,Emergency,,,
+APT001287,PT00058,DOC016,William Rodriguez,Pediatrics,2026-03-05,17:15,45,Completed,Outpatient,93,,
+APT001288,PT00138,DOC002,David Davis,Cardiology,2026-01-03,15:00,45,Completed,Inpatient,65,2026-01-03,2026-01-09
+APT001289,PT00168,DOC007,James Williams,Cardiology,2025-10-19,15:00,60,Completed,Inpatient,99,2025-10-19,2025-10-23
+APT001290,PT00219,DOC015,Jennifer Wilson,General Medicine,2025-12-10,09:30,30,Completed,Emergency,77,,
+APT001291,PT00045,DOC002,David Davis,General Medicine,2025-12-29,17:45,15,Completed,Inpatient,99,2025-12-29,2026-01-07
+APT001292,PT00068,DOC025,Robert Moore,Oncology,2025-07-04,14:15,45,Completed,Outpatient,75,,
+APT001293,PT00071,DOC011,Michael Moore,Pediatrics,2026-02-05,15:45,60,Completed,Inpatient,97,2026-02-05,2026-02-14
+APT001294,PT00086,DOC005,Robert Jackson,Oncology,2025-12-20,17:45,45,Completed,Emergency,77,,
+APT001295,PT00187,DOC011,Michael Moore,General Medicine,2025-11-25,09:45,15,Completed,Outpatient,79,,
+APT001296,PT00171,DOC001,Patricia Smith,Orthopedics,2025-07-04,10:30,0,No-Show,Outpatient,,,
+APT001297,PT00191,DOC021,Barbara Martin,Orthopedics,2025-10-27,13:30,15,Completed,Outpatient,68,,
+APT001298,PT00036,DOC007,James Williams,Cardiology,2025-12-13,14:15,30,Completed,Outpatient,93,,
+APT001299,PT00052,DOC010,James Moore,Emergency,2025-11-23,17:45,0,No-Show,Emergency,,,
+APT001300,PT00198,DOC019,Robert Gonzalez,Pediatrics,2026-03-09,15:45,60,Completed,Emergency,74,,
+APT001301,PT00150,DOC021,Barbara Martin,Oncology,2025-09-15,13:30,30,Completed,Outpatient,83,,
+APT001302,PT00108,DOC003,Linda Jones,Pediatrics,2025-10-20,16:00,0,No-Show,Outpatient,,,
+APT001303,PT00069,DOC007,James Williams,General Medicine,2025-08-02,12:00,15,Completed,Emergency,69,,
+APT001304,PT00031,DOC013,Joseph Jackson,Neurology,2025-07-05,11:45,0,No-Show,Emergency,,,
+APT001305,PT00135,DOC016,William Rodriguez,Orthopedics,2025-10-13,15:45,30,Completed,Inpatient,82,2025-10-13,2025-10-14
+APT001306,PT00045,DOC022,David Johnson,Oncology,2025-09-29,12:30,45,Completed,Inpatient,90,2025-09-29,2025-10-07
+APT001307,PT00137,DOC016,William Rodriguez,Orthopedics,2026-01-11,10:00,45,Completed,Emergency,62,,
+APT001308,PT00262,DOC025,Robert Moore,General Medicine,2026-02-18,09:45,30,Completed,Emergency,95,,
+APT001309,PT00028,DOC018,William Brown,General Medicine,2025-10-02,09:45,30,Completed,Outpatient,90,,
+APT001310,PT00111,DOC007,James Williams,Oncology,2025-10-20,08:30,30,Cancelled,Emergency,,,
+APT001311,PT00094,DOC006,Susan Johnson,Orthopedics,2025-10-18,13:00,60,Completed,Outpatient,66,,
+APT001312,PT00156,DOC008,Michael Davis,Pediatrics,2025-09-12,11:15,45,Completed,Outpatient,80,,
+APT001313,PT00164,DOC018,William Brown,Emergency,2025-11-14,10:45,30,Completed,Inpatient,89,2025-11-14,2025-11-22
+APT001314,PT00011,DOC019,Robert Gonzalez,Emergency,2025-11-11,15:00,0,No-Show,Emergency,,,
+APT001315,PT00093,DOC015,Jennifer Wilson,Pediatrics,2026-02-10,09:15,60,Completed,Emergency,71,,
+APT001316,PT00029,DOC011,Michael Moore,Orthopedics,2026-02-25,13:15,60,Completed,Inpatient,67,2026-02-25,2026-03-01
+APT001317,PT00286,DOC017,John Miller,Orthopedics,2025-09-05,13:45,30,Completed,Emergency,66,,
+APT001318,PT00028,DOC018,William Brown,Orthopedics,2025-09-27,17:45,60,Completed,Outpatient,76,,
+APT001319,PT00266,DOC017,John Miller,Pediatrics,2026-02-10,10:15,45,Completed,Outpatient,83,,
+APT001320,PT00274,DOC013,Joseph Jackson,Cardiology,2025-07-21,09:30,60,Completed,Inpatient,79,2025-07-21,2025-07-25
+APT001321,PT00035,DOC012,Susan Davis,General Medicine,2025-09-22,08:15,15,Cancelled,Emergency,,,
+APT001322,PT00296,DOC006,Susan Johnson,General Medicine,2025-12-26,15:30,30,Completed,Outpatient,79,,
+APT001323,PT00262,DOC007,James Williams,Cardiology,2025-10-09,14:45,0,No-Show,Emergency,,,
+APT001324,PT00043,DOC007,James Williams,Neurology,2026-03-13,08:15,60,Completed,Outpatient,69,,
+APT001325,PT00078,DOC004,Patricia Moore,Orthopedics,2025-09-19,15:15,60,Completed,Emergency,89,,
+APT001326,PT00028,DOC004,Patricia Moore,Pediatrics,2025-08-15,10:00,30,Completed,Inpatient,85,2025-08-15,2025-08-17
+APT001327,PT00017,DOC015,Jennifer Wilson,Orthopedics,2025-12-23,11:15,30,Completed,Emergency,88,,
+APT001328,PT00019,DOC010,James Moore,Pediatrics,2025-10-07,10:45,15,Completed,Inpatient,73,2025-10-07,2025-10-16
+APT001329,PT00155,DOC025,Robert Moore,Pediatrics,2025-08-23,12:00,15,Completed,Inpatient,71,2025-08-23,2025-08-25
+APT001330,PT00203,DOC021,Barbara Martin,Pediatrics,2025-09-10,10:15,45,Cancelled,Outpatient,,,
+APT001331,PT00147,DOC013,Joseph Jackson,Orthopedics,2025-07-09,11:30,0,No-Show,Emergency,,,
+APT001332,PT00180,DOC024,Patricia Gonzalez,Oncology,2025-08-03,08:15,0,No-Show,Emergency,,,
+APT001333,PT00292,DOC020,Patricia Lopez,Emergency,2025-09-04,09:15,15,Completed,Emergency,91,,
+APT001334,PT00233,DOC004,Patricia Moore,Orthopedics,2025-11-19,14:30,45,Completed,Inpatient,95,2025-11-19,2025-11-25
+APT001335,PT00067,DOC007,James Williams,General Medicine,2025-07-14,10:45,15,Completed,Outpatient,69,,
+APT001336,PT00028,DOC014,David Smith,Cardiology,2026-01-02,12:00,60,Completed,Inpatient,74,2026-01-02,2026-01-11
+APT001337,PT00032,DOC015,Jennifer Wilson,Neurology,2025-08-13,11:15,60,Completed,Emergency,61,,
+APT001338,PT00065,DOC010,James Moore,Pediatrics,2025-08-24,12:00,30,Completed,Inpatient,70,2025-08-24,2025-08-25
+APT001339,PT00064,DOC001,Patricia Smith,Pediatrics,2026-01-02,17:45,0,No-Show,Inpatient,,2026-01-02,2026-01-10
+APT001340,PT00158,DOC020,Patricia Lopez,Cardiology,2026-01-06,12:45,45,Completed,Emergency,82,,
+APT001341,PT00089,DOC008,Michael Davis,Emergency,2026-03-03,12:45,0,No-Show,Outpatient,,,
+APT001342,PT00223,DOC001,Patricia Smith,Cardiology,2025-07-23,08:15,15,Completed,Outpatient,92,,
+APT001343,PT00014,DOC024,Patricia Gonzalez,General Medicine,2026-01-28,12:00,60,Completed,Outpatient,88,,
+APT001344,PT00251,DOC006,Susan Johnson,Oncology,2026-03-22,13:45,15,Completed,Outpatient,93,,
+APT001345,PT00055,DOC005,Robert Jackson,Pediatrics,2025-07-16,13:00,0,No-Show,Outpatient,,,
+APT001346,PT00238,DOC003,Linda Jones,Orthopedics,2026-03-18,15:15,15,Completed,Inpatient,66,2026-03-18,2026-03-22
+APT001347,PT00025,DOC010,James Moore,Emergency,2026-03-29,14:15,30,Cancelled,Inpatient,,2026-03-29,2026-04-03
+APT001348,PT00101,DOC001,Patricia Smith,Cardiology,2026-02-08,15:45,45,Completed,Emergency,93,,
+APT001349,PT00220,DOC020,Patricia Lopez,Emergency,2026-03-12,13:15,15,Completed,Outpatient,95,,
+APT001350,PT00103,DOC020,Patricia Lopez,Oncology,2025-09-19,14:45,0,No-Show,Inpatient,,2025-09-19,2025-09-24
+APT001351,PT00077,DOC003,Linda Jones,Emergency,2025-08-02,08:00,15,Completed,Outpatient,90,,
+APT001352,PT00137,DOC013,Joseph Jackson,Oncology,2026-02-03,09:00,15,Completed,Inpatient,100,2026-02-03,2026-02-04
+APT001353,PT00249,DOC022,David Johnson,Oncology,2025-09-02,08:30,0,No-Show,Outpatient,,,
+APT001354,PT00300,DOC008,Michael Davis,Pediatrics,2025-08-04,12:00,0,No-Show,Emergency,,,
+APT001355,PT00162,DOC008,Michael Davis,Neurology,2025-08-03,17:00,45,Completed,Outpatient,62,,
+APT001356,PT00153,DOC021,Barbara Martin,General Medicine,2026-03-12,11:00,60,Cancelled,Inpatient,,2026-03-12,2026-03-21
+APT001357,PT00225,DOC022,David Johnson,Cardiology,2026-01-29,14:45,15,Completed,Emergency,78,,
+APT001358,PT00051,DOC005,Robert Jackson,Orthopedics,2026-03-06,17:30,60,Completed,Outpatient,91,,
+APT001359,PT00128,DOC008,Michael Davis,General Medicine,2025-09-28,17:00,45,Completed,Inpatient,71,2025-09-28,2025-10-02
+APT001360,PT00229,DOC001,Patricia Smith,Cardiology,2025-11-13,15:00,30,Completed,Inpatient,68,2025-11-13,2025-11-14
+APT001361,PT00277,DOC006,Susan Johnson,Cardiology,2025-08-15,09:00,45,Completed,Outpatient,61,,
+APT001362,PT00121,DOC012,Susan Davis,Neurology,2026-03-20,09:00,30,Completed,Emergency,88,,
+APT001363,PT00228,DOC001,Patricia Smith,Neurology,2026-03-15,16:45,15,Completed,Inpatient,92,2026-03-15,2026-03-16
+APT001364,PT00156,DOC018,William Brown,Orthopedics,2025-09-21,17:45,30,Completed,Inpatient,82,2025-09-21,2025-09-30
+APT001365,PT00192,DOC015,Jennifer Wilson,Cardiology,2025-09-27,14:45,15,Completed,Outpatient,76,,
+APT001366,PT00164,DOC016,William Rodriguez,Neurology,2025-08-17,11:45,0,No-Show,Outpatient,,,
+APT001367,PT00289,DOC003,Linda Jones,Emergency,2026-01-23,16:45,30,Completed,Emergency,65,,
+APT001368,PT00139,DOC006,Susan Johnson,Pediatrics,2026-02-02,14:45,60,Completed,Emergency,69,,
+APT001369,PT00026,DOC009,Thomas Martin,Cardiology,2025-12-29,17:45,15,Completed,Outpatient,76,,
+APT001370,PT00058,DOC012,Susan Davis,Oncology,2025-07-23,15:30,30,Completed,Emergency,75,,
+APT001371,PT00284,DOC018,William Brown,Orthopedics,2025-12-18,10:30,60,Completed,Inpatient,66,2025-12-18,2025-12-26
+APT001372,PT00216,DOC023,Joseph Moore,Neurology,2025-11-22,16:15,0,No-Show,Inpatient,,2025-11-22,2025-11-29
+APT001373,PT00220,DOC001,Patricia Smith,Emergency,2026-02-17,08:15,60,Completed,Outpatient,64,,
+APT001374,PT00288,DOC011,Michael Moore,Cardiology,2026-01-14,12:15,60,Completed,Inpatient,97,2026-01-14,2026-01-12
+APT001375,PT00294,DOC025,Robert Moore,Orthopedics,2025-11-14,17:00,30,Completed,Emergency,92,,
+APT001376,PT00224,DOC005,Robert Jackson,Emergency,2026-01-19,14:00,15,Completed,Emergency,88,,
+APT001377,PT00033,DOC003,Linda Jones,Emergency,2025-08-07,13:15,30,Completed,Outpatient,97,,
+APT001378,PT00105,DOC023,Joseph Moore,Oncology,2025-08-25,10:15,45,Completed,Inpatient,86,2025-08-25,2025-08-26
+APT001379,PT00131,DOC011,Michael Moore,Pediatrics,2026-03-19,12:30,45,Completed,Inpatient,61,2026-03-19,2026-03-22
+APT001380,PT00135,DOC004,Patricia Moore,Pediatrics,2025-08-19,12:30,30,Completed,Emergency,62,,
+APT001381,PT00015,DOC019,Robert Gonzalez,Oncology,2026-01-22,09:15,0,No-Show,Inpatient,,2026-01-22,2026-01-30
+APT001382,PT00276,DOC019,Robert Gonzalez,General Medicine,2025-07-22,15:15,60,Completed,Emergency,60,,
+APT001383,PT00050,DOC009,Thomas Martin,Cardiology,2026-02-12,13:15,30,Completed,Emergency,66,,
+APT001384,PT00202,DOC021,Barbara Martin,Oncology,2025-11-13,17:45,30,Completed,Emergency,94,,
+APT001385,PT00282,DOC015,Jennifer Wilson,Emergency,2026-03-17,17:30,45,Completed,Inpatient,65,2026-03-17,2026-03-23
+APT001386,PT00026,DOC004,Patricia Moore,Cardiology,2025-09-08,15:30,15,Completed,Emergency,71,,
+APT001387,PT00127,DOC023,Joseph Moore,Oncology,2025-07-23,14:00,15,Completed,Outpatient,90,,
+APT001388,PT00117,DOC020,Patricia Lopez,Pediatrics,2026-01-19,09:30,30,Completed,Inpatient,75,2026-01-19,2026-01-26
+APT001389,PT00029,DOC013,Joseph Jackson,Oncology,2025-07-04,10:30,45,Completed,Emergency,96,,
+APT001390,PT00272,DOC019,Robert Gonzalez,Emergency,2025-09-30,14:45,60,Completed,Inpatient,84,2025-09-30,2025-10-05
+APT001391,PT00168,DOC014,David Smith,Emergency,2025-09-21,15:45,45,Completed,Inpatient,80,2025-09-21,2025-09-28
+APT001392,PT00015,DOC019,Robert Gonzalez,Oncology,2025-12-05,14:15,15,Completed,Outpatient,72,,
+APT001393,PT00125,DOC012,Susan Davis,Emergency,2026-01-24,10:45,0,No-Show,Outpatient,,,
+APT001394,PT00173,DOC023,Joseph Moore,Emergency,2025-07-28,11:00,45,Completed,Emergency,81,,
+APT001395,PT00005,DOC023,Joseph Moore,Neurology,2026-02-03,10:30,30,Completed,Outpatient,67,,
+APT001396,PT00093,DOC025,Robert Moore,General Medicine,2026-02-17,10:30,60,Completed,Inpatient,90,2026-02-17,2026-02-22
+APT001397,PT00200,DOC001,Patricia Smith,Cardiology,2025-08-10,13:30,15,Completed,Emergency,66,,
+APT001398,PT00274,DOC017,John Miller,Neurology,2026-01-15,09:45,15,Cancelled,Outpatient,,,
+APT001399,PT00265,DOC013,Joseph Jackson,Oncology,2026-03-11,09:15,30,Cancelled,Outpatient,,,
+APT001400,PT00296,DOC020,Patricia Lopez,Emergency,2026-02-13,15:15,45,Cancelled,Outpatient,,,
+APT001401,PT00210,DOC009,Thomas Martin,General Medicine,2025-09-23,10:00,15,Completed,Inpatient,64,2025-09-23,2025-09-26
+APT001402,PT00129,DOC008,Michael Davis,Neurology,2026-03-03,15:30,15,Completed,Inpatient,82,2026-03-03,2026-03-10
+APT001403,PT00087,DOC012,Susan Davis,Emergency,2026-03-21,16:30,30,Completed,Outpatient,67,,
+APT001404,PT00130,DOC012,Susan Davis,General Medicine,2025-11-15,12:30,45,Completed,Emergency,87,,
+APT001405,PT00147,DOC021,Barbara Martin,Oncology,2025-12-21,10:15,15,Completed,Outpatient,64,,
+APT001406,PT00079,DOC023,Joseph Moore,Oncology,2025-11-24,15:45,15,Completed,Emergency,91,,
+APT001407,PT00204,DOC025,Robert Moore,Orthopedics,2025-11-02,10:00,60,Completed,Emergency,70,,
+APT001408,PT00099,DOC018,William Brown,Pediatrics,2026-01-11,08:00,45,Completed,Outpatient,90,,
+APT001409,PT00035,DOC020,Patricia Lopez,General Medicine,2026-01-15,13:15,45,Cancelled,Outpatient,,,
+APT001410,PT00017,DOC013,Joseph Jackson,Pediatrics,2025-10-26,12:15,30,Completed,Emergency,92,,
+APT001411,PT00170,DOC008,Michael Davis,Emergency,2025-07-07,16:00,15,Completed,Emergency,100,,
+APT001412,PT00203,DOC015,Jennifer Wilson,Oncology,2026-03-16,10:30,45,Completed,Outpatient,87,,
+APT001413,PT00131,DOC009,Thomas Martin,Neurology,2026-01-01,16:30,30,Completed,Inpatient,63,2026-01-01,2026-01-10
+APT001414,PT00244,DOC020,Patricia Lopez,Pediatrics,2025-10-20,13:15,15,Completed,Emergency,66,,
+APT001415,PT00064,DOC005,Robert Jackson,Pediatrics,2026-02-19,16:45,45,Cancelled,Emergency,,,
+APT001416,PT00291,DOC019,Robert Gonzalez,Oncology,2026-03-28,12:30,15,Completed,Outpatient,98,,
+APT001417,PT00247,DOC019,Robert Gonzalez,Neurology,2025-09-07,12:45,0,No-Show,Outpatient,,,
+APT001418,PT00071,DOC009,Thomas Martin,Oncology,2025-10-28,12:15,60,Completed,Outpatient,98,,
+APT001419,PT00138,DOC005,Robert Jackson,Orthopedics,2025-10-24,11:00,30,Completed,Outpatient,93,,
+APT001420,PT00078,DOC004,Patricia Moore,Neurology,2026-03-13,10:00,30,Completed,Outpatient,96,,
+APT001421,PT00296,DOC018,William Brown,Orthopedics,2025-09-24,10:15,15,Completed,Outpatient,67,,
+APT001422,PT00090,DOC001,Patricia Smith,Cardiology,2025-08-02,09:00,60,Completed,Inpatient,89,2025-08-02,2025-08-09
+APT001423,PT00261,DOC021,Barbara Martin,Pediatrics,2026-03-04,12:15,15,Completed,Outpatient,60,,
+APT001424,PT00191,DOC013,Joseph Jackson,General Medicine,2025-08-17,13:15,45,Completed,Emergency,75,,
+APT001425,PT00044,DOC019,Robert Gonzalez,Pediatrics,2025-07-25,11:30,30,Completed,Inpatient,86,2025-07-25,2025-08-03
+APT001426,PT00162,DOC022,David Johnson,General Medicine,2025-08-20,14:15,60,Completed,Outpatient,61,,
+APT001427,PT00002,DOC012,Susan Davis,General Medicine,2025-11-20,15:00,60,Cancelled,Emergency,,,
+APT001428,PT00170,DOC001,Patricia Smith,Neurology,2025-07-24,12:00,60,Completed,Emergency,84,,
+APT001429,PT00038,DOC001,Patricia Smith,Neurology,2026-01-18,09:15,0,No-Show,Inpatient,,2026-01-18,2026-01-20
+APT001430,PT00001,DOC015,Jennifer Wilson,Pediatrics,2025-12-13,17:45,45,Completed,Emergency,97,,
+APT001431,PT00022,DOC017,John Miller,Pediatrics,2025-07-08,14:15,60,Completed,Emergency,72,,
+APT001432,PT00151,DOC018,William Brown,Orthopedics,2026-01-10,10:45,60,Completed,Emergency,96,,
+APT001433,PT00236,DOC001,Patricia Smith,Pediatrics,2025-10-28,15:45,15,Completed,Emergency,95,,
+APT001434,PT00038,DOC012,Susan Davis,Cardiology,2026-01-06,13:45,0,No-Show,Inpatient,,2026-01-06,2026-01-09
+APT001435,PT00292,DOC015,Jennifer Wilson,Oncology,2025-07-12,09:15,15,Completed,Outpatient,68,,
+APT001436,PT00221,DOC023,Joseph Moore,General Medicine,2025-12-31,14:00,30,Completed,Emergency,93,,
+APT001437,PT00155,DOC003,Linda Jones,Pediatrics,2025-07-03,09:45,30,Completed,Emergency,83,,
+APT001438,PT00185,DOC011,Michael Moore,Pediatrics,2025-12-08,15:45,60,Cancelled,Outpatient,,,
+APT001439,PT00149,DOC023,Joseph Moore,Cardiology,2025-09-09,09:15,15,Completed,Inpatient,98,2025-09-09,2025-09-12
+APT001440,PT00207,DOC005,Robert Jackson,Oncology,2025-11-14,13:00,60,Completed,Outpatient,98,,
+APT001441,PT00231,DOC002,David Davis,General Medicine,2025-11-13,16:30,15,Completed,Inpatient,77,2025-11-13,2025-11-16
+APT001442,PT00191,DOC016,William Rodriguez,General Medicine,2025-07-24,17:15,15,Completed,Emergency,68,,
+APT001443,PT00065,DOC012,Susan Davis,Oncology,2025-07-01,14:15,15,Completed,Outpatient,63,,
+APT001444,PT00176,DOC014,David Smith,Emergency,2025-07-28,15:15,45,Completed,Outpatient,68,,
+APT001445,PT00258,DOC006,Susan Johnson,Pediatrics,2025-12-15,08:00,0,No-Show,Inpatient,,2025-12-15,2025-12-16
+APT001446,PT00265,DOC006,Susan Johnson,Orthopedics,2025-11-12,14:00,30,Completed,Outpatient,65,,
+APT001447,PT00200,DOC018,William Brown,General Medicine,2026-01-08,16:00,45,Completed,Outpatient,63,,
+APT001448,PT00047,DOC004,Patricia Moore,Pediatrics,2026-01-07,15:00,30,Cancelled,Emergency,,,
+APT001449,PT00045,DOC011,Michael Moore,Orthopedics,2026-02-04,15:00,30,Completed,Outpatient,83,,
+APT001450,PT00292,DOC005,Robert Jackson,Orthopedics,2025-07-23,08:00,45,Completed,Outpatient,87,,
+APT001451,PT00248,DOC009,Thomas Martin,Neurology,2025-08-14,12:30,0,No-Show,Emergency,,,
+APT001452,PT00151,DOC008,Michael Davis,General Medicine,2025-09-11,17:15,60,Completed,Emergency,89,,
+APT001453,PT00212,DOC012,Susan Davis,Orthopedics,2025-11-09,17:15,15,Completed,Inpatient,67,2025-11-09,2025-11-16
+APT001454,PT00104,DOC010,James Moore,General Medicine,2025-08-12,12:30,15,Completed,Emergency,64,,
+APT001455,PT00024,DOC005,Robert Jackson,Emergency,2026-01-23,12:15,60,Completed,Outpatient,64,,
+APT001456,PT00185,DOC015,Jennifer Wilson,Emergency,2026-03-26,14:00,30,Completed,Outpatient,81,,
+APT001457,PT00208,DOC009,Thomas Martin,Pediatrics,2026-02-08,12:30,30,Completed,Inpatient,88,2026-02-08,2026-02-12
+APT001458,PT00258,DOC007,James Williams,Pediatrics,2025-12-03,12:45,60,Cancelled,Inpatient,,2025-12-03,2025-12-07
+APT001459,PT00277,DOC002,David Davis,Emergency,2025-12-19,13:45,60,Completed,Inpatient,77,2025-12-19,2025-12-20
+APT001460,PT00181,DOC003,Linda Jones,Emergency,2026-01-20,17:00,15,Completed,Emergency,71,,
+APT001461,PT00277,DOC011,Michael Moore,General Medicine,2025-12-14,17:00,15,Completed,Inpatient,100,2025-12-14,2025-12-19
+APT001462,PT00052,DOC003,Linda Jones,Cardiology,2026-02-22,13:30,30,Completed,Inpatient,66,2026-02-22,2026-02-23
+APT001463,PT00228,DOC022,David Johnson,Oncology,2025-07-28,14:30,15,Completed,Outpatient,70,,
+APT001464,PT00120,DOC011,Michael Moore,General Medicine,2025-11-15,09:15,15,Completed,Outpatient,71,,
+APT001465,PT00094,DOC015,Jennifer Wilson,Emergency,2025-12-30,08:15,0,No-Show,Outpatient,,,
+APT001466,PT00214,DOC025,Robert Moore,General Medicine,2025-07-26,10:30,30,Completed,Outpatient,81,,
+APT001467,PT00133,DOC015,Jennifer Wilson,Neurology,2025-12-21,15:15,15,Completed,Inpatient,62,2025-12-21,2025-12-29
+APT001468,PT00238,DOC020,Patricia Lopez,Pediatrics,2025-07-26,08:15,45,Cancelled,Emergency,,,
+APT001469,PT00034,DOC002,David Davis,Cardiology,2026-01-18,12:00,30,Completed,Emergency,99,,
+APT001470,PT00105,DOC023,Joseph Moore,Pediatrics,2025-08-30,14:00,30,Completed,Inpatient,68,2025-08-30,2025-08-31
+APT001471,PT00146,DOC003,Linda Jones,Cardiology,2025-12-01,17:15,45,Completed,Outpatient,74,,
+APT001472,PT00280,DOC012,Susan Davis,Emergency,2025-11-02,17:30,0,No-Show,Emergency,,,
+APT001473,PT00076,DOC002,David Davis,Emergency,2026-01-15,17:00,60,Completed,Outpatient,86,,
+APT001474,PT00010,DOC013,Joseph Jackson,Pediatrics,2026-02-05,09:45,15,Cancelled,Emergency,,,
+APT001475,PT00225,DOC016,William Rodriguez,Emergency,2025-07-23,10:15,45,Completed,Outpatient,90,,
+APT001476,PT00100,DOC019,Robert Gonzalez,General Medicine,2025-11-25,08:00,30,Completed,Emergency,83,,
+APT001477,PT00202,DOC016,William Rodriguez,Oncology,2026-01-10,08:15,45,Completed,Outpatient,81,,
+APT001478,PT00083,DOC021,Barbara Martin,Emergency,2025-07-06,12:15,45,Completed,Outpatient,84,,
+APT001479,PT00201,DOC006,Susan Johnson,Emergency,2025-08-24,17:15,30,Completed,Inpatient,71,2025-08-24,2025-08-25
+APT001480,PT00114,DOC010,James Moore,Emergency,2025-08-18,14:00,15,Completed,Emergency,62,,
+APT001481,PT00183,DOC008,Michael Davis,Cardiology,2026-01-28,09:00,30,Completed,Outpatient,60,,
+APT001482,PT00197,DOC013,Joseph Jackson,Oncology,2025-10-21,13:45,45,Completed,Emergency,60,,
+APT001483,PT00172,DOC025,Robert Moore,Pediatrics,2026-02-16,10:45,15,Completed,Emergency,71,,
+APT001484,PT00160,DOC006,Susan Johnson,Oncology,2025-07-24,08:15,30,Completed,Outpatient,86,,
+APT001485,PT00235,DOC012,Susan Davis,Emergency,2026-03-24,17:15,15,Completed,Inpatient,89,2026-03-24,2026-03-22
+APT001486,PT00228,DOC004,Patricia Moore,Cardiology,2025-12-24,16:00,0,No-Show,Outpatient,,,
+APT001487,PT00093,DOC007,James Williams,Oncology,2025-09-25,13:00,15,Completed,Emergency,70,,
+APT001488,PT00268,DOC019,Robert Gonzalez,Oncology,2025-07-03,09:00,60,Completed,Emergency,66,,
+APT001489,PT00258,DOC014,David Smith,Orthopedics,2026-04-01,17:30,15,Completed,Emergency,95,,
+APT001490,PT00292,DOC024,Patricia Gonzalez,Oncology,2026-02-26,16:00,60,Completed,Emergency,66,,
+APT001491,PT00026,DOC025,Robert Moore,General Medicine,2025-12-21,17:15,0,No-Show,Inpatient,,2025-12-21,2025-12-30
+APT001492,PT00193,DOC020,Patricia Lopez,Orthopedics,2026-03-18,16:30,0,No-Show,Inpatient,,2026-03-18,2026-03-21
+APT001493,PT00160,DOC002,David Davis,Neurology,2025-08-19,15:15,30,Cancelled,Outpatient,,,
+APT001494,PT00001,DOC002,David Davis,Orthopedics,2025-10-18,10:15,30,Completed,Emergency,68,,
+APT001495,PT00031,DOC009,Thomas Martin,Cardiology,2025-11-20,09:45,15,Completed,Inpatient,73,2025-11-20,2025-11-23
+APT001496,PT00185,DOC019,Robert Gonzalez,Pediatrics,2025-10-09,10:00,15,Completed,Emergency,68,,
+APT001497,PT00107,DOC002,David Davis,Emergency,2025-09-15,15:30,60,Completed,Outpatient,68,,
+APT001498,PT00066,DOC023,Joseph Moore,Cardiology,2025-11-02,16:00,30,Completed,Outpatient,62,,
+APT001499,PT00214,DOC011,Michael Moore,Cardiology,2026-01-25,13:15,15,Completed,Outpatient,60,,
+APT001500,PT00226,DOC015,Jennifer Wilson,Oncology,2025-12-30,10:00,30,Completed,Emergency,66,,
